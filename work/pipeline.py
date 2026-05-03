@@ -140,7 +140,7 @@ def week2_pipeline(episodes: dict[str, str]) -> dict[str, str]:
 # 1. Reduplication 
 
 REDUPLICATIONS_RE = re.compile(
-    r'\b(\w{2,})-\1\b',
+    r'\b(\w{2,})[- ]\1\b',
     re.UNICODE | re.IGNORECASE
 )
 

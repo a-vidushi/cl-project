@@ -220,7 +220,7 @@ def run(transcript_path: str) -> dict:
 
     # Load corpus
     episodes_raw   = load_transcripts(transcript_path)
-    episode_order  = ["February 2026", "January 2026", "December 2025"]
+    episode_order  = list(episodes_raw.keys())
 
     # Load Stanza
     print("\nLoading Stanza Hindi pipeline …")
@@ -307,5 +307,5 @@ def run(transcript_path: str) -> dict:
 
 
 if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else "/home/claude/transcripts_raw.txt"
+    path = sys.argv[1] if len(sys.argv) > 1 else "/Users/vidushi_agarwal/College/UG1-2/CL-1/proj/midsub/transcripts_raw.txt"
     run(path)

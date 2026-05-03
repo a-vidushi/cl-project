@@ -13,10 +13,15 @@ def load_transcripts(path: str) -> dict[str, str]:
     # re.split with a capturing group interleaves labels into the result list:
     # [pre, label1, body1, label2, body2, label3, body3]
     parts = re.split(r'\*\*(February 2026|January 2026|December 2025)\*\*', raw)
-    # parts[1], parts[3], parts[5] are the labels; [2],[4],[6] are the bodies
-    labels  = parts[1::2]
-    bodies  = parts[2::2]
-    return {lbl.strip(): body for lbl, body in zip(labels, bodies)}
+    if len(parts) > 1:
+        # parts[1], parts[3], parts[5] are the labels; [2],[4],[6] are the bodies
+        labels  = parts[1::2]
+        bodies  = parts[2::2]
+        return {lbl.strip(): body for lbl, body in zip(labels, bodies)}
+    else:
+        filename = os.path.basename(path)
+        return {filename: raw}
+
 
 
 # WEEK 1 – CORPUS EXPLORATION & UTF-8 VALIDATION
@@ -315,7 +320,7 @@ def run(transcript_path: str) -> dict:
 
     # Load
     episodes_raw = load_transcripts(transcript_path)
-    episode_order = ["February 2026", "January 2026", "December 2025"]
+    episode_order = list(episodes_raw.keys())
 
     results = {}
 
@@ -357,8 +362,9 @@ def run(transcript_path: str) -> dict:
           else f"⚠ {w1['TOTAL']['invalid_unicode']} invalid Unicode code points found.")
 
     # Sample sentence tokenisation
-    print("\nSample sentence boundaries (February 2026, first 5):")
-    feb_pre = preprocess(episodes_raw["February 2026"])
+    first_ep = episode_order[0]
+    print(f"\nSample sentence boundaries ({first_ep}, first 5):")
+    feb_pre = preprocess(episodes_raw[first_ep])
     sents = [s.strip() for s in re.split(r'[.?!]', feb_pre) if s.strip()][:5]
     for i, s in enumerate(sents, 1):
         print(f"  [{i}] {s[:80]}{'…' if len(s) > 80 else ''}")
