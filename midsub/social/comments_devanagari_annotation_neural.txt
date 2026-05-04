@@ -1,440 +1,440 @@
 T1_001
-टूल kitiya गैंग सक्रिय कही भी कुछ नहीं.
+ṭūl kitiya gaiṃg sakriy kahī bhī kuch nahīṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_002
-●कुछ लोगों को 11वर्ष पहले जीर्ण कृच्छ साध्य- विवन्ध (कब्ज , Cons tipation) हूआ था.
+●kuch lōgōṃ kō 11varṣ pahalē jīrṇ kr̥cch sādhy- vivandh (kabj , Cons tipation) hūā thā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_003
-एक नाडी-कुशल वैद्य ने निदान कर उन्हें औषधि बतायी.
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (नाडी-कुशल)
+ēk nāḍī-kuśal vaidy nē nidān kar unhēṃ auṣadhi batāyī.
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (nāḍī-kuśal)
 
 T1_004
-"हर 48 घंटे पर "मोदी इस्तीफा देने जा रहे "
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (देने+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+"har 48 ghaṃṭē par "mōdī istīphā dēnē jā rahē "
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dēnē+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_005
-या *गुजराती लाबी जेल जाने की तैयारी में" थम्बनेल वाले पॉडकास्ट जारी करते रहो .
+yā *gujarātī lābī jēl jānē kī taiyārī mēṃ" thambanēl vālē pḍakāsṭ jārī karatē rahō .
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_006
-खुलकर शौच हो जायेगा.
-Reduplication: 0 | Conjunctive Verb: 1 (खुलकर) | Compound Verb: 2 (खुलकर+जायेगा, हो+जायेगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+khulakar śauc hō jāyēgā.
+Reduplication: 0 | Conjunctive Verb: 1 (khulakar) | Compound Verb: 2 (khulakar+jāyēgā, hō+jāyēgā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_007
-¶तबसे वे यह दवा नियमित ले रहे हैं.
+¶tabasē vē yah davā niyamit lē rahē haiṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_008
-कदाचित् भूल जायें तो दशा शोचनीय (=हालत ख़राब) हो जाती है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (भूल+जायें, हो+जाती) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+kadācit bhūl jāyēṃ tō daśā śōcanīy (=hālat k͟harāb) hō jātī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (bhūl+jāyēṃ, hō+jātī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_009
-सभी राष्ट्रभक्तो से निवेदन है कि उनकी व्याधि को समझें और मरीज़ के प्रति सहा नुभूति प्रदर्शित करें.
-Reduplication: 0 | Conjunctive Verb: 1 (करें) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+sabhī rāṣṭrabhaktō sē nivēdan hai ki unakī vyādhi kō samajhēṃ aur marīz kē prati sahā nubhūti pradarśit karēṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (karēṃ) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_010
-सच्चाई छुप नहीं सकती कभी बनावट के उसूलों से खुशबू आ नहीं सकती कभी कागज के फूलों से यह तो बहुत खुशी की बात है धन्यवाद शुक्रिया प्रभु सद्बुद्धि आएगी प्रधानमंत्री निष्ठा का दे दिया बहुत खुशी की बात है राधे राधे इसतिफा दिया तो अच्छे दिन जरूर आयेंगे आज कौन सी तारीख है,ये समाचार कब का है शर्म करो कौन सा महीना चल रहा है D
-Reduplication: 2 (दे-दिया, राधे-राधे) | Conjunctive Verb: 1 (करो) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+saccāī chup nahīṃ sakatī kabhī banāvaṭ kē usūlōṃ sē khuśabū ā nahīṃ sakatī kabhī kāgaj kē phūlōṃ sē yah tō bahut khuśī kī bāt hai dhanyavād śukriyā prabhu sadbuddhi āēgī pradhānamaṃtrī niṣṭhā kā dē diyā bahut khuśī kī bāt hai rādhē rādhē isatiphā diyā tō acchē din jarūr āyēṃgē āj kaun sī tārīkh hai,yē samācār kab kā hai śarm karō kaun sā mahīnā cal rahā hai D
+Reduplication: 2 (dē-diyā, rādhē-rādhē) | Conjunctive Verb: 1 (karō) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_011
-r c सिरोही जिला राजस्थान से यह सब कुछ सस है तो देश बस गया अभी 1 साल पुराना बात है बिलकुल ताज़ा खबर के लिएबधाई ये किसने कह दिया कि फिर शपथ लेंगे?
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बस+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+r c sirōhī jilā rājasthān sē yah sab kuch sas hai tō dēś bas gayā abhī 1 sāl purānā bāt hai bilakul tāzā khabar kē liēbadhāī yē kisanē kah diyā ki phir śapath lēṃgē?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (bas+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_012
-बहुत खूब अब खेल शुरू होगा समय का अच्छी बात है जो होता है अच्छे के लिए होता है किसी के लिए कर ना शक तो उसको भोगना पड़ेगा मैने सोचा की अच्छे दिन आ गए Ye to खुश खबरी सुना दी बहुत सुन्दर good बुरे दिन जायेगे बहुत खुशी की बात है खुशी की बात है सत्यमेव जयते अब तो बारिस बंद हो जाएगी हवा बंद हो जाएगी अब देश कैसे जियेगा बहुत सही हुओ बहुत सुन्दर किया है भाई साहब तो जब तक जान है तब तक मैं सता पे रहेगा देश बच गया बहुत बहुत बहुत खुशी की बात है अब देश का भला होगा बहुत अच्छा हुआ .
-Reduplication: 2 (बहुत-बहुत, बहुत-बहुत) | Conjunctive Verb: 1 (कर) | Compound Verb: 6 (भोगना+पड़ेगा, आ+गए, हो+जाएगी, हो+जाएगी, रहेगा+गया, बच+गया) | Honorific: 0 | Acronym: 0 | MWE: 2 (अच्छे लिए, किसी लिए) | Hyphen Pair: 0
+bahut khūb ab khēl śurū hōgā samay kā acchī bāt hai jō hōtā hai acchē kē liē hōtā hai kisī kē liē kar nā śak tō usakō bhōganā paṛēgā mainē sōcā kī acchē din ā gaē Ye to khuś khabarī sunā dī bahut sundar good burē din jāyēgē bahut khuśī kī bāt hai khuśī kī bāt hai satyamēv jayatē ab tō bāris baṃd hō jāēgī havā baṃd hō jāēgī ab dēś kaisē jiyēgā bahut sahī huō bahut sundar kiyā hai bhāī sāhab tō jab tak jān hai tab tak maiṃ satā pē rahēgā dēś bac gayā bahut bahut bahut khuśī kī bāt hai ab dēś kā bhalā hōgā bahut acchā huā .
+Reduplication: 2 (bahut-bahut, bahut-bahut) | Conjunctive Verb: 1 (kar) | Compound Verb: 6 (bhōganā+paṛēgā, ā+gaē, hō+jāēgī, hō+jāēgī, rahēgā+gayā, bac+gayā) | Honorific: 0 | Acronym: 0 | MWE: 2 (acchē liē, kisī liē) | Hyphen Pair: 0
 
 T1_013
-डर के समाने कुछ भी हो सकता है चुनाव के पहले ही मोदी जी का इस्तेमा लेना चाहिये था फिर निवडणूक लेना चाहिये था बहुत हि मन को धक्का लगा ये सुनकर .
-Reduplication: 0 | Conjunctive Verb: 1 (सुनकर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+ḍar kē samānē kuch bhī hō sakatā hai cunāv kē pahalē hī mōdī jī kā istēmā lēnā cāhiyē thā phir nivaḍaṇūk lēnā cāhiyē thā bahut hi man kō dhakkā lagā yē sunakar .
+Reduplication: 0 | Conjunctive Verb: 1 (sunakar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_014
-अरे यार शपथ लेने से पहले इस्तिफा देना पड़ता है बहुत खुशी हुई एक वर्षा पूर्वीची बातमी आता कश्याला परत परत सांगता.
-Reduplication: 1 (परत-परत) | Conjunctive Verb: 0 | Compound Verb: 1 (देना+पड़ता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+arē yār śapath lēnē sē pahalē istiphā dēnā paṛatā hai bahut khuśī huī ēk varṣā pūrvīcī bātamī ātā kaśyālā parat parat sāṃgatā.
+Reduplication: 1 (parat-parat) | Conjunctive Verb: 0 | Compound Verb: 1 (dēnā+paṛatā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_015
-आता राजिनामा दिला तर जनता पेढे वाटतील सगळीकडे.
+ātā rājināmā dilā tar janatā pēḍhē vāṭatīl sagaळīkaḍē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_016
-बहुत अच्छा हुआ मज़ा आया बोहोत अच्छा हुआ किसान के साथ पंगा महँगा पड़ा क्यों ना फिर से आज़ादी का जश्न मनाया जाये कुछ सस्ता न करे , सिर्फ गरीबों का पैसा वापस कर लैते तो , अच्छा बहुमत हासिल करते,पर‌ नही, कितने ऐजेंट ने आत्महत्या कर ली,पर कोई फर्क नहीं पड़ता है कुछ भी कभी का कहां मोदी जी आपके रहते हुए अच्छे दिन की जो उम्मीद थी वो तो नहीं आये लेकिन जो पहले दिन थे उससे bhi बदत्तर दिन आ गए,, आपका धन्यवाद जो आपने इस्तीफा दिया,, देश पर यही एहसान होगा 1 साल पहलेकी खबर है आनंदा चि बातमि ये भी जुमला ही होगा खाओ मा कसम झूठ खबर है a
-Reduplication: 0 | Conjunctive Verb: 3 (करे, कर, कर) | Compound Verb: 2 (मनाया+जाये, आ+गए) | Honorific: 3 (आपके [formal], आपका [formal], आपने [formal]) | Acronym: 0 | MWE: 1 (किसान साथ) | Hyphen Pair: 0
+bahut acchā huā mazā āyā bōhōt acchā huā kisān kē sāth paṃgā maham̐gā paṛā kyōṃ nā phir sē āzādī kā jaśn manāyā jāyē kuch sastā n karē , sirph garībōṃ kā paisā vāpas kar laitē tō , acchā bahumat hāsil karatē,par‌ nahī, kitanē aijēṃṭ nē ātmahatyā kar lī,par kōī phark nahīṃ paṛatā hai kuch bhī kabhī kā kahāṃ mōdī jī āpakē rahatē huē acchē din kī jō ummīd thī vō tō nahīṃ āyē lēkin jō pahalē din thē usasē bhi badattar din ā gaē,, āpakā dhanyavād jō āpanē istīphā diyā,, dēś par yahī ēhasān hōgā 1 sāl pahalēkī khabar hai ānaṃdā ci bātami yē bhī jumalā hī hōgā khāō mā kasam jhūṭh khabar hai a
+Reduplication: 0 | Conjunctive Verb: 3 (karē, kar, kar) | Compound Verb: 2 (manāyā+jāyē, ā+gaē) | Honorific: 3 (āpakē [formal], āpakā [formal], āpanē [formal]) | Acronym: 0 | MWE: 1 (kisān sāth) | Hyphen Pair: 0
 
 T1_017
-1साल पुराने vidio है.
+1sāl purānē vidio hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_018
-जो हो रहा है, शायद सही ही हो रहा होगा.
+jō hō rahā hai, śāyad sahī hī hō rahā hōgā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_019
-गयी पनौती !मानो या न मानो अच्छे दीन जरूर आयेगें !
+gayī panautī !mānō yā n mānō acchē dīn jarūr āyēgēṃ !
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_020
-वलकर जमा करा मोदी को बोलो होला उठा ले निकल ले यहांसे चुपचाप फासी कब होगी परत मोदी सारखा पंतप्रधान होने नाही नहीं नहीं ये भी उसकी चल है फिर उसकी पार्टी जीतेगी कहीं ये फेंक वीडियो तो नहीं झूठी खबरें क्यों देते हो अबी 25 में किसान सबक़ और सिखाएगा आजादी आजादी आजादी जय श्री राम जय श्री कृष्णा गलत समाचार दिखा कर क्या दिखाना चाहते है.
-Reduplication: 3 (नहीं-नहीं, आजादी-आजादी, आजादी-आजादी) | Conjunctive Verb: 1 (करा) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+valakar jamā karā mōdī kō bōlō hōlā uṭhā lē nikal lē yahāṃsē cupacāp phāsī kab hōgī parat mōdī sārakhā paṃtapradhān hōnē nāhī nahīṃ nahīṃ yē bhī usakī cal hai phir usakī pārṭī jītēgī kahīṃ yē phēṃk vīḍiyō tō nahīṃ jhūṭhī khabarēṃ kyōṃ dētē hō abī 25 mēṃ kisān sabaq aur sikhāēgā ājādī ājādī ājādī jay śrī rām jay śrī kr̥ṣṇā galat samācār dikhā kar kyā dikhānā cāhatē hai.
+Reduplication: 3 (nahīṃ-nahīṃ, ājādī-ājādī, ājādī-ājādī) | Conjunctive Verb: 1 (karā) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_021
-ऐसे समाचार मत दिखाओ झूठी न्यूज़ शर्म आनी चाहिए इस्तीफा देगा तब न तीसरा टर्म का शपत लेंगे मोदी इस्तीफा ठाकुरो ने राजनीति ख़त्म कर दी भाजपा की पुराना वीडियोप्रस्तुत कर अपना और पब्लिक का समय क्यों बर्बाद कर रहे हो.
-Reduplication: 0 | Conjunctive Verb: 3 (कर, कर, कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+aisē samācār mat dikhāō jhūṭhī nyūz śarm ānī cāhiē istīphā dēgā tab n tīsarā ṭarm kā śapat lēṃgē mōdī istīphā ṭhākurō nē rājanīti k͟hatm kar dī bhājapā kī purānā vīḍiyōprastut kar apanā aur pablik kā samay kyōṃ barbād kar rahē hō.
+Reduplication: 0 | Conjunctive Verb: 3 (kar, kar, kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_022
-मेरा दिल अंतर आत्मा को शुकून मिला मज़ा आ गया हमारे को प्रधानमंत्री हमारा राहुल गांधी चाहिए मुर्मू को इस्तीफा मिला है
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (मिला+गया, आ+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+mērā dil aṃtar ātmā kō śukūn milā mazā ā gayā hamārē kō pradhānamaṃtrī hamārā rāhul gāṃdhī cāhiē murmū kō istīphā milā hai
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (milā+gayā, ā+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_023
-मोदी को नहीं काहे को फैकम फेक न्यूज़ लेट हो रे ये कभी कि खबर है शायद पुराणी है जनता को ये पागल समस्ती है जय श्री राम जय जय श्री राम मोदीजी को लाओ देश बचाओ मोदीजी के राज और योगी आदित्यनाथ जी महाराज के राज में हम सुरक्षित है ओर तों सब गुंडा राज हैं हम सब सुरक्षित रहेंगे तो थोड़ा भी खा लेंगे जय श्री राम फेक न्यूज मत डालो‌ और लोगों की भावनाओं से मत खेलो. सभी झूटी खबरे है.
-Reduplication: 1 (जय-जय) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+mōdī kō nahīṃ kāhē kō phaikam phēk nyūz lēṭ hō rē yē kabhī ki khabar hai śāyad purāṇī hai janatā kō yē pāgal samastī hai jay śrī rām jay jay śrī rām mōdījī kō lāō dēś bacāō mōdījī kē rāj aur yōgī ādityanāth jī mahārāj kē rāj mēṃ ham surakṣit hai ōr tōṃ sab guṃḍā rāj haiṃ ham sab surakṣit rahēṃgē tō thōṛā bhī khā lēṃgē jay śrī rām phēk nyūj mat ḍālō‌ aur lōgōṃ kī bhāvanāōṃ sē mat khēlō. sabhī jhūṭī khabarē hai.
+Reduplication: 1 (jay-jay) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_024
-बुध्दि बाली पोस्ट डालों बोहोत बढिया हूआ झोला ले के चल पडो बासी न्यूज है सच में इस्तीफा देने की देश पर कृपा कर रहे हैँ,, प्रधानमंत्री राहुल गांधी को बनाना चाहिए एक साल पुरानी खबर का वीडीओ है.
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 2 (ले+पडो, चल+पडो) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+budhdi bālī pōsṭ ḍālōṃ bōhōt baḍhiyā hūā jhōlā lē kē cal paḍō bāsī nyūj hai sac mēṃ istīphā dēnē kī dēś par kr̥pā kar rahē haim̐,, pradhānamaṃtrī rāhul gāṃdhī kō banānā cāhiē ēk sāl purānī khabar kā vīḍīō hai.
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 2 (lē+paḍō, cal+paḍō) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_025
-चुनाव के बाद नई सरकार के पहले यही प्रावधान है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (चुनाव बाद) | Hyphen Pair: 0
+cunāv kē bād naī sarakār kē pahalē yahī prāvadhān hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (cunāv bād) | Hyphen Pair: 0
 
 T1_026
-तब तो कोई बवाल नहीं था जनता के मन में.
+tab tō kōī bavāl nahīṃ thā janatā kē man mēṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_027
-इन्होंने हिंदू जगाया है तो हिन्दू भी चुप नहीं बैठेगा 2027 में.
+inhōṃnē hiṃdū jagāyā hai tō hindū bhī cup nahīṃ baiṭhēgā 2027 mēṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_028
-भारत की सबसे बड़ी खुशी की बात भाजपा गई सबके पास मोहब्बत की दुकान मैडम सरकार बनके साल से ज्यादा हो गया.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bhārat kī sabasē baṛī khuśī kī bāt bhājapā gaī sabakē pās mōhabbat kī dukān maiḍam sarakār banakē sāl sē jyādā hō gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_029
-सच पूछो तो दस साल के कार्यकाल में पहली बार अच्छा काम किया है ये कितना सही बता रहे चैनल वाले ये तो पता नही,पर लोकतंत्र की हम तो जीत ही मानेंगें .
+sac pūchō tō das sāl kē kāryakāl mēṃ pahalī bār acchā kām kiyā hai yē kitanā sahī batā rahē cainal vālē yē tō patā nahī,par lōkataṃtr kī ham tō jīt hī mānēṃgēṃ .
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_030
-और नफरत की बाजार में मुहब्बत की दुकान इस देश मे सजेंगी झुटी अफवाह बकवास पुरानी खबर इसने इराक में रूस में इसने दोस्ती करके नहीं डीजल पेट्रोल गैस बंद करवा दी सभी किसान लोग घबरा रहे हैं 3500 में सिलेंडर मिला है तो लड़ी है नहीं किस पर रोक चल रही है लड़कियों का सिलेंडर भी महंगा हो गया यह मोदी को सरकार से निकले बहुत ही दुखद बात देश के लिए नुकसान हैं में पुनः मोदी सर से अगरह करता हूँ
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (देश लिए) | Hyphen Pair: 0
+aur napharat kī bājār mēṃ muhabbat kī dukān is dēś mē sajēṃgī jhuṭī aphavāh bakavās purānī khabar isanē irāk mēṃ rūs mēṃ isanē dōstī karakē nahīṃ ḍījal pēṭrōl gais baṃd karavā dī sabhī kisān lōg ghabarā rahē haiṃ 3500 mēṃ silēṃḍar milā hai tō laṛī hai nahīṃ kis par rōk cal rahī hai laṛakiyōṃ kā silēṃḍar bhī mahaṃgā hō gayā yah mōdī kō sarakār sē nikalē bahut hī dukhad bāt dēś kē liē nukasān haiṃ mēṃ punaḥ mōdī sar sē agarah karatā hūm̐
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+gayā) | Honorific: 0 | Acronym: 0 | MWE: 1 (dēś liē) | Hyphen Pair: 0
 
 T1_031
-देश में आपकी जरूरत है या अगला राष्ट्रपति के लिए तैयारी करने की जरूरत है आयेगा तो अबकी बार कई पट्टे और लगाम पहने आयेगा बहुत अच्छी बात है, तानाशाह गया ,अहंकार गया, भगवान जो करता है अच्छा करता है,देश बेच कर चला गया, पनुती पनुति पनीति एक सेकंड का बी चेहरा नही देखता में मनुस्मृति जलाने वाले को भारत रत्न अवॉर्ड देकर मोदी सरकार ने ऐतिहासिक भूल की है अब अम्बेडकर वादी ही मोदी सरकार को वोट देगा कोई मानवता वादी नहीं.
-Reduplication: 0 | Conjunctive Verb: 1 (देकर) | Compound Verb: 3 (पहने+आयेगा, बेच+गया, चला+गया) | Honorific: 1 (आपकी [formal]) | Acronym: 0 | MWE: 1 (राष्ट्रपति लिए) | Hyphen Pair: 0
+dēś mēṃ āpakī jarūrat hai yā agalā rāṣṭrapati kē liē taiyārī karanē kī jarūrat hai āyēgā tō abakī bār kaī paṭṭē aur lagām pahanē āyēgā bahut acchī bāt hai, tānāśāh gayā ,ahaṃkār gayā, bhagavān jō karatā hai acchā karatā hai,dēś bēc kar calā gayā, panutī panuti panīti ēk sēkaṃḍ kā bī cēharā nahī dēkhatā mēṃ manusmr̥ti jalānē vālē kō bhārat ratn avrḍ dēkar mōdī sarakār nē aitihāsik bhūl kī hai ab ambēḍakar vādī hī mōdī sarakār kō vōṭ dēgā kōī mānavatā vādī nahīṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkar) | Compound Verb: 3 (pahanē+āyēgā, bēc+gayā, calā+gayā) | Honorific: 1 (āpakī [formal]) | Acronym: 0 | MWE: 1 (rāṣṭrapati liē) | Hyphen Pair: 0
 
 T1_032
-भारत के लिए बहुत दुःखद है मोदी जी को इस्तीफा नहीं देना चाहिए अच्छी बात है जरा लाज ठेवा जूने पागल पंती की भी हद है कहा से लाती हो ये न्यूज़ कहाँ है अन्धभक्त तीसरी बार फिर से मोदी सरकार क्यों बेवकूफ बना रही हो बीजेपी और इस्तीफा पूरा देश बकनबेकने के बाद झोला उठा कर भागेगा मोदी था मोदी है मोदी रहेगा हर हर मोदी घर घर मोदी मोदी पीएम बना था मोदी पीएम बनेगा मोदी जी के सरकार ने तेल के भाव 150 के गेहूं का भाव 140 क किया गरीबों का क्या होगामोदी जी राशन प्रधानमंत्री कोई भी बने लेकिन जनता की राय यह है राशन के और गरीबों के अनाज के भाव कम किया जाए गरीब से गरीब तेल और गेहूं चावल खरीद के अपना घर चला पाए लड़की बहन योजना के पैसे देकर राशन के दामों में बढ़ोतरी की हम आम जनता गरीब जनताहै आप जैसे बड़े चैनल से इतनी उम्मीद नही थी की इतनी घाटीया सोच लेकर आप खबर देखते है झूठ की हद होती है आज से इस चैनल से विश्वास उठ गया मोदी को लाओ देश बचाओ टूट जायेगा देश मोदी जायेगा तो.
-Reduplication: 3 (हर-हर, घर-घर, मोदी-मोदी) | Conjunctive Verb: 2 (देकर, लेकर) | Compound Verb: 4 (किया+जाए, उठ+गया, बचाओ+जायेगा, टूट+जायेगा) | Honorific: 2 (आप [formal], आप [formal]) | Acronym: 0 | MWE: 1 (भारत लिए) | Hyphen Pair: 0
+bhārat kē liē bahut duḥkhad hai mōdī jī kō istīphā nahīṃ dēnā cāhiē acchī bāt hai jarā lāj ṭhēvā jūnē pāgal paṃtī kī bhī had hai kahā sē lātī hō yē nyūz kahām̐ hai andhabhakt tīsarī bār phir sē mōdī sarakār kyōṃ bēvakūph banā rahī hō bījēpī aur istīphā pūrā dēś bakanabēkanē kē bād jhōlā uṭhā kar bhāgēgā mōdī thā mōdī hai mōdī rahēgā har har mōdī ghar ghar mōdī mōdī pīēm banā thā mōdī pīēm banēgā mōdī jī kē sarakār nē tēl kē bhāv 150 kē gēhūṃ kā bhāv 140 k kiyā garībōṃ kā kyā hōgāmōdī jī rāśan pradhānamaṃtrī kōī bhī banē lēkin janatā kī rāy yah hai rāśan kē aur garībōṃ kē anāj kē bhāv kam kiyā jāē garīb sē garīb tēl aur gēhūṃ cāval kharīd kē apanā ghar calā pāē laṛakī bahan yōjanā kē paisē dēkar rāśan kē dāmōṃ mēṃ baṛhōtarī kī ham ām janatā garīb janatāhai āp jaisē baṛē cainal sē itanī ummīd nahī thī kī itanī ghāṭīyā sōc lēkar āp khabar dēkhatē hai jhūṭh kī had hōtī hai āj sē is cainal sē viśvās uṭh gayā mōdī kō lāō dēś bacāō ṭūṭ jāyēgā dēś mōdī jāyēgā tō.
+Reduplication: 3 (har-har, ghar-ghar, mōdī-mōdī) | Conjunctive Verb: 2 (dēkar, lēkar) | Compound Verb: 4 (kiyā+jāē, uṭh+gayā, bacāō+jāyēgā, ṭūṭ+jāyēgā) | Honorific: 2 (āp [formal], āp [formal]) | Acronym: 0 | MWE: 1 (bhārat liē) | Hyphen Pair: 0
 
 T1_033
-जो कभी सोचा ना हो गा वो होगा देश में गरीब एजेंट तो वैसे भी मर रहे हैं, क्या फर्क पड़ता है, फिर झूठ बोल रही हो, सत्य बोलने से क्या आप को मोदी मना कर रहा है.
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+jō kabhī sōcā nā hō gā vō hōgā dēś mēṃ garīb ējēṃṭ tō vaisē bhī mar rahē haiṃ, kyā phark paṛatā hai, phir jhūṭh bōl rahī hō, saty bōlanē sē kyā āp kō mōdī manā kar rahā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 0 | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_034
-यदि स्तीफा नहीं दिया तो तुमको हजारों गाली सहना पड़ेगा.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (सहना+पड़ेगा) | Honorific: 1 (तुमको [intimate]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+yadi stīphā nahīṃ diyā tō tumakō hajārōṃ gālī sahanā paṛēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (sahanā+paṛēgā) | Honorific: 1 (tumakō [intimate]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_035
-लगता है भारत देश को अच्छी बात है फेंक न्यूज चंद्र शेखर आजाद रावण अगला पीएम ये झूठ हैझूथ है झूठ है देश बरबाद हो जाएगा देश All ready बरबाद है मोदी हठाऔ देश बचाओ मोदीजी के बाद योगी आदित्यनाथ जी को प्रधानमंत्री देखना चाहते है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 1 (मोदीजी बाद) | Hyphen Pair: 0
+lagatā hai bhārat dēś kō acchī bāt hai phēṃk nyūj caṃdr śēkhar ājād rāvaṇ agalā pīēm yē jhūṭh haijhūth hai jhūṭh hai dēś barabād hō jāēgā dēś All ready barabād hai mōdī haṭhāau dēś bacāō mōdījī kē bād yōgī ādityanāth jī kō pradhānamaṃtrī dēkhanā cāhatē hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+jāēgā) | Honorific: 0 | Acronym: 0 | MWE: 1 (mōdījī bād) | Hyphen Pair: 0
 
 T1_036
-गया ज़ालिम नफरती हारा मोदी हे गरिबाचं सरकार नवत कांग्रेस अभी पीछे है अगर इंडिया गठबंधन साथ में रहेगा तो जीत निश्चित है.
+gayā zālim napharatī hārā mōdī hē garibācaṃ sarakār navat kāṃgrēs abhī pīchē hai agar iṃḍiyā gaṭhabaṃdhan sāth mēṃ rahēgā tō jīt niścit hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_037
-% एवं हटाकर बेल्ट पेपर से चुनाव करते हुए भाजपा का जमानत जब्त कराओ देश में दुबार चुनाव ईव्हीएम हटाकर करे पहले ईवीएम मशीन तो हटाओ बैलेट पेपर लाओ बिल्कुल % ईवीएम हटाओ बैलट पेपर लाओ बैलट पेपर से चुनाव करवाओ तथा वैलेट पेपर से चुनाव करवाने के साथ-साथ भाजपा और RSS का जमानत जब्त करवाओ देश खोखला हो गया है मोदी की जीत नहीं हैevmका खेल है ईवीएम हटाओ देश को बचाओ अभी तो भारत की काफी संपत्ति है उसे अपने खास साथियों के हाथ सौंप कर ही तो जाएंगे 19 को कैसे इस्तीफा दे देंगे?
-Reduplication: 2 (साथ-साथ, दे-देंगे) | Conjunctive Verb: 4 (हटाकर, कराओ, हटाकर, करे) | Compound Verb: 1 (हो+गया) | Honorific: 0 | Acronym: 1 (RSS) | MWE: 0 | Hyphen Pair: 0
+% ēvaṃ haṭākar bēlṭ pēpar sē cunāv karatē huē bhājapā kā jamānat jabt karāō dēś mēṃ dubār cunāv īvhīēm haṭākar karē pahalē īvīēm maśīn tō haṭāō bailēṭ pēpar lāō bilkul % īvīēm haṭāō bailaṭ pēpar lāō bailaṭ pēpar sē cunāv karavāō tathā vailēṭ pēpar sē cunāv karavānē kē sāth-sāth bhājapā aur RSS kā jamānat jabt karavāō dēś khōkhalā hō gayā hai mōdī kī jīt nahīṃ haievmkā khēl hai īvīēm haṭāō dēś kō bacāō abhī tō bhārat kī kāphī saṃpatti hai usē apanē khās sāthiyōṃ kē hāth sauṃp kar hī tō jāēṃgē 19 kō kaisē istīphā dē dēṃgē?
+Reduplication: 2 (sāth-sāth, dē-dēṃgē) | Conjunctive Verb: 4 (haṭākar, karāō, haṭākar, karē) | Compound Verb: 1 (hō+gayā) | Honorific: 0 | Acronym: 1 (RSS) | MWE: 0 | Hyphen Pair: 0
 
 T1_038
-बहुत जरूरी है मोदी का इस्तीफा,नहीं तो भारत बर्बाद हो जाएगा %
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bahut jarūrī hai mōdī kā istīphā,nahīṃ tō bhārat barbād hō jāēgā %
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+jāēgā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_039
-बहुत जरूरी है मोदी का इस्तीफा नहीं तो अपना देश भारत बर्बाद हो जाएगा
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bahut jarūrī hai mōdī kā istīphā nahīṃ tō apanā dēś bhārat barbād hō jāēgā
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+jāēgā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_040
-अल्हम्दुलिल्लाह मैं मुस्लिम राजनीति से हमें कोई फर्क नहीं पड़ता जायज़ दौलत कमाना मेरा ईमान है प्रज्वल गौतम जी आप बिल्कुल सही कह रहे हैं हमें समझना चाहिए अगर ये सच हो जाये तो देश का कल्याण हो जाये मोदी जैसा ब्यक्ति कभी अपनी कुर्सी नही छोडे गे इन्हें प्रधानमंत्री की कुर्सी अपनी जान सेभी प्यारी है अभी नितिन गडकरी का हाल हुवा हे उसको देख कर ये गडकरी का सपना ही रहेगा अभी इसके लालच ने इसकी फैक्ट्री को बर्बाद करवा दिया हे अब इसकी मुसीबत भी बनाएगा अब ये भी इस घटना से ध्यान भटकाना हे अभी इस को कोई भी चेनल नहीं दिखा रहा हे सभी मोदी के जाने की बात कर रहे हैं लेकिन अब मोदी सरकार खत्म होगा.
-Reduplication: 1 (हुवा-हे) | Conjunctive Verb: 1 (कर) | Compound Verb: 2 (हो+जाये, हो+जाये) | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+alhamdulillāh maiṃ muslim rājanīti sē hamēṃ kōī phark nahīṃ paṛatā jāyaz daulat kamānā mērā īmān hai prajval gautam jī āp bilkul sahī kah rahē haiṃ hamēṃ samajhanā cāhiē agar yē sac hō jāyē tō dēś kā kalyāṇ hō jāyē mōdī jaisā byakti kabhī apanī kursī nahī chōḍē gē inhēṃ pradhānamaṃtrī kī kursī apanī jān sēbhī pyārī hai abhī nitin gaḍakarī kā hāl huvā hē usakō dēkh kar yē gaḍakarī kā sapanā hī rahēgā abhī isakē lālac nē isakī phaikṭrī kō barbād karavā diyā hē ab isakī musībat bhī banāēgā ab yē bhī is ghaṭanā sē dhyān bhaṭakānā hē abhī is kō kōī bhī cēnal nahīṃ dikhā rahā hē sabhī mōdī kē jānē kī bāt kar rahē haiṃ lēkin ab mōdī sarakār khatm hōgā.
+Reduplication: 1 (huvā-hē) | Conjunctive Verb: 1 (kar) | Compound Verb: 2 (hō+jāyē, hō+jāyē) | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_041
-केवल तारीख पर तारीख आ रहा है लेकिन मोदी सरकार गिर नहीं रहा है.
+kēval tārīkh par tārīkh ā rahā hai lēkin mōdī sarakār gir nahīṃ rahā hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_042
-SIR में जन्म प्रमाण पत्र मांगना बंद हो हमारे दादा के दादा इस देश में पैदा हुआ तो हमें जन्म प्रमाण क्यों देना पढ़ेगा जाना चाहिए.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (देना+जाना) | Honorific: 0 | Acronym: 1 (SIR) | MWE: 0 | Hyphen Pair: 0
+SIR mēṃ janm pramāṇ patr māṃganā baṃd hō hamārē dādā kē dādā is dēś mēṃ paidā huā tō hamēṃ janm pramāṇ kyōṃ dēnā paṛhēgā jānā cāhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dēnā+jānā) | Honorific: 0 | Acronym: 1 (SIR) | MWE: 0 | Hyphen Pair: 0
 
 T1_043
-ऐसा होगा तो देश बच जाये गा अमेरिका खुलासा करने जा रहा है हमें डर है कहीं मोदी जी आसाराम न बन जाए वोट चोरों को भगवान बने का भारत का जनता को सजा मिल रहा है भारत का जनता इसी लायक है आगे चलकर जनता खून का आंसू रोएगा ये गारंटी है जो धर्म का चूर्ण खाकर यह लोग बैठा हुआ है और धर्म में उलझा हुआ है भाजपा की जितनी भी गरीब कल्याण योजना है गरीब कल्याण योजना के नाम पर बड़े बड़े का कल्याण हो रहा है और उनको ही प्रधानमंत्री आवास और कपिलधारा के तहत कुआं दिया जा रहा है एक किसी गरीब व्यक्ति को 4 बीघा जमीन पर अगर एक कुआं दिया जाए तो उसमें भी 40 40 50 500 किसी से 800 सरपंच मंत्री लेते हैं जिसके बाद में उसको कुआं देते हैं उसके कुएं के पैसे भी टाइम से नहीं आते हैं ऐसे तो उसे गरीब आदमी का कहां कल्याण हो रहा है गरीब कल्याण योजना में जितने भी हुए आते हैं बड़े बड़े को दे दिए जाते हैं सर क्या बताएं हमारे चार बीघा जमीन है लेकिन हमें आज तक कोई गरीब कल्याण योजना के तहत लाभ नहीं मिला है हमारी सूखी जमीन है और हमें कुएं की सख्त जरूरत है लेकिन यह सरकार गरीबों को लाभ देना ही नहीं चाहती है उनकी नीति यह है कि बड़े बड़े समाज के लोग सत्ता में बैठे हैं यह इनकी समाज को ही लाभ देने का काम कर रहे हैं मोदी इस्तीफा देगा तो शाह बन जायेगा जो नहीं होना चाहिए, बीजेपी सत्ता में नहीं चाहिए चाहे केंद्र हो या राज्य भाजपा की सरकार में जितनी भी योजनाएं चल रही है उनमें सब में घोटाले हो रहे हैं और भाजपा की सरकार अपने कर्मचारियों को घुस के मामले में बढ़ावा दे रही है भर भर के खोल पैसे दिए जा रहा है घूसखोरी में बढ़ावा मिला है कर्मचारी अधिकारी जी भरकर घूसखोरी कर रहे हैं और सरपंच मंत्रियों से जब भी कोई काम देते हैं तो मनमानी घुस वसूली होती है जनपद पंचायत में उसे पर कोई रोक नहीं है
-Reduplication: 6 (बड़े-बड़े, बड़े-बड़े, दे-दिए, बड़े-बड़े, यह-इनकी, भर-भर) | Conjunctive Verb: 5 (चलकर, खाकर, कर, भरकर, कर) | Compound Verb: 10 (बच+जाये, करने+जा, बन+जाए, दिया+जा, दिया+जाए, दे+जाते, दिए+जाते, बन+जायेगा, खोल+जा, दिए+जा) | Honorific: 0 | Acronym: 0 | MWE: 3 (आवास तहत, जिसके बाद, योजना तहत) | Hyphen Pair: 0
+aisā hōgā tō dēś bac jāyē gā amērikā khulāsā karanē jā rahā hai hamēṃ ḍar hai kahīṃ mōdī jī āsārām n ban jāē vōṭ cōrōṃ kō bhagavān banē kā bhārat kā janatā kō sajā mil rahā hai bhārat kā janatā isī lāyak hai āgē calakar janatā khūn kā āṃsū rōēgā yē gāraṃṭī hai jō dharm kā cūrṇ khākar yah lōg baiṭhā huā hai aur dharm mēṃ ulajhā huā hai bhājapā kī jitanī bhī garīb kalyāṇ yōjanā hai garīb kalyāṇ yōjanā kē nām par baṛē baṛē kā kalyāṇ hō rahā hai aur unakō hī pradhānamaṃtrī āvās aur kapiladhārā kē tahat kuāṃ diyā jā rahā hai ēk kisī garīb vyakti kō 4 bīghā jamīn par agar ēk kuāṃ diyā jāē tō usamēṃ bhī 40 40 50 500 kisī sē 800 sarapaṃc maṃtrī lētē haiṃ jisakē bād mēṃ usakō kuāṃ dētē haiṃ usakē kuēṃ kē paisē bhī ṭāim sē nahīṃ ātē haiṃ aisē tō usē garīb ādamī kā kahāṃ kalyāṇ hō rahā hai garīb kalyāṇ yōjanā mēṃ jitanē bhī huē ātē haiṃ baṛē baṛē kō dē diē jātē haiṃ sar kyā batāēṃ hamārē cār bīghā jamīn hai lēkin hamēṃ āj tak kōī garīb kalyāṇ yōjanā kē tahat lābh nahīṃ milā hai hamārī sūkhī jamīn hai aur hamēṃ kuēṃ kī sakht jarūrat hai lēkin yah sarakār garībōṃ kō lābh dēnā hī nahīṃ cāhatī hai unakī nīti yah hai ki baṛē baṛē samāj kē lōg sattā mēṃ baiṭhē haiṃ yah inakī samāj kō hī lābh dēnē kā kām kar rahē haiṃ mōdī istīphā dēgā tō śāh ban jāyēgā jō nahīṃ hōnā cāhiē, bījēpī sattā mēṃ nahīṃ cāhiē cāhē kēṃdr hō yā rājy bhājapā kī sarakār mēṃ jitanī bhī yōjanāēṃ cal rahī hai unamēṃ sab mēṃ ghōṭālē hō rahē haiṃ aur bhājapā kī sarakār apanē karmacāriyōṃ kō ghus kē māmalē mēṃ baṛhāvā dē rahī hai bhar bhar kē khōl paisē diē jā rahā hai ghūsakhōrī mēṃ baṛhāvā milā hai karmacārī adhikārī jī bharakar ghūsakhōrī kar rahē haiṃ aur sarapaṃc maṃtriyōṃ sē jab bhī kōī kām dētē haiṃ tō manamānī ghus vasūlī hōtī hai janapad paṃcāyat mēṃ usē par kōī rōk nahīṃ hai
+Reduplication: 6 (baṛē-baṛē, baṛē-baṛē, dē-diē, baṛē-baṛē, yah-inakī, bhar-bhar) | Conjunctive Verb: 5 (calakar, khākar, kar, bharakar, kar) | Compound Verb: 10 (bac+jāyē, karanē+jā, ban+jāē, diyā+jā, diyā+jāē, dē+jātē, diē+jātē, ban+jāyēgā, khōl+jā, diē+jā) | Honorific: 0 | Acronym: 0 | MWE: 3 (āvās tahat, jisakē bād, yōjanā tahat) | Hyphen Pair: 0
 
 T1_044
-कलेक्टर कार्यालय से लेकर तो जनपद पंचायत तक और जनपद पंचायत से लेकर तो मुख्यमंत्री तक घुस जाती है उनके सांसद विधायक मंत्री सुंदरी सब उसमें से घूस लेते हैं बड़ी बड़ी योजनाओं को चालू कर कर उसमें पैसा मंजूर करते हैं और अंदर के रास्ते से वापस वह पैसा घुस के मामले घुस के रूप में वसूल लेते हैं यही भारतीय जनता पार्टी की योजनाएं हैं और घोटाले बाजी की योजना है सब को उठा ले कर कर जी रहे हैं देश का धन खा रहे हैं पूरे भारत का खजाना खाली कर दिया है
-Reduplication: 3 (बड़ी-बड़ी, कर-कर, कर-कर) | Conjunctive Verb: 5 (लेकर, लेकर, कर, कर, कर) | Compound Verb: 1 (घुस+जाती) | Honorific: 0 | Acronym: 0 | MWE: 1 (घुस रूप) | Hyphen Pair: 0
+kalēkṭar kāryālay sē lēkar tō janapad paṃcāyat tak aur janapad paṃcāyat sē lēkar tō mukhyamaṃtrī tak ghus jātī hai unakē sāṃsad vidhāyak maṃtrī suṃdarī sab usamēṃ sē ghūs lētē haiṃ baṛī baṛī yōjanāōṃ kō cālū kar kar usamēṃ paisā maṃjūr karatē haiṃ aur aṃdar kē rāstē sē vāpas vah paisā ghus kē māmalē ghus kē rūp mēṃ vasūl lētē haiṃ yahī bhāratīy janatā pārṭī kī yōjanāēṃ haiṃ aur ghōṭālē bājī kī yōjanā hai sab kō uṭhā lē kar kar jī rahē haiṃ dēś kā dhan khā rahē haiṃ pūrē bhārat kā khajānā khālī kar diyā hai
+Reduplication: 3 (baṛī-baṛī, kar-kar, kar-kar) | Conjunctive Verb: 5 (lēkar, lēkar, kar, kar, kar) | Compound Verb: 1 (ghus+jātī) | Honorific: 0 | Acronym: 0 | MWE: 1 (ghus rūp) | Hyphen Pair: 0
 
 T1_045
-भाजपा के की सरकार ने और घूसखोरी जी भर कर चल रही है कर्मचारी अधिकारी पुलिस प्रशासन इतने कर हो गए हैं कि गरीब आदमी को जेल भेज देते हैं और साहूकार को घर भेज देते हैं यही नौटंकी चल रही है जब से भाजपा की सरकार बनी मोदी जी को जब राजीनामा देने का वक़्त आया तो मोदी जी जाते जाते ईवीएम बंद कर के बैलेट पेपर से चुनाव कर ने का फैसला लेना चाहिए.
-Reduplication: 2 (के-की, जाते-जाते) | Conjunctive Verb: 3 (कर, कर, कर) | Compound Verb: 3 (कर+गए, हो+गए, जाते+जाते) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bhājapā kē kī sarakār nē aur ghūsakhōrī jī bhar kar cal rahī hai karmacārī adhikārī pulis praśāsan itanē kar hō gaē haiṃ ki garīb ādamī kō jēl bhēj dētē haiṃ aur sāhūkār kō ghar bhēj dētē haiṃ yahī nauṭaṃkī cal rahī hai jab sē bhājapā kī sarakār banī mōdī jī kō jab rājīnāmā dēnē kā vaqt āyā tō mōdī jī jātē jātē īvīēm baṃd kar kē bailēṭ pēpar sē cunāv kar nē kā phaisalā lēnā cāhiē.
+Reduplication: 2 (kē-kī, jātē-jātē) | Conjunctive Verb: 3 (kar, kar, kar) | Compound Verb: 3 (kar+gaē, hō+gaē, jātē+jātē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_046
-मार्केट वोल्फ का मालिक कौन है ये बताओ पहले प्रज्ज्वल गौतम जी इसकी फ्लोसीपो बताओ ये कैसे मुमकिन है मतलब अब मजा मारने नहीं मिलेगा हवाई जहाज सुना पड़ जायेगा मशरूम का क्या होगा मोदीजी को डर लगा रहेगा हे इस्तीफा देगे तो मोदीजी भारत नहीं रहेंगे ऐसा होगा तो पीएम कहां के पीएम बनेंगे पा?
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (सुना+पड़) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+mārkēṭ vōlph kā mālik kaun hai yē batāō pahalē prajjval gautam jī isakī phlōsīpō batāō yē kaisē mumakin hai matalab ab majā māranē nahīṃ milēgā havāī jahāj sunā paṛ jāyēgā maśarūm kā kyā hōgā mōdījī kō ḍar lagā rahēgā hē istīphā dēgē tō mōdījī bhārat nahīṃ rahēṃgē aisā hōgā tō pīēm kahāṃ kē pīēm banēṃgē pā?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (sunā+paṛ) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_047
-मन की लड्डू घी के साथ खाने में कोई बुराई नहीं मैंने यह ऐप डाउनलोड करा था पूरी आईडी बनाई थी पर कुछ नहीं हुआ मोदी को हटाना बहुत जरूरी हैं.
-Reduplication: 0 | Conjunctive Verb: 1 (करा) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (घी साथ) | Hyphen Pair: 0
+man kī laḍḍū ghī kē sāth khānē mēṃ kōī burāī nahīṃ maiṃnē yah aip ḍāunalōḍ karā thā pūrī āīḍī banāī thī par kuch nahīṃ huā mōdī kō haṭānā bahut jarūrī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (karā) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (ghī sāth) | Hyphen Pair: 0
 
 T1_048
-अंत में आपको ऐड मिल गया.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (मिल+गया) | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+aṃt mēṃ āpakō aiḍ mil gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (mil+gayā) | Honorific: 1 (āpakō [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_049
-अभी चुनाव हो जाए तो कॉंग्रेस २०० से ज्यादा सीटें जीत सकती है इस बात पर एंकर मानक गुप्ता की हंसी बाहर निकली.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+abhī cunāv hō jāē tō kṃgrēs २०० sē jyādā sīṭēṃ jīt sakatī hai is bāt par ēṃkar mānak guptā kī haṃsī bāhar nikalī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+jāē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_050
-अगर देखा जाए तो मानक गुप्ता की हंसी निकलना वाजीब है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (देखा+जाए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+agar dēkhā jāē tō mānak guptā kī haṃsī nikalanā vājīb hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dēkhā+jāē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_051
-सच बात तो ये है की जनता का मेंडेट ना भाजपा को मिलता है, ना कॉंग्रेस को दोनों को अगर जनता का मेंडेट मिला भी तो वो ईव्हीएम से मिलता है.
+sac bāt tō yē hai kī janatā kā mēṃḍēṭ nā bhājapā kō milatā hai, nā kṃgrēs kō dōnōṃ kō agar janatā kā mēṃḍēṭ milā bhī tō vō īvhīēm sē milatā hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_052
-ये बात मानक गुप्ता को भी मालूम है इसलिए हंसी बाहर निकली.
+yē bāt mānak guptā kō bhī mālūm hai isaliē haṃsī bāhar nikalī.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_053
-पुरी आईडी बनाई थी पूरी केवाईसी करी थी पर हमारा कुछ नहीं होगा
-Reduplication: 0 | Conjunctive Verb: 1 (करी) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+purī āīḍī banāī thī pūrī kēvāīsī karī thī par hamārā kuch nahīṃ hōgā
+Reduplication: 0 | Conjunctive Verb: 1 (karī) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_054
-इस वास्ते कुछ तो दे के मामला मिटlणा होगा बlहार गये है न साहेब पर कुछ नहीं होना दूसरी पार्टी से आये सभी नेता बी जे पी में दाग़ी लोग हैं अगर नितिन गडकरी उसका बेटे का अचानक अरबो खरबो अपना बैंक बेलेन्स हो गया है तो वो कौन सा सही है सही देखा जाय रिजिजू है सर कई 19निकल गई, खुद का बनाया कानून फिर भी 75साल के मोदी पीएम बने हुए आगे भी बने रहेंगे, न ज्ञानेश का कुछ बिगाड़ सके न मोदी तडीपार का कुछ नहीं बिगड़ा न कोई बिगाड़ सकता क्यों की को बिगाड़ सकते है वही मोदिकी चापलूसी कर रहे अब कोन सी संस्था मोदी को हटाएगी कई फाइल खुली सुब्रमण्यम स्वामी ने सात सालो से सबूत के साथ सब बता दिए क्या हुआ कोन सुन रहा झूठा छली आदमी कभी भी स्तीफा नहीं दे सकता है झूठी हेडलाइंस क्यों डालते हो कुछ नहीं होगा फेसले ई बि एम हटाओ बाद में देखो मोदी नहीं जाएगा अंत तक ऐसे ही चलता rahega Evm के रहते कांग्रेस कभी नहीं जीत सकती अगर आज चुनाव हो जाये तो क्या होगा?
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 4 (हो+गया, देखा+जाय, 19निकल+गई, हो+जाये) | Honorific: 0 | Acronym: 0 | MWE: 1 (सबूत साथ) | Hyphen Pair: 0
+is vāstē kuch tō dē kē māmalā miṭlṇā hōgā blhār gayē hai n sāhēb par kuch nahīṃ hōnā dūsarī pārṭī sē āyē sabhī nētā bī jē pī mēṃ dāġī lōg haiṃ agar nitin gaḍakarī usakā bēṭē kā acānak arabō kharabō apanā baiṃk bēlēns hō gayā hai tō vō kaun sā sahī hai sahī dēkhā jāy rijijū hai sar kaī 19nikal gaī, khud kā banāyā kānūn phir bhī 75sāl kē mōdī pīēm banē huē āgē bhī banē rahēṃgē, n jñānēś kā kuch bigāṛ sakē n mōdī taḍīpār kā kuch nahīṃ bigaṛā n kōī bigāṛ sakatā kyōṃ kī kō bigāṛ sakatē hai vahī mōdikī cāpalūsī kar rahē ab kōn sī saṃsthā mōdī kō haṭāēgī kaī phāil khulī subramaṇyam svāmī nē sāt sālō sē sabūt kē sāth sab batā diē kyā huā kōn sun rahā jhūṭhā chalī ādamī kabhī bhī stīphā nahīṃ dē sakatā hai jhūṭhī hēḍalāiṃs kyōṃ ḍālatē hō kuch nahīṃ hōgā phēsalē ī bi ēm haṭāō bād mēṃ dēkhō mōdī nahīṃ jāēgā aṃt tak aisē hī calatā rahega Evm kē rahatē kāṃgrēs kabhī nahīṃ jīt sakatī agar āj cunāv hō jāyē tō kyā hōgā?
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 4 (hō+gayā, dēkhā+jāy, 19nikal+gaī, hō+jāyē) | Honorific: 0 | Acronym: 0 | MWE: 1 (sabūt sāth) | Hyphen Pair: 0
 
 T1_055
-यह तो मोदीजी और शहंशाह शाह साहब के चहेते चुनाव आयोग के मुख्य आयुक्त ज्ञानेश कुमार अच्छी तरह से बतायेंगे.
+yah tō mōdījī aur śahaṃśāh śāh sāhab kē cahētē cunāv āyōg kē mukhy āyukt jñānēś kumār acchī tarah sē batāyēṃgē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_056
-यह भी बताया जाना चाहिए कि चुनाव बैलेट से होगा या ई वी एम से. यह आप गलत जानकारी दे रहे हो सबको नहीं देगा
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बताया+जाना) | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+yah bhī batāyā jānā cāhiē ki cunāv bailēṭ sē hōgā yā ī vī ēm sē. yah āp galat jānakārī dē rahē hō sabakō nahīṃ dēgā
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (batāyā+jānā) | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_057
-इस्तीफा लिखकर लेलो.
-Reduplication: 0 | Conjunctive Verb: 1 (लिखकर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+istīphā likhakar lēlō.
+Reduplication: 0 | Conjunctive Verb: 1 (likhakar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_058
-बहुत धीठ है मोदिया आज चुनाव हो तो बिहार में RJD जैसा हश्र कांग्रेस का हो जाएगा.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाएगा) | Honorific: 0 | Acronym: 1 (RJD) | MWE: 0 | Hyphen Pair: 0
+bahut dhīṭh hai mōdiyā āj cunāv hō tō bihār mēṃ RJD jaisā haśr kāṃgrēs kā hō jāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+jāēgā) | Honorific: 0 | Acronym: 1 (RJD) | MWE: 0 | Hyphen Pair: 0
 
 T1_059
-क्योंकि भाजपा व ज्ञानेश गठबंधन बड़ा मजबूत है.
+kyōṃki bhājapā v jñānēś gaṭhabaṃdhan baṛā majabūt hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_060
-सुप्रीम कोर्ट की आंखें बंद है.
+suprīm kōrṭ kī āṃkhēṃ baṃd hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_061
-चुनाव आयुक्तों की नियुक्ति व SIR के जरिए बड़ी साज़िश को अंजाम दिया जा चुका है जो भी मनुवादी या मनुवादी मानसिकता का पीएम बनेगा वो देश को बर्बाद ही करेगा और जनता को और कंगाल बना देगा जिस प्रकार अभी तक जनता को लूटा गया है और उसे कहीं का नहीं छोड़ा है आज लोग घुट घुट कर जीने को मजबूर हैं सब कुछ लूट लिया लुटेरों ने भाजपा की सरकार ने संविधान को बिल्कुल तात्पर्य रखकर काम किया है और मानववाद को बढ़ाया है मानवादी लोग इस सरकार में खूब उछल कूद कर रहे हैं नंगी तलवार लहराते हैं बंदूक लहराते हैं भले ले रहते हैं उन पर कोई फिर नहीं होती है और कोई गरीब दाल का व्यक्ति अगर कोई ऐसा काम कर दे तो उसे पर तुरंत फिर देशद्रोह का कानून लगाकर जेल भेज देते हैं फिर वह अदालत के चक्कर लगाते रहता है गरीब लोगों के परिवार को सताया जा रहा है प्रधानमंत्री आवास की किस्त 6 महीने में डाल रही है उसमें कैसे गरीब आदमी घर बनाए बीजेपी अवर चुनाव आयोग की सेटिंग से बीजेपी के नेता जीते है जनता ने नहीं जिताया, लुक तंत्र खत्म किया है बीजेपी ने मोदी को इस्तीफा देने के बाद फिर जोगी बन जाएंगे प्रधानमंत्री कुछ चल रहा होगा मामला जनता को मूर्ख बना रहा है बनावटी बाते घड़ घड़ के सुना रहा है.
-Reduplication: 2 (घुट-घुट, घड़-घड़) | Conjunctive Verb: 5 (करेगा, रखकर, कर, कर, लगाकर) | Compound Verb: 4 (दिया+जा, लूटा+गया, सताया+जा, बन+जाएंगे) | Honorific: 0 | Acronym: 1 (SIR) | MWE: 0 | Hyphen Pair: 0
+cunāv āyuktōṃ kī niyukti v SIR kē jariē baṛī sāziś kō aṃjām diyā jā cukā hai jō bhī manuvādī yā manuvādī mānasikatā kā pīēm banēgā vō dēś kō barbād hī karēgā aur janatā kō aur kaṃgāl banā dēgā jis prakār abhī tak janatā kō lūṭā gayā hai aur usē kahīṃ kā nahīṃ chōṛā hai āj lōg ghuṭ ghuṭ kar jīnē kō majabūr haiṃ sab kuch lūṭ liyā luṭērōṃ nē bhājapā kī sarakār nē saṃvidhān kō bilkul tātpary rakhakar kām kiyā hai aur mānavavād kō baṛhāyā hai mānavādī lōg is sarakār mēṃ khūb uchal kūd kar rahē haiṃ naṃgī talavār laharātē haiṃ baṃdūk laharātē haiṃ bhalē lē rahatē haiṃ un par kōī phir nahīṃ hōtī hai aur kōī garīb dāl kā vyakti agar kōī aisā kām kar dē tō usē par turaṃt phir dēśadrōh kā kānūn lagākar jēl bhēj dētē haiṃ phir vah adālat kē cakkar lagātē rahatā hai garīb lōgōṃ kē parivār kō satāyā jā rahā hai pradhānamaṃtrī āvās kī kist 6 mahīnē mēṃ ḍāl rahī hai usamēṃ kaisē garīb ādamī ghar banāē bījēpī avar cunāv āyōg kī sēṭiṃg sē bījēpī kē nētā jītē hai janatā nē nahīṃ jitāyā, luk taṃtr khatm kiyā hai bījēpī nē mōdī kō istīphā dēnē kē bād phir jōgī ban jāēṃgē pradhānamaṃtrī kuch cal rahā hōgā māmalā janatā kō mūrkh banā rahā hai banāvaṭī bātē ghaṛ ghaṛ kē sunā rahā hai.
+Reduplication: 2 (ghuṭ-ghuṭ, ghaṛ-ghaṛ) | Conjunctive Verb: 5 (karēgā, rakhakar, kar, kar, lagākar) | Compound Verb: 4 (diyā+jā, lūṭā+gayā, satāyā+jā, ban+jāēṃgē) | Honorific: 0 | Acronym: 1 (SIR) | MWE: 0 | Hyphen Pair: 0
 
 T1_062
-कुछ नहीं गुजरात फाइल खुलने वाली है 200 से 2025 तक कि इससे फर्क़ सिर्फ पनौती और तड़ीपार को पड़ेगा सीट तो गई इनकी जैल का पता नहीं अमरिका चाइना रूस इनके पास इन दोनों की सारी फाइल है बीजेपी का कोई भी नेता pm के पद पर सत्ता मे नहीं होगा.
+kuch nahīṃ gujarāt phāil khulanē vālī hai 200 sē 2025 tak ki isasē pharq sirph panautī aur taṛīpār kō paṛēgā sīṭ tō gaī inakī jail kā patā nahīṃ amarikā cāinā rūs inakē pās in dōnōṃ kī sārī phāil hai bījēpī kā kōī bhī nētā pm kē pad par sattā mē nahīṃ hōgā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_063
-राहुल जी गाँधी, प्रियांका वाड्रा या तो उद्धव जी ठाकरे होंगे प्रधानमन्त्री. अन्य कोई हितेषी नहीं है, काबिल नहीं है यह वोट डकैती से और अमेरिका वाली सीडी से ध्यान भटकाने के लिए प्रोपेगेंडा किया जा रहा है धीरे धीरे लोकतंत्र की हत्या करके वोट डकैती की सारी पोल पट्टी खुल रही है देस में कांग्रेस ही जरूरी है नहीं तो देस तबाह हो जाएगा जंगल काट देगा और सब मरेंगे अभी भी सुधर जाओ नहीं तो ये सब गरीब लोग मारे जाएंगे झूठी खबर है, मोदी जी महामानव हैं.
-Reduplication: 1 (धीरे-धीरे) | Conjunctive Verb: 0 | Compound Verb: 4 (किया+जा, हो+जाएगा, सुधर+जाओ, मारे+जाएंगे) | Honorific: 0 | Acronym: 0 | MWE: 1 (भटकाने लिए) | Hyphen Pair: 0
+rāhul jī gām̐dhī, priyāṃkā vāḍrā yā tō uddhav jī ṭhākarē hōṃgē pradhānamantrī. any kōī hitēṣī nahīṃ hai, kābil nahīṃ hai yah vōṭ ḍakaitī sē aur amērikā vālī sīḍī sē dhyān bhaṭakānē kē liē prōpēgēṃḍā kiyā jā rahā hai dhīrē dhīrē lōkataṃtr kī hatyā karakē vōṭ ḍakaitī kī sārī pōl paṭṭī khul rahī hai dēs mēṃ kāṃgrēs hī jarūrī hai nahīṃ tō dēs tabāh hō jāēgā jaṃgal kāṭ dēgā aur sab marēṃgē abhī bhī sudhar jāō nahīṃ tō yē sab garīb lōg mārē jāēṃgē jhūṭhī khabar hai, mōdī jī mahāmānav haiṃ.
+Reduplication: 1 (dhīrē-dhīrē) | Conjunctive Verb: 0 | Compound Verb: 4 (kiyā+jā, hō+jāēgā, sudhar+jāō, mārē+jāēṃgē) | Honorific: 0 | Acronym: 0 | MWE: 1 (bhaṭakānē liē) | Hyphen Pair: 0
 
 T1_064
-राहुल गांधी जिन्दाबाद सभी भाजपा शासित राज्यों में यानी जिन-जिन राज्यों में भाजपा शासन कर रही है उन राज्यों में स्थित भाजपा प्रशासन के सभी आला अधिकारियों के साथ-साथ सभी पुलिसकर्मी पर जो की बेटियों के सम्मान में घटिया सोच वाले जितने भी IAS IPS के खिलाफ पूरे देश भर में धरना प्रदर्शन होना ही चाहिए पी,एम, ग्रह मंत्री,दोनो हटाव देश बचाओ योगी जितना जल्दी पद से हटेगा उतनी ही जल्दी यूपी मे साम्प्रदायिकता कम होगी मोदी ,और इस्तीफा,ये तो नामुमकिन बात है.
-Reduplication: 2 (जिन-जिन, साथ-साथ) | Conjunctive Verb: 1 (कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 2 (IAS, IPS) | MWE: 0 | Hyphen Pair: 0
+rāhul gāṃdhī jindābād sabhī bhājapā śāsit rājyōṃ mēṃ yānī jin-jin rājyōṃ mēṃ bhājapā śāsan kar rahī hai un rājyōṃ mēṃ sthit bhājapā praśāsan kē sabhī ālā adhikāriyōṃ kē sāth-sāth sabhī pulisakarmī par jō kī bēṭiyōṃ kē sammān mēṃ ghaṭiyā sōc vālē jitanē bhī IAS IPS kē khilāph pūrē dēś bhar mēṃ dharanā pradarśan hōnā hī cāhiē pī,ēm, grah maṃtrī,dōnō haṭāv dēś bacāō yōgī jitanā jaldī pad sē haṭēgā utanī hī jaldī yūpī mē sāmpradāyikatā kam hōgī mōdī ,aur istīphā,yē tō nāmumakin bāt hai.
+Reduplication: 2 (jin-jin, sāth-sāth) | Conjunctive Verb: 1 (kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 2 (IAS, IPS) | MWE: 0 | Hyphen Pair: 0
 
 T1_065
-जब तक मोदी के अंध भक्त हैं तब तक मोदी को मरते दम तक कोई हटाने वाला नहीं है मोदी जी इस्तीफा कभी नहीं देंगे मोदी जी इस्तीफा दे दें तो मैं हनुमान जी को प्रसाद चढ़ाऊंगा नितिन गडकरी जी.वाह मज़ा आ जाएगा.
-Reduplication: 1 (दे-दें) | Conjunctive Verb: 0 | Compound Verb: 1 (आ+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+jab tak mōdī kē aṃdh bhakt haiṃ tab tak mōdī kō maratē dam tak kōī haṭānē vālā nahīṃ hai mōdī jī istīphā kabhī nahīṃ dēṃgē mōdī jī istīphā dē dēṃ tō maiṃ hanumān jī kō prasād caṛhāūṃgā nitin gaḍakarī jī.vāh mazā ā jāēgā.
+Reduplication: 1 (dē-dēṃ) | Conjunctive Verb: 0 | Compound Verb: 1 (ā+jāēgā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_066
-बीजेपी का ये कदम सराहनीय होगा.
+bījēpī kā yē kadam sarāhanīy hōgā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_067
-नितिन गडकरी को प्रधान मंत्री बनाया जाए ये पागल बनते है और तुम बन जाते हो मोदी की ट्रम्प के पास कोई कमजोरी जरूर है l
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (बनाया+जाए, बन+जाते) | Honorific: 1 (तुम [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+nitin gaḍakarī kō pradhān maṃtrī banāyā jāē yē pāgal banatē hai aur tum ban jātē hō mōdī kī ṭramp kē pās kōī kamajōrī jarūr hai l
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (banāyā+jāē, ban+jātē) | Honorific: 1 (tum [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_068
-नहीं तो ट्रम्प 60 बार ये नहीं कहता कि सीजफायर मैंने करवाया l
+nahīṃ tō ṭramp 60 bār yē nahīṃ kahatā ki sījaphāyar maiṃnē karavāyā l
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_069
-भारतीयों के हाथ में हथकड़ी पहनाकर नहीं भेजता l चव्हाण सही कह रहे है l
-Reduplication: 0 | Conjunctive Verb: 1 (पहनाकर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bhāratīyōṃ kē hāth mēṃ hathakaṛī pahanākar nahīṃ bhējatā l cavhāṇ sahī kah rahē hai l
+Reduplication: 0 | Conjunctive Verb: 1 (pahanākar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_070
-मोदी को इस्तीफा देना चाहिए, उनकी उम्र को ध्यान में रखते हुए .
+mōdī kō istīphā dēnā cāhiē, unakī umr kō dhyān mēṃ rakhatē huē .
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_071
-नितिन गडकरी होंगे, अगर ऐसा हुआ तो ऐ खबर खुशहाली लायेगी ईव्हीएम फ्राॅड.वोट चोरी. ईडी.सीबीआय. इन्कम टॅक्स. विरोधीपक्षो कि तोड मोड. विरोधीपक्ष के मंत्री का घोडे बाजार.
+nitin gaḍakarī hōṃgē, agar aisā huā tō ai khabar khuśahālī lāyēgī īvhīēm phrāॅḍ.vōṭ cōrī. īḍī.sībīāy. inkam ṭks. virōdhīpakṣō ki tōḍ mōḍ. virōdhīpakṣ kē maṃtrī kā ghōḍē bājār.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_072
-गोदी मिडीया.सुप्रीम कोर्ट ईन सब का ईस्तेमाल.
+gōdī miḍīyā.suprīm kōrṭ īn sab kā īstēmāl.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_073
-करके अगर कोई लोकप्रिय नेता बन जाये .या विश्वगुरू बन जाये.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (बन+जाये, बन+जाये) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+karakē agar kōī lōkapriy nētā ban jāyē .yā viśvagurū ban jāyē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (ban+jāyē, ban+jāyē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_074
-छी थू लानत है जितने भी क़ानून बनालो,, मोदी सब कानूनों से ऊपर है, यदि ऐसा हुआ तो झूठे वादे से निजात मिलेगी जेपी क्रांति ऑफिसियल यूट्यूब चैनल मोदी कभी इस्तीफा नहीं देगा, चाहे जो भी कहो या जो भी कर लो, कुर्सी जाते ही मोदी बेहोश हो जाएगा भारत बोलो,सँविधान में भी भारत थेट इंडिया और इंडिया दैट भारत ही लिखा है तो आप भी न्यूज चैनलों पर भारत ही बोले!-बी एस आजाद दिल्ली अगर ऐसा होता है तो देश और जनता संविधान के पक्ष में mazbut कदम है मेरे हिसाब से नितिन गडकरी जी होंगे पीएम, ये तारीख को लिखकर रख लो और झूठ जब होगा तो इसकी जरूर करना चाहिए तुमलोग झूठ बोलकर पब्लिक को व्यू के लिए क्या क्या करोगे ये मीडिया मे हाय लाइट मे आने के लिए बोल रहे हैं बीजेपी को हटाओ देश बचाओ साथ हि मुरमु जी भी इसतेफा देंगी और मोदि जी राष्ट्रपति बनेंगे.
-Reduplication: 1 (क्या-क्या) | Conjunctive Verb: 4 (कर, लिखकर, बोलकर, करोगे) | Compound Verb: 1 (हो+जाएगा) | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 3 (व्यू लिए, आने लिए, बचाओ साथ) | Hyphen Pair: 0
+chī thū lānat hai jitanē bhī qānūn banālō,, mōdī sab kānūnōṃ sē ūpar hai, yadi aisā huā tō jhūṭhē vādē sē nijāt milēgī jēpī krāṃti ôphisiyal yūṭyūb cainal mōdī kabhī istīphā nahīṃ dēgā, cāhē jō bhī kahō yā jō bhī kar lō, kursī jātē hī mōdī bēhōś hō jāēgā bhārat bōlō,sam̐vidhān mēṃ bhī bhārat thēṭ iṃḍiyā aur iṃḍiyā daiṭ bhārat hī likhā hai tō āp bhī nyūj cainalōṃ par bhārat hī bōlē!-bī ēs ājād dillī agar aisā hōtā hai tō dēś aur janatā saṃvidhān kē pakṣ mēṃ mazbut kadam hai mērē hisāb sē nitin gaḍakarī jī hōṃgē pīēm, yē tārīkh kō likhakar rakh lō aur jhūṭh jab hōgā tō isakī jarūr karanā cāhiē tumalōg jhūṭh bōlakar pablik kō vyū kē liē kyā kyā karōgē yē mīḍiyā mē hāy lāiṭ mē ānē kē liē bōl rahē haiṃ bījēpī kō haṭāō dēś bacāō sāth hi muramu jī bhī isatēphā dēṃgī aur mōdi jī rāṣṭrapati banēṃgē.
+Reduplication: 1 (kyā-kyā) | Conjunctive Verb: 4 (kar, likhakar, bōlakar, karōgē) | Compound Verb: 1 (hō+jāēgā) | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 3 (vyū liē, ānē liē, bacāō sāth) | Hyphen Pair: 0
 
 T1_075
-भरत का लैपटाप तो हारमोनियम हो गया , बस एक ही सुर बजाते रहो पृथ्वीराज चव्हाण को अपणा दिमागी इलाज करने मेंटल हॉस्पिटल जाना होगा.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bharat kā laipaṭāp tō hāramōniyam hō gayā , bas ēk hī sur bajātē rahō pr̥thvīrāj cavhāṇ kō apaṇā dimāgī ilāj karanē mēṃṭal hspiṭal jānā hōgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (hō+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_076
-गुजरात दंगा मे मोदी का नाम है कही उसी का डर तो नही है ना झूठी ख़बरें आप लोगों की कोई भी न्यूज कभी सही साबित नहीं हुई है यहा के सब नेता गुंडा है और पुरे देश मे एड्स फैलवा रहा है गाँव गाँव मे एड्स फैलवा दिया है यें खबर अगर सच्चा है या क्या हें 19 तारीख को पता चलेगा .
-Reduplication: 1 (गाँव-गाँव) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+gujarāt daṃgā mē mōdī kā nām hai kahī usī kā ḍar tō nahī hai nā jhūṭhī k͟habarēṃ āp lōgōṃ kī kōī bhī nyūj kabhī sahī sābit nahīṃ huī hai yahā kē sab nētā guṃḍā hai aur purē dēś mē ēḍs phailavā rahā hai gām̐v gām̐v mē ēḍs phailavā diyā hai yēṃ khabar agar saccā hai yā kyā hēṃ 19 tārīkh kō patā calēgā .
+Reduplication: 1 (gām̐v-gām̐v) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_077
-लेकिन खबर आते ही देश में खुशी की लहर चलने लगा.
+lēkin khabar ātē hī dēś mēṃ khuśī kī lahar calanē lagā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_078
-नितिन गदकारी को प्रधान मंत्री कीं रूप में मिलनें से हर वर्ग के लोग खुश होगी .
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (मंत्री रूप) | Hyphen Pair: 0
+nitin gadakārī kō pradhān maṃtrī kīṃ rūp mēṃ milanēṃ sē har varg kē lōg khuś hōgī .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (maṃtrī rūp) | Hyphen Pair: 0
 
 T1_079
-भरत चंदकनत भाई मोदी को हटाना सब फालतू बकवास बात है फिर मोदी इज्जत से हटने वाले नहीं ये बेशर्म लोग पूरी दुनया पूरे देश मे इतनी बे इज्जती हो रही अगर थोड़ी शर्म होती तो पहले इस्तीफा दे के कुर्सी छोड़ देते कुछ नहीं होगा आप ऐसे ही खुश मत करो आपके फॉलोवर्स को जब तक evm हैं तब तक यही रहेंगे 100% अब देश की नागपुर राजधानी बनेगी शायद इसीलिये दिल्ली के प्रदुषन पर बार-बार न्युज आ रही है.
-Reduplication: 1 (बार-बार) | Conjunctive Verb: 1 (करो) | Compound Verb: 0 | Honorific: 2 (आप [formal], आपके [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bharat caṃdakanat bhāī mōdī kō haṭānā sab phālatū bakavās bāt hai phir mōdī ijjat sē haṭanē vālē nahīṃ yē bēśarm lōg pūrī dunayā pūrē dēś mē itanī bē ijjatī hō rahī agar thōṛī śarm hōtī tō pahalē istīphā dē kē kursī chōṛ dētē kuch nahīṃ hōgā āp aisē hī khuś mat karō āpakē phlōvars kō jab tak evm haiṃ tab tak yahī rahēṃgē 100% ab dēś kī nāgapur rājadhānī banēgī śāyad isīliyē dillī kē praduṣan par bār-bār nyuj ā rahī hai.
+Reduplication: 1 (bār-bār) | Conjunctive Verb: 1 (karō) | Compound Verb: 0 | Honorific: 2 (āp [formal], āpakē [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_080
-छत्रपती के दो वंशज सातारा और कोल्हापुर में गद्दी पर थे,फिर भी पेशवा पुना से कामकाज कर रहे थे.मन मर्जी चलाने अशोक चव्हाण नहीं पृथ्वीराज चव्हाण हैं.
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+chatrapatī kē dō vaṃśaj sātārā aur kōlhāpur mēṃ gaddī par thē,phir bhī pēśavā punā sē kāmakāj kar rahē thē.man marjī calānē aśōk cavhāṇ nahīṃ pr̥thvīrāj cavhāṇ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_081
-अशोक चव्हाण पहले कांग्रेस में थे, अभी बीजेपी में हैं.
+aśōk cavhāṇ pahalē kāṃgrēs mēṃ thē, abhī bījēpī mēṃ haiṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_082
-दोनों ही महाराष्ट्र के मुख्यमंत्री रहे थे.
+dōnōṃ hī mahārāṣṭr kē mukhyamaṃtrī rahē thē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_083
-आप झूठ बोल रहे हैं *कभी बौद्ध मठ में मन्दिर, मुस्लिम काल में मन्दिर को मस्जिद बनाये तथा आजादी के बाद उसी मस्जिद में मन्दिर का विवाद लाकर राजनीति की खेती करने वाले यूरेशियन राजपूत ब्राह्मण ‌की साज़िश को समझने के बाद ही न्याय व सत्य का नियम भारत में आ सकेगा*
-Reduplication: 0 | Conjunctive Verb: 1 (लाकर) | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 1 (आजादी बाद) | Hyphen Pair: 0
+āp jhūṭh bōl rahē haiṃ *kabhī bauddh maṭh mēṃ mandir, muslim kāl mēṃ mandir kō masjid banāyē tathā ājādī kē bād usī masjid mēṃ mandir kā vivād lākar rājanīti kī khētī karanē vālē yūrēśiyan rājapūt brāhmaṇ ‌kī sāziś kō samajhanē kē bād hī nyāy v saty kā niyam bhārat mēṃ ā sakēgā*
+Reduplication: 0 | Conjunctive Verb: 1 (lākar) | Compound Verb: 0 | Honorific: 1 (āp [formal]) | Acronym: 0 | MWE: 1 (ājādī bād) | Hyphen Pair: 0
 
 T1_084
-आर एस एस भाजपा विदेशी मूल के लोग हैं जो भारत के प्रचलित धर्म जैन बौद्ध के काट में हिन्दू लाये और उसमें राजपूत ब्राह्मण भूमिहार ब्राह्मण आदि बन गये.
-Reduplication: 1 (एस-एस) | Conjunctive Verb: 0 | Compound Verb: 1 (बन+गये) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+ār ēs ēs bhājapā vidēśī mūl kē lōg haiṃ jō bhārat kē pracalit dharm jain bauddh kē kāṭ mēṃ hindū lāyē aur usamēṃ rājapūt brāhmaṇ bhūmihār brāhmaṇ ādi ban gayē.
+Reduplication: 1 (ēs-ēs) | Conjunctive Verb: 0 | Compound Verb: 1 (ban+gayē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_085
-देवी देवता गंगा नदी ईश्वर यूरेशियन शंकराचार्य के महत्व व धन्धा के लिये चार धाम यात्रा को पाप काटने का माध्यम बता कर गोरख धन्धा की व्यवस्था किये.
+dēvī dēvatā gaṃgā nadī īśvar yūrēśiyan śaṃkarācāry kē mahatv v dhandhā kē liyē cār dhām yātrā kō pāp kāṭanē kā mādhyam batā kar gōrakh dhandhā kī vyavasthā kiyē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_086
-विदेशी यूरेशियन हिन्दू मुस्लिम के सगे भाई है जो अरब तुगलक मंगोल के मुस्लिम आक्रमणकारी से आक्रमण करायें और भितरघात से भारत रक्षक नेक मूल निवासी क्षत्रिय को लुटकर संपत्ति पर काबिज हो गये तथा नष्ट समाज का शोषण मनु स्मृति जैसा ग्रन्थ लाकर किये.
-Reduplication: 0 | Conjunctive Verb: 3 (करायें, लुटकर, लाकर) | Compound Verb: 1 (हो+गये) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+vidēśī yūrēśiyan hindū muslim kē sagē bhāī hai jō arab tugalak maṃgōl kē muslim ākramaṇakārī sē ākramaṇ karāyēṃ aur bhitaraghāt sē bhārat rakṣak nēk mūl nivāsī kṣatriy kō luṭakar saṃpatti par kābij hō gayē tathā naṣṭ samāj kā śōṣaṇ manu smr̥ti jaisā granth lākar kiyē.
+Reduplication: 0 | Conjunctive Verb: 3 (karāyēṃ, luṭakar, lākar) | Compound Verb: 1 (hō+gayē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_087
-अंग्रेज के समय में ब्राह्मण नीति बंद होता देख तिवारी पांडेय आदि यूरेशियन ब्राह्मण व राजपूत अंग्रेज के खिलाफ विदेशी का मुद्दा लाकर नाटकीय ढंग से अंग्रेज को वापस जाने के लिये मजबूर किये.
-Reduplication: 0 | Conjunctive Verb: 1 (लाकर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+aṃgrēj kē samay mēṃ brāhmaṇ nīti baṃd hōtā dēkh tivārī pāṃḍēy ādi yūrēśiyan brāhmaṇ v rājapūt aṃgrēj kē khilāph vidēśī kā muddā lākar nāṭakīy ḍhaṃg sē aṃgrēj kō vāpas jānē kē liyē majabūr kiyē.
+Reduplication: 0 | Conjunctive Verb: 1 (lākar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_088
-अंग्रेज के जाने के बाद सवर्ण खासकर यूरेशियन राजपूत ब्राह्मण भूमिहार ब्राह्मण सक्सेना लाला मध्येशिया बनिया आजादी के समय से लेकर 60-70 के दशक में चुप रहे, लेकिन 80-90 के दशक में जब दलित पिछड़े अपने हक के लिये संघर्ष किये तो फूट डालने संस्थान बेचने आरक्षण पर रोक करने का काम चालू कर दिये हैं.
-Reduplication: 0 | Conjunctive Verb: 2 (लेकर, कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 2 (60-70, 80-90)
+aṃgrēj kē jānē kē bād savarṇ khāsakar yūrēśiyan rājapūt brāhmaṇ bhūmihār brāhmaṇ saksēnā lālā madhyēśiyā baniyā ājādī kē samay sē lēkar 60-70 kē daśak mēṃ cup rahē, lēkin 80-90 kē daśak mēṃ jab dalit pichaṛē apanē hak kē liyē saṃgharṣ kiyē tō phūṭ ḍālanē saṃsthān bēcanē ārakṣaṇ par rōk karanē kā kām cālū kar diyē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 2 (lēkar, kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 2 (60-70, 80-90)
 
 T1_089
-दलित पिछड़ों को सिद्धांत पर आना चाहिए और अपनी सत्ता के लिये अभियान चलाना चाहिए.
+dalit pichaṛōṃ kō siddhāṃt par ānā cāhiē aur apanī sattā kē liyē abhiyān calānā cāhiē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_090
-सत्ता मिलने पर जिसकी जितनी आबादी उतनी भागीदारी तथा न्याय व सत्य के नियम पर शासन करना चाहिए.
+sattā milanē par jisakī jitanī ābādī utanī bhāgīdārī tathā nyāy v saty kē niyam par śāsan karanā cāhiē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_091
-एक प्रश्न पूछता हूं कि अंग्रेज विदेशी थे तो यूरेशियन राजपूत ब्राह्मण भूमिहार ब्राह्मण आदि तथा शेख पठान सैय्यद विदेशी नहीं है.
+ēk praśn pūchatā hūṃ ki aṃgrēj vidēśī thē tō yūrēśiyan rājapūt brāhmaṇ bhūmihār brāhmaṇ ādi tathā śēkh paṭhān saiyyad vidēśī nahīṃ hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_092
-1206 से 1857 तक मुस्लिम शासन क्या यूरेशियन सवर्ण के रिश्तेदार का था.
+1206 sē 1857 tak muslim śāsan kyā yūrēśiyan savarṇ kē riśtēdār kā thā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_093
-यूरेशियन जब हिन्दू का पाखंड लाये तो पहले बौद्ध मठ को मन्दिर बना रहे थे.
+yūrēśiyan jab hindū kā pākhaṃḍ lāyē tō pahalē bauddh maṭh kō mandir banā rahē thē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_094
-मुस्लिम के समय मन्दिर में मस्जिद बनाया जा रहा था.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बनाया+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+muslim kē samay mandir mēṃ masjid banāyā jā rahā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (banāyā+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_095
-इस समय उसी मस्जिद में मन्दिर बनाया जा रहा है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बनाया+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+is samay usī masjid mēṃ mandir banāyā jā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (banāyā+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_096
-सबसे बड़े समाज व भारत विरोधी यूरेशियन अग्निकुंड ऋषिकुल के राजपूत सरजूपारी ब्राह्मण भूमिहार ब्राह्मण, सक्सेना लाला मध्येशिया बनिया हैं.
+sabasē baṛē samāj v bhārat virōdhī yūrēśiyan agnikuṃḍ r̥ṣikul kē rājapūt sarajūpārī brāhmaṇ bhūmihār brāhmaṇ, saksēnā lālā madhyēśiyā baniyā haiṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_097
-इनके भ्रम में जो देशी रोटी बेटी का रिश्ता करके इनकी बात में हां में हां कर रहे हैं, उन्हें देश विरोधी ताकत को समझना चाहिए.
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+inakē bhram mēṃ jō dēśī rōṭī bēṭī kā riśtā karakē inakī bāt mēṃ hāṃ mēṃ hāṃ kar rahē haiṃ, unhēṃ dēś virōdhī tākat kō samajhanā cāhiē.
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_098
-बकवास न्यूज झूठ महाझूठ फैंस न्यूज पुरानी बात फेक न्युज है एक टाइम था जब में इस चैनल पर बहुत ज्यादा विश्वास करता था,पर अब इस चैनल ने अपना विश्वास खो दिया है.
+bakavās nyūj jhūṭh mahājhūṭh phaiṃs nyūj purānī bāt phēk nyuj hai ēk ṭāim thā jab mēṃ is cainal par bahut jyādā viśvās karatā thā,par ab is cainal nē apanā viśvās khō diyā hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_099
-बहुत गलत न्यूज दिखाई जा रही है.
-Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (दिखाई+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bahut galat nyūj dikhāī jā rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dikhāī+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_100
-इतना आसान नहीं है नरेंद्र मोदी जिंदाबाद चाहीए या नही वोट करो नरेंद मोदी नरेद मोदी मोदी हटेंगे या नहीं?
-Reduplication: 1 (मोदी-मोदी) | Conjunctive Verb: 1 (करो) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+itanā āsān nahīṃ hai narēṃdr mōdī jiṃdābād cāhīē yā nahī vōṭ karō narēṃd mōdī narēd mōdī mōdī haṭēṃgē yā nahīṃ?
+Reduplication: 1 (mōdī-mōdī) | Conjunctive Verb: 1 (karō) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_101
-यह तो बाद में पता चलेगा .
+yah tō bād mēṃ patā calēgā .
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_102
-लेकिन इससे एक बात पता चली है कि श्री पृथ्वीराज चवन ज़िंदा हैं , सकुशल हैं और अभी तक कांग्रेस पार्टी में ही हैं.
+lēkin isasē ēk bāt patā calī hai ki śrī pr̥thvīrāj cavan ziṃdā haiṃ , sakuśal haiṃ aur abhī tak kāṃgrēs pārṭī mēṃ hī haiṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_103
-भाई बस करो, तुम्हारा चैनल 2024 से ही सरकार और प्रधानमंत्री बदल रहे है, बकवास न्यूज चैनल सच्ची बताओ ना तुम लोग से ज्यादा कोई झूठा होता ही नहीं पूरी भारत में पैसे कमाने के चक्कर में इतना भी झूठ मत बोलो वो अशोक चव्हाण नहीं है, पृथ्वीराज चौहान है.
-Reduplication: 0 | Conjunctive Verb: 1 (करो) | Compound Verb: 0 | Honorific: 1 (तुम [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bhāī bas karō, tumhārā cainal 2024 sē hī sarakār aur pradhānamaṃtrī badal rahē hai, bakavās nyūj cainal saccī batāō nā tum lōg sē jyādā kōī jhūṭhā hōtā hī nahīṃ pūrī bhārat mēṃ paisē kamānē kē cakkar mēṃ itanā bhī jhūṭh mat bōlō vō aśōk cavhāṇ nahīṃ hai, pr̥thvīrāj cauhān hai.
+Reduplication: 0 | Conjunctive Verb: 1 (karō) | Compound Verb: 0 | Honorific: 1 (tum [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_104
-दिनांक 19.12.25 को महाराष्ट्र से पी.एम. होगा और वो भी बीजेपी से.
+dināṃk 19.12.25 kō mahārāṣṭr sē pī.ēm. hōgā aur vō bhī bījēpī sē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_105
-अब वे क्या नितीन गड़करीजी होंगे?
+ab vē kyā nitīn gaṛakarījī hōṃgē?
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_106
-कुछ नहीं सब फेक न्यूज़ है यार न्यूज में कुछ भी चल रहा है ऐसा कुछ नहीं होने वाला मोदी है और रहेंगे.
+kuch nahīṃ sab phēk nyūz hai yār nyūj mēṃ kuch bhī cal rahā hai aisā kuch nahīṃ hōnē vālā mōdī hai aur rahēṃgē.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_107
-मैं मोदी का सपोर्टर नहीं हु लेकिन फालतू न्यूज से मूड खराब होता है ulta chasma uc से निवेदन करता हु ऐसे न्यूज अपने चैनल पर न दिखाएं.
+maiṃ mōdī kā sapōrṭar nahīṃ hu lēkin phālatū nyūj sē mūḍ kharāb hōtā hai ulta chasma uc sē nivēdan karatā hu aisē nyūj apanē cainal par n dikhāēṃ.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_108
-ओए झूठे पर्प कंडे मत फैलो मेरे समझ में नहीं आता तुम लोग कितना झूठ बोलकर मिलता क्या है बे तुम लोग को सपोर्ट करते करते हैं
-Reduplication: 1 (करते-करते) | Conjunctive Verb: 1 (बोलकर) | Compound Verb: 0 | Honorific: 2 (तुम [familiar], तुम [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+ōē jhūṭhē parp kaṃḍē mat phailō mērē samajh mēṃ nahīṃ ātā tum lōg kitanā jhūṭh bōlakar milatā kyā hai bē tum lōg kō sapōrṭ karatē karatē haiṃ
+Reduplication: 1 (karatē-karatē) | Conjunctive Verb: 1 (bōlakar) | Compound Verb: 0 | Honorific: 2 (tum [familiar], tum [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_109
-भरोसा ही उड़ गया कि तुम लोगों को मैं सपोर्ट कर रहा हूं
-Reduplication: 0 | Conjunctive Verb: 1 (कर) | Compound Verb: 1 (उड़+गया) | Honorific: 1 (तुम [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+bharōsā hī uṛ gayā ki tum lōgōṃ kō maiṃ sapōrṭ kar rahā hūṃ
+Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 1 (uṛ+gayā) | Honorific: 1 (tum [familiar]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
 T1_110
-तुम् इतना झूठ बोलते हो
+tum itanā jhūṭh bōlatē hō
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
