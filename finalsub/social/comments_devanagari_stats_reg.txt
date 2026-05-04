@@ -158,7 +158,7 @@ WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)
     sē lēkar  [from … up to]  (3×)
     kē tahat  [under / pursuant to]  (2×)
 
-  Exported sentence-level annotation to: work/normalized/comments_devanagari_annotation_reg.txt
+  Exported sentence-level annotation to: social/comments_devanagari_annotation_reg.txt
 
 ======================================================================
 PIPELINE COMPLETE

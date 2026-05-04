@@ -437,4 +437,3 @@ Reduplication: 0 | Conjunctive Verb: 1 (kar) | Compound Verb: 1 (uṛ+gayā) | H
 T1_110
 tum itanā jhūṭh bōlatē hō
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
-

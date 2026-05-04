@@ -445,4 +445,3 @@ Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acron
 T1_112
 ōē jhūṭhē parp kaṃḍē mat phailō mērē samajh mēṃ nahīṃ ātā tum lōg kitanā jhūṭh bōlakar milatā kyā hai bē tum lōg kō sapōrṭ karatē karatē haiṃ bharōsā hī uṛ gayā ki tum lōgōṃ kō maiṃ sapōrṭ kar rahā hūṃ tum itanā jhūṭh bōlatē hō
 Reduplication: 0 | Conjunctive Verb: 1 (bōla-kar) | Compound Verb: 2 (samajh+ātā, bharōsā+gayā) | Honorific: 4 (tum, tum, tum, tum) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
-

@@ -2,29 +2,62 @@
 
 ## Quick Start — Run in Order
 
+**Using `python`:**
 ```bash
 # 1. Regex pipeline (transcripts)
-python pipeline.py transcripts_raw.txt                # or: uv run pipeline.py transcripts_raw.txt
+python pipeline.py transcripts_raw.txt
 
 # 2. Neural pipeline (transcripts) — requires Stanza
-python neural_pipeline.py transcripts_raw.txt         # or: uv run neural_pipeline.py transcripts_raw.txt
+python neural_pipeline.py transcripts_raw.txt
 
-# 3. Evaluate regex vs gold
+# 3. Transliterate annotation files (Devanagari → ISO 15919)
+python transliteration.py transcripts_raw_annotation_reg.txt transcripts_raw_annotation_reg.txt
+python transliteration.py transcripts_raw_annotation_neural.txt transcripts_raw_annotation_neural.txt
+python transliteration.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_gold.txt
+
+# 4. Evaluate regex vs gold
 python metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_reg.txt
-# or: uv run metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_reg.txt
 
-# 4. Evaluate neural vs gold
+# 5. Evaluate neural vs gold
 python metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_neural.txt
-# or: uv run metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_neural.txt
 
-# 5. Repeat for social media corpus
-python pipeline.py social/comments_devanagari.txt     # or: uv run pipeline.py social/comments_devanagari.txt
+# 6. Repeat for social media corpus
+python pipeline.py social/comments_devanagari.txt
 python neural_pipeline.py social/comments_devanagari.txt
-# or: uv run neural_pipeline.py social/comments_devanagari.txt
+python transliteration.py social/comments_devanagari_annotation_reg.txt social/comments_devanagari_annotation_reg.txt
+python transliteration.py social/comments_devanagari_annotation_neural.txt social/comments_devanagari_annotation_neural.txt
+python transliteration.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_gold.txt
 python metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_reg.txt
-# or: uv run metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_reg.txt
 python metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_neural.txt
-# or: uv run metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_neural.txt
+```
+
+**Using `uv`:**
+```bash
+# 1. Regex pipeline (transcripts)
+uv run pipeline.py transcripts_raw.txt
+
+# 2. Neural pipeline (transcripts) — requires Stanza
+uv run neural_pipeline.py transcripts_raw.txt
+
+# 3. Transliterate annotation files (Devanagari → ISO 15919)
+uv run transliteration.py transcripts_raw_annotation_reg.txt transcripts_raw_annotation_reg.txt
+uv run transliteration.py transcripts_raw_annotation_neural.txt transcripts_raw_annotation_neural.txt
+uv run transliteration.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_gold.txt
+
+# 4. Evaluate regex vs gold
+uv run metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_reg.txt
+
+# 5. Evaluate neural vs gold
+uv run metrics.py transcripts_raw_annotation_gold.txt transcripts_raw_annotation_neural.txt
+
+# 6. Repeat for social media corpus
+uv run pipeline.py social/comments_devanagari.txt
+uv run neural_pipeline.py social/comments_devanagari.txt
+uv run transliteration.py social/comments_devanagari_annotation_reg.txt social/comments_devanagari_annotation_reg.txt
+uv run transliteration.py social/comments_devanagari_annotation_neural.txt social/comments_devanagari_annotation_neural.txt
+uv run transliteration.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_gold.txt
+uv run metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_reg.txt
+uv run metrics.py social/comments_devanagari_annotation_gold.txt social/comments_devanagari_annotation_neural.txt
 ```
 
 ---
@@ -50,7 +83,7 @@ Two corpora are analysed:
 ## Folder Structure
 
 ```
-./
+finalsub/
 ├── pipeline.py                                  # Rule-based regex pipeline (Weeks 1–4)
 ├── neural_pipeline.py                           # Stanza-based neural pipeline
 ├── metrics.py                                   # Evaluation script (gold vs predicted annotations)
@@ -79,7 +112,8 @@ Two corpora are analysed:
 │   ├── comments_devanagari_metrics_reg.txt      # Evaluation metrics: regex vs gold (comments)
 │   └── comments_devanagari_metrics_neural.txt   # Evaluation metrics: neural vs gold (comments)
 │
-└── project_report.pdf                            # Final project report
+├── project_report.pdf                            # Final project report
+└── presentation.pdf                            # Final presentation
 ```
 
 ## Scripts

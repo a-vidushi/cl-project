@@ -176,7 +176,7 @@ SPEED SUMMARY
   Episode                 Sentences     Time (s)     Sent/s
   --------------------------------------------------------
 
-  Exported sentence-level annotation to: finalsub/transcripts_raw_annotation_neural.txt
+  Exported sentence-level annotation to: transcripts_raw_annotation_neural.txt
 
 ======================================================================
 NEURAL PIPELINE COMPLETE

@@ -171,9 +171,6 @@ def evaluate(gold_path, pred_path):
 
     print(f"{'OVERALL (micro)':<20} {micro_acc:>10.4f} {micro_p:>10.4f} {micro_r:>10.4f} {micro_f:>10.4f}  "
           f"{total_tp:>3}  {total_fp:>3}  {total_fn:>3}")
-    print()
-    print(f"Sentence-level accuracy (all categories correct): "
-          f"{sent_acc:.4f}  ({fully_correct}/{total_sentences})")
 
 
 if __name__ == "__main__":

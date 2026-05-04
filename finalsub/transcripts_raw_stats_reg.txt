@@ -232,7 +232,7 @@ WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)
     kī vajah sē  [because of]  (2×)
     kē anusār  [according to]  (1×)
 
-  Exported sentence-level annotation to: finalsub/transcripts_raw_annotation_reg.txt
+  Exported sentence-level annotation to: transcripts_raw_annotation_reg.txt
 
 ======================================================================
 PIPELINE COMPLETE

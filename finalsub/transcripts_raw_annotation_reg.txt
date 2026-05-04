@@ -1,5 +1,3 @@
-﻿**DATA**
-
 T1_001
 mērē pyārē dēśavāsiyō, namaskār.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
@@ -2531,4 +2529,3 @@ Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acron
 T3_208
 vaṃdē mātaram.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
-

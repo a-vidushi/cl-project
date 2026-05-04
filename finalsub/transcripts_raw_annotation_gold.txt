@@ -2369,4 +2369,3 @@ Reduplication: 1 (karīb-karīb) | Conjunctive Verb: 0 | Compound Verb: 1 (ban r
 T1_594 
 unakā prērak jīvan har pīṛhī kā mārgadarśan karatā rahēgā.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (karatā rahēgā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
-

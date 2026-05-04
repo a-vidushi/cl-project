@@ -1,4 +1,4 @@
-﻿T1_001
+T1_001
 mērē pyārē dēśavāsiyō, namaskār. 'man kī bāt' mēṃ āpakā svāgat hai, abhinaṃdan hai.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āpakā [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
 
@@ -2453,4 +2453,3 @@ Reduplication: 1 (bahut-bahut) | Conjunctive Verb: 0 | Compound Verb: 0 | Honori
 T3_201
 dhanyavād. vaṃdē mātaram.
 Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
-
