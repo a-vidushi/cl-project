@@ -39,11 +39,26 @@ RESULTS BY PATTERN
 ── Conjunctive Verbs ──
   Episode                   Total     Unique
   ------------------------------------------
-  February 2026                 0          0
-  January 2026                  0          0
-  December 2025                 0          0
+  February 2026                27         16
+  January 2026                 48         15
+  December 2025                28         10
 
   Top examples (all episodes):
+    कर  (32×)
+    लेकर  (20×)
+    देखकर  (10×)
+    करेंगे  (4×)
+    होकर  (4×)
+    मिलकर  (4×)
+    जानकर  (3×)
+    करे  (2×)
+    करूंगा  (2×)
+    करें  (2×)
+    निकलकर  (2×)
+    बैठकर  (2×)
+    जीतकर  (2×)
+    करेगी  (1×)
+    सुधारकर  (1×)
 
 ── Compound Verbs ──
   Episode                   Total     Unique

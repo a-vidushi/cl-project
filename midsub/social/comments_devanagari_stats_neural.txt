@@ -37,9 +37,24 @@ RESULTS BY PATTERN
 ── Conjunctive Verbs ──
   Episode                   Total     Unique
   ------------------------------------------
-  comments_devanagari.txt          0          0
+  comments_devanagari.txt         65         25
 
   Top examples (all episodes):
+    कर  (27×)
+    करो  (4×)
+    लेकर  (4×)
+    लाकर  (3×)
+    करे  (2×)
+    करा  (2×)
+    देकर  (2×)
+    हटाकर  (2×)
+    लिखकर  (2×)
+    बोलकर  (2×)
+    खुलकर  (1×)
+    करें  (1×)
+    सुनकर  (1×)
+    कराओ  (1×)
+    चलकर  (1×)
 
 ── Compound Verbs ──
   Episode                   Total     Unique
@@ -128,7 +143,7 @@ SPEED SUMMARY
   Episode                 Sentences     Time (s)     Sent/s
   --------------------------------------------------------
 
-  Exported sentence-level annotation to: work/normalized/comments_devanagari_annotation_neural.txt
+  Exported sentence-level annotation to: midsub/social/comments_devanagari_annotation_neural.txt
 
 ======================================================================
 NEURAL PIPELINE COMPLETE

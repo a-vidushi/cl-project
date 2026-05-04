@@ -91,7 +91,7 @@ def extract_from_sentence(sent) -> dict:
             results["Reduplication"].append(f"{prev_text}-{text}")
 
         # Conjunctive Verbs
-        if upos == "VERB" and re.search(r'-?(kar|ke|kē)$', text, re.IGNORECASE):
+        if upos == "VERB" and re.search(r'-?(कर|के)\b', text, re.IGNORECASE):
             results["Conjunctive Verbs"].append(text)
 
         # Compound Verbs
