@@ -1,0 +1,29 @@
+  [comments_devanagari.txt] 110 sentences processed in 7.4s (15 sent/s)
+  comments_devanagari.txt          110         7.38       14.9
+
+  NOTE: Compare Stanza sent/s against the regex pipeline's throughput
+  (measured separately in pipeline.py).  The regex approach typically
+  runs 50-200× faster; the neural model trades speed for morphological
+  awareness (lemmatisation, POS, dependency structure).
+
+  No gold_standard.json found.  To enable automatic P/R/F1 evaluation,
+  create a gold_standard.json file in the same directory as this script.
+  See the module docstring for the required format.
+
+  Exported sentence-level annotation to: work/normalized/comments_devanagari_annotation_neural.txt
+
+======================================================================
+NEURAL PIPELINE COMPLETE
+======================================================================
+
+  [comments_devanagari.txt] 110 sentences processed in 7.5s (15 sent/s)
+  comments_devanagari.txt          110         7.50       14.7
+
+  NOTE: Compare Stanza sent/s against the regex pipeline's throughput
+  (measured separately in pipeline.py).  The regex approach typically
+  runs 50-200× faster; the neural model trades speed for morphological
+  awareness (lemmatisation, POS, dependency structure).
+
+  No gold_standard.json found.  To enable automatic P/R/F1 evaluation,
+  create a gold_standard.json file in the same directory as this script.
+  See the module docstring for the required format.

@@ -1,0 +1,165 @@
+
+======================================================================
+WEEK 1 — CORPUS EXPLORATION & UTF-8 VALIDATION
+======================================================================
+Metric                comments_devanagari.txt           TOTAL
+-------------------------------------------------------------
+Total chars                      20040           20040
+Devanagari chars                 15424           15424
+Latin alpha chars                  105             105
+Digit chars                         86              86
+Invalid Unicode                      0               0
+Total tokens                      4230            4230
+Devanagari tokens                 4153            4153
+Latin tokens                        32              32
+Sentences (approx.)                112             112
+Poorna viram (।)                     0               0
+Double danda (॥)                     0               0
+
+Sample sentence boundaries (comments_devanagari.txt, first 5):
+  [1] टूल kitiya गैंग सक्रिय कही भी कुछ नहीं
+  [2] ●कुछ लोगों को 11वर्ष पहले जीर्ण कृच्छ साध्य- विवन्ध (कब्ज , Cons tipation) हूआ थ…
+  [3] एक नाडी-कुशल वैद्य ने निदान कर उन्हें औषधि बतायी
+  [4] "हर 48 घंटे पर "मोदी इस्तीफा देने जा रहे " या *गुजराती लाबी जेल जाने की तैयारी म…
+  [5] खुलकर शौच हो जायेगा
+
+======================================================================
+WEEK 2 — PREPROCESSING & TRANSLITERATION
+======================================================================
+
+Transliteration sample (10 sentences per episode):
+
+── comments_devanagari.txt ──
+  ṭūl kitiya gaiṃg sakriy kahī bhī kuch nahīṃ
+  ●kuch lōgōṃ kō 11varṣ pahalē jīrṇ kr̥cch sādhy- vivandh (kabj , Cons tipation) hūā thā
+  ēk nāḍī-kuśal vaidy nē nidān kar unhēṃ auṣadhi batāyī
+  "har 48 ghaṃṭē par "mōdī istīphā dēnē jā rahē " yā *gujarātī lābī jēl jānē kī taiyārī mēṃ" thambanēl…
+  khulakar śauc hō jāyēgā
+  ¶tabasē vē yah davā niyamit lē rahē haiṃ
+  kadācit bhūl jāyēṃ tō daśā śōcanīy (=hālat k͟harāb) hō jātī hai
+  sabhī rāṣṭrabhaktō sē nivēdan hai ki unakī vyādhi kō samajhēṃ aur marīz kē prati sahā nubhūti pradar…
+  saccāī chup nahīṃ sakatī kabhī banāvaṭ kē usūlōṃ sē khuśabū ā nahīṃ sakatī kabhī kāgaj kē phūlōṃ sē
+…
+  bahut khūb ab khēl śurū hōgā samay kā
+acchī bāt hai jō hōtā hai acchē kē liē hōtā hai kisī kē liē ka…
+
+Spot-check transliteration accuracy:
+  ✓  नमस्कार → namaskār  (expected namaskār)
+  ✓  भारत → bhārat  (expected bhārat)
+  ✓  किसान → kisān  (expected kisān)
+  ✓  धीरे → dhīrē  (expected dhīrē)
+  ✗  सरकार → sarakār  (expected sarkār)
+
+  Transliteration note: schwa deletion is word-final only.
+  Medial schwas in ~4230 tokens remain undeleted (known limitation).
+  This affects compound verb stems most — e.g. sarakār vs sarkār.
+
+======================================================================
+WEEK 3 — PATTERN EXTRACTION (REDUPLICATION, ACRONYMS, HYPHENATED PAIRS)
+======================================================================
+
+── Reduplication ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                  4              3
+
+  Top examples (across all episodes):
+    sāth-sāth  (2×)
+    bār-bār  (1×)
+    jin-jin  (1×)
+
+── Acronyms ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                  6              5
+
+  Top examples (across all episodes):
+    SIR  (2×)
+    IAS  (1×)
+    IPS  (1×)
+    RJD  (1×)
+    RSS  (1×)
+
+── Hyphenated Pairs ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                  2              2
+
+  Top examples (across all episodes):
+    60-70  (1×)
+    80-90  (1×)
+
+======================================================================
+WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)
+======================================================================
+
+── Conjunctive Verbs (-kar / -kē) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                 34             25
+
+  Top examples:
+    kara-kē  (4×)
+    bōla-kar  (2×)
+    cak-kar  (2×)
+    haṭā-kar  (2×)
+    ina-kē  (2×)
+    likha-kar  (2×)
+    āpa-kē  (2×)
+    ambēḍa-kar  (1×)
+    bana-kē  (1×)
+    bhara-kar  (1×)
+    cala-kar  (1×)
+    isa-kē  (1×)
+    jisa-kē  (1×)
+    khula-kar  (1×)
+    khā-kar  (1×)
+
+── Compound Verbs (stem + vector) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                 53             53
+
+  Top examples (stem+vector):
+    acchā+āyā  (1×)
+    agar+diyā  (1×)
+    ahaṃkār+gayā  (1×)
+    aisā+dē  (1×)
+    amērikā+jā  (1×)
+    apanā+diyā  (1×)
+    baiṃk+gayā  (1×)
+    baḍhiyā+lē  (1×)
+    baṛē+dē  (1×)
+    bharōsā+gayā  (1×)
+    bhi+ā  (1×)
+    bāt+gayā  (1×)
+    bēc+gayā  (1×)
+    bōlō+lē  (1×)
+    dēkhanā+gayā  (1×)
+
+── Honorifics (āp / tum / tū) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                 15              2
+
+  Register breakdown (all episodes):
+    āp [formal]  (9×)
+    tum [familiar]  (6×)
+
+── Multi-Word Expressions (lexicon-driven) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  comments_devanagari.txt                 21              5
+
+  MWE types found (all episodes):
+    kē bād  [after]  (7×)
+    kē sāth  [with / along with]  (5×)
+    kē liyē  [for / in order to]  (4×)
+    sē lēkar  [from … up to]  (3×)
+    kē tahat  [under / pursuant to]  (2×)
+
+  Exported sentence-level annotation to: work/normalized/comments_devanagari_annotation_reg.txt
+
+======================================================================
+PIPELINE COMPLETE
+======================================================================

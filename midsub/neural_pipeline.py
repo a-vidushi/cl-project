@@ -131,7 +131,7 @@ def extract_from_sentence(sent) -> dict:
 
 # EPISODE-LEVEL PROCESSING
 
-def process_episode(nlp, raw_text: str, label: str) -> dict:
+def process_episode(nlp, raw_text: str, label: str) -> tuple[dict, dict, list]:
     preprocessed = preprocess(raw_text)
 
     t0 = time.time()
@@ -145,10 +145,30 @@ def process_episode(nlp, raw_text: str, label: str) -> dict:
           f"({speed:.0f} sent/s)")
 
     all_matches: dict[str, list] = defaultdict(list)
+    sentence_annotations = []
+    
     for sent in doc.sentences:
         per_sent = extract_from_sentence(sent)
         for pattern, matches in per_sent.items():
             all_matches[pattern].extend(matches)
+            
+        def fmt(name, key):
+            lst = per_sent.get(key, [])
+            if not lst:
+                return f"{name}: 0"
+            return f"{name}: {len(lst)} ({', '.join(lst)})"
+            
+        clean_raw = " ".join((sent.text or "").split())
+        parts = [
+            fmt("Reduplication", "Reduplication"),
+            fmt("Conjunctive Verb", "Conjunctive Verbs"),
+            fmt("Compound Verb", "Compound Verbs"),
+            fmt("Honorific", "Honorifics"),
+            fmt("Acronym", "Acronyms"),
+            fmt("MWE", "MWEs"),
+            fmt("Hyphen Pair", "Hyphenated Pairs")
+        ]
+        sentence_annotations.append((clean_raw, " | ".join(parts)))
 
     episode_result = {}
     PATTERNS = [
@@ -168,7 +188,7 @@ def process_episode(nlp, raw_text: str, label: str) -> dict:
         }
 
     return episode_result, {"sentences": n_sents, "time_s": round(elapsed, 2),
-                             "speed_sent_per_s": round(speed, 1)}
+                             "speed_sent_per_s": round(speed, 1)}, sentence_annotations
 
 
 # EVALUATION AGAINST GOLD STANDARD
@@ -211,101 +231,123 @@ def evaluate_against_gold(
     return eval_results
 
 
+def export_annotation_format_neural(episode_order: list[str], all_sentence_annotations: dict, out_filepath: str):
+    """Generates the per-sentence annotation file with pattern matches for neural pipeline."""
+    with open(out_filepath, "w", encoding="utf-8") as f:
+        for ep_idx, ep in enumerate(episode_order, 1):
+            sent_anns = all_sentence_annotations[ep]
+            for sent_idx, (clean_raw, parts_str) in enumerate(sent_anns, 1):
+                f.write(f"T{ep_idx}_{sent_idx:03d}\n")
+                f.write(f"{clean_raw}\n")
+                f.write(f"{parts_str}\n\n")
+
 # MAIN RUNNER
 
 def run(transcript_path: str) -> dict:
-    print("\n" + "="*70)
-    print("WEEK 4 (TASK 2) – NEURAL COMPARATIVE PIPELINE")
-    print("="*70)
+    stats_path = os.path.splitext(transcript_path)[0] + "_stats_neural.txt"
+    with open(stats_path, "w", encoding="utf-8") as f:
+        print("\n" + "="*70, file=f)
+        print("WEEK 4 (TASK 2) – NEURAL COMPARATIVE PIPELINE", file=f)
+        print("="*70, file=f)
 
-    # Load corpus
-    episodes_raw   = load_transcripts(transcript_path)
-    episode_order  = list(episodes_raw.keys())
+        # Load corpus
+        episodes_raw   = load_transcripts(transcript_path)
+        episode_order  = list(episodes_raw.keys())
 
-    # Load Stanza
-    print("\nLoading Stanza Hindi pipeline …")
-    nlp = load_stanza_pipeline()
-    print("Stanza pipeline ready.\n")
+        # Load Stanza
+        print("\nLoading Stanza Hindi pipeline …", file=f)
+        nlp = load_stanza_pipeline()
+        print("Stanza pipeline ready.\n", file=f)
 
-    PATTERNS = [
-        "Reduplication", "Conjunctive Verbs", "Compound Verbs",
-        "Honorifics", "Acronyms", "MWEs", "Hyphenated Pairs",
-    ]
+        PATTERNS = [
+            "Reduplication", "Conjunctive Verbs", "Compound Verbs",
+            "Honorifics", "Acronyms", "MWEs", "Hyphenated Pairs",
+        ]
 
-    neural_results = {}
-    speed_log      = {}
+        neural_results = {}
+        speed_log      = {}
+        all_sentence_annotations = {}
 
-    print("Processing episodes:")
-    for ep in episode_order:
-        ep_result, timing = process_episode(nlp, episodes_raw[ep], ep)
-        neural_results[ep] = ep_result
-        speed_log[ep]      = timing
-
-    print("\n" + "="*70)
-    print("RESULTS BY PATTERN")
-    print("="*70)
-
-    for pat in PATTERNS:
-        print(f"\n── {pat} ──")
-        print(f"  {'Episode':<20} {'Total':>10} {'Unique':>10}")
-        print("  " + "-"*42)
+        print("Processing episodes:", file=f)
         for ep in episode_order:
-            r = neural_results[ep][pat]
-            print(f"  {ep:<20} {r['total']:>10} {r['unique']:>10}")
+            ep_result, timing, sent_anns = process_episode(nlp, episodes_raw[ep], ep)
+            neural_results[ep] = ep_result
+            speed_log[ep]      = timing
+            all_sentence_annotations[ep] = sent_anns
 
-        # Aggregate top examples
-        agg: dict[str, int] = {}
+        print("\n" + "="*70, file=f)
+        print("RESULTS BY PATTERN", file=f)
+        print("="*70, file=f)
+
+        for pat in PATTERNS:
+            print(f"\n── {pat} ──", file=f)
+            print(f"  {'Episode':<20} {'Total':>10} {'Unique':>10}", file=f)
+            print("  " + "-"*42, file=f)
+            for ep in episode_order:
+                r = neural_results[ep][pat]
+                print(f"  {ep:<20} {r['total']:>10} {r['unique']:>10}", file=f)
+
+            # Aggregate top examples
+            agg: dict[str, int] = {}
+            for ep in episode_order:
+                for item, cnt in neural_results[ep][pat]["freq"].items():
+                    agg[item] = agg.get(item, 0) + cnt
+            print(f"\n  Top examples (all episodes):", file=f)
+            for item, cnt in sorted(agg.items(), key=lambda x: -x[1])[:15]:
+                print(f"    {item}  ({cnt}×)", file=f)
+
+        print("\n" + "="*70, file=f)
+        print("SPEED SUMMARY", file=f)
+        print("="*70, file=f)
+        print(f"  {'Episode':<20} {'Sentences':>12} {'Time (s)':>12} {'Sent/s':>10}", file=f)
+        print("  " + "-"*56, file=f)
         for ep in episode_order:
-            for item, cnt in neural_results[ep][pat]["freq"].items():
-                agg[item] = agg.get(item, 0) + cnt
-        print(f"\n  Top examples (all episodes):")
-        for item, cnt in sorted(agg.items(), key=lambda x: -x[1])[:15]:
-            print(f"    {item}  ({cnt}×)")
+            t = speed_log[ep]
+            print(f"  {ep:<20} {t['sentences']:>12} {t['time_s']:>12.2f} "
+                  f"{t['speed_sent_per_s']:>10.1f}")
 
-    print("\n" + "="*70)
-    print("SPEED SUMMARY")
-    print("="*70)
-    print(f"  {'Episode':<20} {'Sentences':>12} {'Time (s)':>12} {'Sent/s':>10}")
-    print("  " + "-"*56)
-    for ep in episode_order:
-        t = speed_log[ep]
-        print(f"  {ep:<20} {t['sentences']:>12} {t['time_s']:>12.2f} "
-              f"{t['speed_sent_per_s']:>10.1f}")
-
-    print(
-        "\n  NOTE: Compare Stanza sent/s against the regex pipeline's throughput\n"
-        "  (measured separately in pipeline.py).  The regex approach typically\n"
-        "  runs 50-200× faster; the neural model trades speed for morphological\n"
-        "  awareness (lemmatisation, POS, dependency structure)."
-    )
-
-    # Gold-standard evaluation
-    eval_results = evaluate_against_gold(neural_results)
-    if eval_results:
-        print("\n" + "="*70)
-        print("EVALUATION AGAINST GOLD STANDARD")
-        print("="*70)
-        for ep, pats in eval_results.items():
-            print(f"\n  {ep}")
-            print(f"    {'Pattern':<22} {'P':>6} {'R':>6} {'F1':>6} {'TP':>5} {'FP':>5} {'FN':>5}")
-            print("    " + "-"*56)
-            for pat, scores in pats.items():
-                print(f"    {pat:<22} {scores['precision']:>6.3f} {scores['recall']:>6.3f} "
-                      f"{scores['f1']:>6.3f} {scores['tp']:>5} {scores['fp']:>5} {scores['fn']:>5}")
-    else:
         print(
-            "\n  No gold_standard.json found.  To enable automatic P/R/F1 evaluation,\n"
-            "  create a gold_standard.json file in the same directory as this script.\n"
-            "  See the module docstring for the required format."
+            "\n  NOTE: Compare Stanza sent/s against the regex pipeline's throughput\n"
+            "  (measured separately in pipeline.py).  The regex approach typically\n"
+            "  runs 50-200× faster; the neural model trades speed for morphological\n"
+            "  awareness (lemmatisation, POS, dependency structure)."
         )
 
-    print("\n" + "="*70)
-    print("NEURAL PIPELINE COMPLETE")
-    print("="*70)
+        # Gold-standard evaluation
+        eval_results = evaluate_against_gold(neural_results)
+        if eval_results:
+            print("\n" + "="*70, file=f)
+            print("EVALUATION AGAINST GOLD STANDARD", file=f)
+            print("="*70, file=f)
+            for ep, pats in eval_results.items():
+                print(f"\n  {ep}", file=f)
+                print(f"    {'Pattern':<22} {'P':>6} {'R':>6} {'F1':>6} {'TP':>5} {'FP':>5} {'FN':>5}", file=f)
+                print("    " + "-"*56, file=f)
+                for pat, scores in pats.items():
+                    print(f"    {pat:<22} {scores['precision']:>6.3f} {scores['recall']:>6.3f} "
+                          f"{scores['f1']:>6.3f} {scores['tp']:>5} {scores['fp']:>5} {scores['fn']:>5}")
+        else:
+            print(
+                "\n  No gold_standard.json found.  To enable automatic P/R/F1 evaluation,\n"
+                "  create a gold_standard.json file in the same directory as this script.\n"
+                "  See the module docstring for the required format."
+            )
+
+        # Generate the requested annotation file
+        annotation_path = os.path.splitext(transcript_path)[0] + "_annotation_neural.txt"
+        try:
+            export_annotation_format_neural(episode_order, all_sentence_annotations, annotation_path)
+            print(f"\n  Exported sentence-level annotation to: {annotation_path}", file=f)
+        except Exception as e:
+            print(f"\n  Error exporting annotation: {e}", file=f)
+
+        print("\n" + "="*70, file=f)
+        print("NEURAL PIPELINE COMPLETE", file=f)
+        print("="*70, file=f)
 
     return neural_results
 
 
 if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else "/Users/vidushi_agarwal/College/UG1-2/CL-1/proj/midsub/transcripts_raw.txt"
+    path = sys.argv[1] if len(sys.argv) > 1 else print("Please provide a path to the transcript file")
     run(path)

@@ -1,0 +1,2456 @@
+T1_001
+मेरे प्यारे देशवासियो, नमस्कार. 'मन की बात' में आपका स्वागत है, अभिनंदन है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपका [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_002
+'मन की बात' देश और देशवासियों की उपलब्धियों को सामने लाने का एक मजबूत प्लेटफॉर्म है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_003
+देश ने ऐसी ही उपलब्धि, अभी दिल्ली में हुई Global AI Impact Summit के दौरान देखी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_004
+कई देशों के नेता, उद्योग जगत के leaders, Innovators और Start-Up sector से जुड़े लोग, AI Impact Summit के लिये भारत मंडपम में एकत्र हुए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 1 (Start-Up)
+
+T1_005
+आने वाले समय में AI की शक्ति का उपयोग दुनिया किस प्रकार करेगी, इस दिशा में यह summit एक turning point साबित हुई है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_006
+साथियो, Summit में मुझे World Leaders और Tech CEOs से मिलने का भी अवसर मिला.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_007
+AI summit की exhibition में मैंने World Leaders को ढ़ेर सारी चीजें दिखाई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_008
+मैं दो बातों का विशेष रूप से उल्लेख करना चाहता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_009
+Summit में इन दो products ने दुनिया भर के leaders को बहुत प्रभावित किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_010
+पहला product अमूल के booth पर था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_011
+इसमें बताया गया कि कैसे AI जानवरों का इलाज करने में हमारी मदद कर रही है और कैसे 24×7 AI assistance की मदद से किसान अपनी डेयरी और जानवर का हिसाब रखते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बताया+गया) | Honorific: 0 | Acronym: 2 (AI, AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_012
+साथियो, दूसरा product हमारी संस्कृति से संबंधित था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_013
+दुनिया भर के leaders ये देखकर हैरत में पड़ गए कि कैसे AI की मदद से हम हमारे प्राचीन ग्रंथों को, हमारे प्राचीन ज्ञान को, हमारी पांडुलिपियों को संरक्षित कर रहे हैं, आज की generation के अनुरूप ढ़ाल रहे हैं.
+Reduplication: 1 (हम-हमारे) | Conjunctive Verb: 0 | Compound Verb: 1 (पड़+गए) | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_014
+साथियो, Exhibition के दौरान display के लिये सुश्रुत संहिता का चयन किया गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_015
+पहले step में दिखाया गया कि कैसे technology की मदद से हम पांडुलिपियों की image quality सुधारकर उन्हें पढ़ने लायक बना रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (दिखाया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_016
+Second step में इस image को मशीन के पढ़ने लायक text में बदला गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बदला+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_017
+अगले step में machine-readable text को एक AI अवतार ने पढ़ा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_018
+और फिर, अगले step में हमने ये भी दिखाया कि कैसे technology से ये अनमोल भारतीय ज्ञान Indian languages और विदेशी भाषाओं में translate किया जा सकता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_019
+भारत के प्राचीन ज्ञान को आधुनिक अवतार के माध्यम से जानने में World Leaders ने बहुत दिलचस्पी दिखाई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_020
+साथियो, इस summit में दुनिया को AI के क्षेत्र में भारत की अद्भुत क्षमताएँ देखने को मिली हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_021
+इस दौरान भारत ने तीन Made In India AI Model भी launch किए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_022
+यह अपने आप में अब तक की सबसे बड़ी AI summit रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_023
+इस summit को लेकर युवाओं का जोश और उत्साह देखते ही बन रहा था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_024
+मैं सभी देशवासियों को इस summit की सफलता की बधाई देता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_025
+साथियो, मैं अक्सर कहता हूँ 'जो खेले-वो खिले'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (खेले-वो)
+
+T1_026
+खेल हमें जोड़ता भी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_027
+आजकल आप T-20 world cup के मैच देख रहे होंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_028
+और मुझे पक्का विश्वास है कि मैच देखते हुए कई बार आँखें किसी खास खिलाड़ी पर टिक जाती होंगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (टिक+जाती) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_029
+Jersey किसी और देश की होती है लेकिन नाम सुनकर लगता है कि अरे, ये तो अपने देश का है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_030
+तब दिल के किसी कोने में एक हल्की सी खुशी आती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_031
+क्योंकि वो खिलाड़ी भारतीय मूल का होता है और वो उस देश के लिये खेल रहा होता है जहां उसका परिवार बस गया है.
+Reduplication: 1 (वो-उस) | Conjunctive Verb: 0 | Compound Verb: 1 (बस+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_032
+वे अपने-अपने देशों की jersey पहनकर मैदान में उतरते हैं, पूरे मन से उस देश का प्रतिनिधित्व करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_033
+Canada की टीम में सबसे ज्यादा भारतीय मूल के खिलाड़ी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_034
+टीम के कप्तान दिलप्रीत बाजवा का जन्म पंजाब के गुरदासपुर में हुआ था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_035
+नवनीत धालीवाल चंडीगढ़ के हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_036
+इस list में हर्ष ठाकर, श्रेयस मोवा जैसे कई नाम हैं, जो Canada के साथ-साथ भारत का भी गौरव बढ़ा रहे हैं.
+Reduplication: 1 (साथ-साथ) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_037
+America की टीम में कई चेहरे भारत के घरेलू क्रिकेट से निकले हुए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_038
+अमेरिकी टीम के कप्तान मोनांक पटेल गुजरात की under-16 और under-18 टीम के लिये भी खेल चुके हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 2 (under-16, under-18)
+
+T1_039
+मुंबई के सौरभ, हरमीत सिंह, दिल्ली के मिलिंद कुमार, ये सब अमेरिकी टीम की शान हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_040
+Oman की टीम में आज कई चेहरे हैं जो पहले भारत के अलग-अलग राज्यों में खेल चुके हैं.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_041
+जतिंदर सिंह, विनायक शुक्ला, करन, जय, आशीष जैसे खिलाड़ी Oman क्रिकेट की मजबूत कड़ी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_042
+New Zealand, UAE और Italy की टीमों में भी भारतीय मूल के खिलाड़ी अपनी जगह बना रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (UAE) | MWE: 0 | Hyphen Pair: 0
+
+T1_043
+ऐसे कितने ही भारतीय मूल के खिलाड़ी हैं जो अपने देश का गौरव बढ़ा रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_044
+वहाँ के युवाओं के लिये प्रेरणा बन रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_045
+भारतीयता की यही तो विशेषता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_046
+भारतीय जहां भी जाते हैं अपनी मातृभूमि की जड़ों से जुड़े रहते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_047
+और अपनी कर्मभूमि यानि जिस देश में रहते हैं उसके विकास में भी सहयोग करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_048
+मेरे प्यारे देशवासियो, किसी भी माता-पिता के लिए अपने बच्चे को खोने से बड़ा दु:ख कुछ और हो ही नहीं सकता.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (माता-पिता लिए) | Hyphen Pair: 1 (माता-पिता)
+
+T1_049
+छोटे से बच्चे को खोने का दुख तो और भी गहरा होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_050
+कुछ ही दिन पहले हमने केरला की एक नन्ही मासूम आलिन शेरिन अब्राहम को खो दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_051
+महज 10 महीनों में वो इस दुनिया से चली गई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (चली+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_052
+कल्पना कीजिए- उसके सामने पूरी जिंदगी थी, जो अचानक खत्म हो गई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_053
+कितने ही सपने और खुशियां अधूरी रह गई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (रह+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_054
+उसके parents जिस पीड़ा से गुजर रहे होंगे, उसे शब्दों से व्यक्त नहीं किया जा सकता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_055
+लेकिन इतने गहरे दर्द के बीच भी आलिन के पिता अरुण अब्राहम और माँ शेरिन ने एक ऐसा फैसला लिया, जिससे हर देशवासी का हृदय उनके प्रति सम्मान से भर गया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (भर+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (दर्द बीच) | Hyphen Pair: 0
+
+T1_056
+उन्होंने आलिन के अंगदान का फैसला किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_057
+इस एक फैसले से पता चलता है कि उनकी सोच कितनी बड़ी है और व्यक्तित्व कितना विशाल.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_058
+एक तरफ वे अपनी बच्ची को खोने के शोक में डूबे थे, तो वहीं दूसरों की मदद का भाव भी उनमें भरा था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_059
+वे चाहते थे कि किसी भी परिवार को ऐसा दिन देखना ना पड़े.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (देखना+पड़े) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_060
+आलिन शेरिन अब्राहम आज हमारे बीच नहीं है, लेकिन उसका नाम देश के कम उम्र की organ donors में जुड़ गया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (जुड़+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (हमारे बीच) | Hyphen Pair: 0
+
+T1_061
+साथियो, इन दिनों भारत में organ donation को लेकर जागरूकता लगातार बढ़ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_062
+इससे उन लोगों की मदद हो रही है, जिन्हें इसकी जरूरत है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_063
+इसके साथ ही देश में medical research को भी बल मिल रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके साथ) | Hyphen Pair: 0
+
+T1_064
+इस दिशा में कई संस्थाएँ और लोग असाधारण कार्य कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_065
+साथियो, केरला की आलिन की तरह ही ऐसे बहुत से लोग हैं जिन्होंने organ donation के जरिए, किसी को दूसरा जीवन दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_066
+जैसे दिल्ली की लक्ष्मी देवी जी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_067
+उन्होंने बीते वर्ष केदारनाथ की यात्रा की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_068
+इसके लिए उन्हें 14 किलोमीटर की ट्रैकिंग करनी पड़ी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (करनी+पड़ी) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके लिए) | Hyphen Pair: 0
+
+T1_069
+आपको ये जानकर हैरानी होगी कि उन्होंने यह यात्रा heart transplant के बाद की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 1 (transplant बाद) | Hyphen Pair: 0
+
+T1_070
+उनका heart केवल 15 प्रतिशत ही काम कर रहा था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_071
+ऐसे में उन्हें एक donor का heart मिला, जिसकी मृत्यु हो गई थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_072
+इसके बाद तो उनका जीवन ही बदल गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बदल+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 0
+
+T1_073
+पश्चिम बंगाल के गौरांग बनर्जी दो बार नाथू-ला गए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (नाथू-ला)
+
+T1_074
+ये समुन्द्र तल से 14 हजार फीट की ऊंचाई पर है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_075
+और खास बात ये है कि उन्होंने यह उपलब्धि lung transplant के बाद हासिल की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (transplant बाद) | Hyphen Pair: 0
+
+T1_076
+राजस्थान में सीकर के रामदेव सिंह जी को kidney transplant कराना पड़ा था .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (कराना+पड़ा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_077
+आज वे sporting activity में कमाल कर रहे हैं .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_078
+साथियो, आपको इस तरह के बहुत से प्रेरक उदाहरण देखने को मिल जाएंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (देखने+जाएंगे, मिल+जाएंगे) | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_079
+इससे ये बात फिर साबित होती है कि किसी एक की नेक पहल, ना जाने कितने लोगों की जिंदगी बदल सकती है.
+Reduplication: 1 (इससे-ये) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_080
+मैं उन सभी लोगों की हृदय से सराहना करता हूं, जिन्होंने ऐसे नेक कार्य किए हैं .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_081
+मेरे प्यारे देशवासियो, आज़ादी के अमृत महोत्सव के दौरान मैंने लाल किले से पंच प्राणों की बात कही थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_082
+उनमें से एक है, गुलामी की मानसिकता से मुक्ति. आज देश गुलामी के प्रतीकों को पीछे छोड़कर भारत की संस्कृति से जुड़ी चीजों को महत्व देने लगा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_083
+इस दिशा में हमारे राष्ट्रपति भवन ने भी एक महत्वपूर्ण कदम उठाया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_084
+कल यानि 23 फरवरी को राष्ट्रपति भवन में 'राजाजी उत्सव' मनाया जाएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (मनाया+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_085
+इस अवसर पर राष्ट्रपति भवन के केन्द्रीय प्रांगण में सी. राजगोपालाचारी जी की प्रतिमा का अनावरण किया जाएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_086
+वे स्वतंत्र भारत के पहले भारतीय गवर्नर जनरल थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_087
+वे उन लोगों में थे, जिन्होंने सत्ता को पद की तरह नहीं, सेवा की तरह देखा.
+Reduplication: 1 (वे-उन) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_088
+सार्वजनिक जीवन में उनका आचरण, आत्मसंयम और स्वतंत्र चिंतन, आज भी हमें प्रेरित करता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_089
+दुर्भाग्य से, आजादी के बाद भी राष्ट्रपति भवन में ब्रिटिश प्रशासकों की मूर्तियां तो लगी रहने दी गईं, लेकिन देश के महान सपूतों को जगह नहीं दी गई .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 3 (लगी+गईं, दी+गईं, दी+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (आजादी बाद) | Hyphen Pair: 0
+
+T1_090
+British architect Edwin Lutyens की प्रतिमा भी राष्ट्रपति भवन में लगी हुई थी .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_091
+अब इस प्रतिमा के स्थान पर राजाजी की प्रतिमा लगाई जाएगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लगाई+जाएगी) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_092
+राजाजी उत्सव के दौरान राजगोपालाचारी जी पर आधारित प्रदर्शनी भी लगेगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_093
+ये प्रदर्शनी 24 फरवरी से 1 मार्च तक चलेगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_094
+मौका निकालकर आप भी इसे देखने जरूर जाइएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_095
+मेरे प्यारे देशवासियो, 'मन की बात' में, मैंने आपसे Digital Arrest पर विस्तार से बात की है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपसे [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_096
+इसके बाद देश में Digital Arrest और Digital Fraud को लेकर हमारे समाज में काफी जागरूकता आई, लेकिन अभी भी हमारे आसपास ऐसी घटनाएं हो रही हैं, जो अक्षम्य हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 0
+
+T1_097
+निर्दोष लोगों को Digital Arrest और Financial Fraud का निशाना बनाया जा रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बनाया+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_098
+कई बार पता चलता है कि किसी Senior Citizen की जीवनभर की कमाई ठग ली गई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (ठग+गई, ली+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_099
+कभी किसी उन पैसों की ठगी हो जाती है, जो उसने बच्चों की फीस जमा करने के लिए बचाए थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाती) | Honorific: 0 | Acronym: 0 | MWE: 1 (करने लिए) | Hyphen Pair: 0
+
+T1_100
+कारोबारियों से धोखाधड़ी की खबरें भी हमें देखने को मिलती हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_101
+कोई फोन करता है और कहता है - मैं एक बड़ा अधिकारी हूं.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_102
+आपको कुछ details share करनी होगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_103
+इसके बाद भोले-भाले लोग ऐसा ही कर बैठते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 1 (भोले-भाले)
+
+T1_104
+इसीलिए, आपका सतर्क रहना, जागरूक रहना बेहद जरूरी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपका [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_105
+साथियो, आप सभी KYC - Know Your Customer यानि अपने ग्राहक को जानें, इस process को तो जानते ही होंगे.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 0
+
+T1_106
+कभी-कभी, जब आपको आपके बैंक से KYC update या re-KYC करवाने के message आते हैं, तो मन में सवाल उठता है - मैंने तो पहले ही KYC करवा रखी है, तो ये फिर क्यों ?
+Reduplication: 3 (कभी-कभी, आपको-आपके, -) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 2 (आपको [formal], आपके [formal]) | Acronym: 2 (KYC, KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_107
+मेरा आपसे आग्रह है, झुंझलाइए नहीं, ये आपके पैसे की सुरक्षा के लिए ही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 2 (आपसे [formal], आपके [formal]) | Acronym: 0 | MWE: 1 (सुरक्षा लिए) | Hyphen Pair: 0
+
+T1_108
+हम सभी जानते हैं कि आजकल pension, subsidy, बीमा, UPI सब कुछ बैंक खाते से जुड़ा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (UPI) | MWE: 0 | Hyphen Pair: 0
+
+T1_109
+इसी वजह से बैंक समय-समय पर re-KYC करते हैं, ताकि आपका bank account सुरक्षित रहे.
+Reduplication: 1 (समय-समय) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपका [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_110
+हां, इसमें भी आपको एक बात याद रखनी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_111
+जो अपराधी हैं, वो फर्जी call करते हैं, SMS और link भेजते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (SMS) | MWE: 0 | Hyphen Pair: 0
+
+T1_112
+इसीलिए हमें सतर्क रहना है और ऐसे धोखेबाजों के झांसे में नहीं आना है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_113
+KYC या re-KYC केवल अपने बैंक की शाखा या आधिकारिक App और authorised medium से ही कराएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_114
+OTP, आधार नंबर या बैंक खाते संबंधी जानकारी किसी को भी न दें और सबसे अहम बात, अपने password को समय-समय पर जरूर बदलते रहें.
+Reduplication: 1 (समय-समय) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (OTP) | MWE: 0 | Hyphen Pair: 0
+
+T1_115
+जैसे हर मौसम के साथ खान-पान बदल जाता है, पहनावा भी बदल जाता है, वैसे ही नियम बना लीजिए कि हर कुछ दिन में आपको अपना password भी बदल लेना है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (बदल+जाता, बदल+जाता) | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 1 (मौसम साथ) | Hyphen Pair: 1 (खान-पान)
+
+T1_116
+साथियो, हाल ही में भारतीय रिजर्व बैंक ने इन्हीं विषयों पर वित्तीय साक्षरता सप्ताह का आयोजन किया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_117
+वित्तीय साक्षरता का ये अभियान अब पूरे वर्ष जारी रहेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_118
+इसलिए भारतीय रिजर्व बैंक के message का ध्यान रखें और अपनी KYC updated रखें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 0
+
+T1_119
+याद रखिए - सही KYC, समय पर re-KYC करे खाता सुरक्षित, बनें सशक्त नागरिक, क्योंकि सशक्त नागरिकों से ही बनता है मजबूत और आत्मनिर्भर भारत.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_120
+मेरे प्यारे देशवासियो, हमारे किसान केवल अन्नदाता नहीं हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_121
+वे धरती के सच्चे साधक हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_122
+मिट्टी को सोना बनाना क्या होता है, ये कोई हमारे किसानों से सीखे और हमारा आज का किसान तो परंपरा और technology, दोनों को साथ लेकर चल रहा है और मुझे ये देखकर खुशी होती है कि हमारे किसान अब सिर्फ उत्पादन नहीं, बल्कि गुणवत्ता, value addition और नए बाजारों पर भी ध्यान दे रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_123
+ओडिशा में हिरोद पटेल नाम के एक युवा किसान से जुड़ी जानकारी वाकई बहुत प्रेरक है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_124
+करीब आठ साल पहले तक वे अपने पिता शिव शंकर पटेल के साथ पारंपरिक ढ़ंग से धान की खेती करते थे लेकिन उन्होंने खेती को नए नजरिये से देखना शुरू किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (पटेल साथ) | Hyphen Pair: 0
+
+T1_125
+अपने खेत के तालाब के ऊपर उन्होंने मजबूत जालीदार ढांचा बनाया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_126
+उस पर बेल वाली सब्जियां उगाई, तालाब के चारों ओर केले, अमरूद और नारियल लगाए और तालाब में मछली पालन भी शुरू किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_127
+यानि एक ही जगह - पारंपरिक खेती भी हो रही है, सब्जी भी, फल भी, मछली भी.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_128
+इससे जमीन का बेहतर उपयोग हुआ, पानी की बचत हुई और अतिरिक्त आमदनी भी मिली.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_129
+आज दूर-दूर से किसान उनका model देखने आते हैं.
+Reduplication: 1 (दूर-दूर) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_130
+साथियो, केरला के त्रिसूर जिले में एक गांव ऐसा है, जहां एक ही खेत में 570 तरह की धान की किस्में लगाई जाती हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लगाई+जाती) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_131
+इसमें स्थानीय किस्में भी हैं, हर्बल किस्में भी हैं और दूसरे राज्यों से लाई गई प्रजातियां भी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लाई+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_132
+ये केवल खेती नहीं, बीजों की विरासत को बचाने का महा अभियान है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_133
+हमारे किसानों की मेहनत का असर आंकड़ों में भी दिख रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_134
+भारत आज दुनिया का सबसे बड़ा चावल उत्पादक देश बन चुका है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_135
+15 करोड़ टन से अधिक चावल का उत्पादन, ये छोटी उपलब्धि नहीं है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_136
+हम अपनी जरूरतें पूरी कर रहे हैं और दुनिया की food basket में योगदान भी दे रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_137
+साथियो, अब तो कृषि उत्पाद हवाई मार्ग से भी ज्यादा आसानी से विदेश पहुंच रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_138
+कर्नाटका के नंजनगुड केले, मैसूरु पान के पत्ते और इंडी नींबू को मालदीव भेजा गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (भेजा+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_139
+ये उत्पाद अपने स्वाद और गुणवत्ता के लिए जाने जाते हैं और इन्हें GI टैग भी मिला है.
+Reduplication: 1 (जाने-जाते) | Conjunctive Verb: 0 | Compound Verb: 1 (जाने+जाते) | Honorific: 0 | Acronym: 1 (GI) | MWE: 1 (स्वाद लिए) | Hyphen Pair: 0
+
+T1_140
+आज का किसान quality भी चाहता है, quantity भी बढ़ा रहा है और अपनी पहचान भी बना रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_141
+मेरे प्यारे देशवासियो, पिछले वर्ष, इसी समय महाकुंभ की अद्भुत तस्वीरें आपको जरूर याद होंगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_142
+संगम के तट पर उमड़ता जनसागर, आस्था का अथाह प्रवाह और स्नान के उस पावन क्षण में, जैसे भारत अपनी सनातन चेतना से साक्षात्कार कर रहा था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_143
+साथियो, महाकुंभ की वही धारा, वही माघ का महीना, वही श्रद्धा का स्वर, जब उत्तर से दक्षिण की ओर बढ़ता है, तो एक नई पहचान ले लेता है.
+Reduplication: 1 (ले-लेता) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_144
+साथियो, केरला की धरती पर, भारतप्पुझा नदी के किनारे तिरुनावाया में सदियों पुरानी एक परंपरा रही है - मामंगम.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_145
+इसे कई लोग महा माघ महोत्सव या केरला कुम्भ भी कहते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_146
+माघ के महीने में पवित्र नदी में स्नान और उस क्षण को जीवन का अमिट स्मरण बना लेना, यही इसकी आत्मा है.
+Reduplication: 1 (यही-इसकी) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_147
+समय के साथ यह परंपरा जैसे ओझल हो गई थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (समय साथ) | Hyphen Pair: 0
+
+T1_148
+करीब ढ़ाई-सौ वर्षों तक यह आयोजन उसी भव्यता में नहीं हुआ था जैसे पहले हुआ करता था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (ढ़ाई-सौ)
+
+T1_149
+लेकिन आज अपनी विरासत को फिर से पहचान रहे हमारे देश में इतिहास ने फिर करवट ली है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_150
+इस बार बिना किसी बड़ी घोषणा के केरला कुम्भ का सफल आयोजन हुआ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_151
+लोगों ने इसके बारे में एक ने दूसरे को बताया, कानों-कान बात पहुँचती गई और देखते ही देखते श्रद्धालु तिरुनावाया पहुँचने लगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (पहुँचती+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बारे) | Hyphen Pair: 1 (कानों-कान)
+
+T1_152
+साथियो, महाकुंभ हो या केरला कुम्भ, यह केवल स्नान का पर्व नहीं है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_153
+यह स्मृति का जागरण है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_154
+यह संस्कृति का पुनरस्मरण है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_155
+उत्तर से दक्षिण तक, नदियां भले अलग हों, किनारे भले अलग हों, पर आस्था की धारा एक ही है - यही भारत है.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_156
+साथियो, हमारे देश में ऐसे लोग हमेशा जनता के दिलों में बसे रहते हैं जिन्होंने समाज के कल्याण के लिए काम किया होता है, जिन्होंने अपने नेक कार्यों में जनता को प्राथमिकता दी होती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (कल्याण लिए) | Hyphen Pair: 0
+
+T1_157
+अम्मा जयललिता जी, ऐसी ही एक लोकप्रिय लीडर थीं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_158
+24 फरवरी उनके जन्मदिन का अवसर होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_159
+तमिलनाडु के लोगों का उनसे लगाव कितना गहरा था, यह मुझे आज भी राज्य के दौरे में दिखता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_160
+अम्मा जयललिता जी का जिक्र होते ही, तमिलनाडु के लोगों के चेहरे खिल उठते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_161
+हमारी नारी शक्ति का जुड़ाव तो उनसे और विशेष रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_162
+ऐसा इसलिए भी है, क्योंकि सरकार में रहते हुए उन्होंने माताओं-बहनों और बेटियों के लिए कई सराहनीय प्रयास किये.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (माताओं-बहनों लिए) | Hyphen Pair: 1 (माताओं-बहनों)
+
+T1_163
+राज्य में कानून-व्यवस्था को दुरुस्त रखने के लिए भी उन्होंने बहुत ठोस कदम उठाए थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (रखने लिए) | Hyphen Pair: 1 (कानून-व्यवस्था)
+
+T1_164
+देशभक्ति की भावना उनमें कूट-कूट कर भरी थी.
+Reduplication: 1 (कूट-कूट) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_165
+इसके साथ ही भारत की सांस्कृतिक विरासत पर उन्हें बहुत गर्व था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके साथ) | Hyphen Pair: 0
+
+T1_166
+अम्मा जयललिता जी के साथ हुई हर मुलाकात, हर प्रकार की बातचीत मेरे मन में आज भी ताजा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (जयललिता साथ) | Hyphen Pair: 0
+
+T1_167
+वे गुजरात में 2002 और 2012 में हुए मेरे दो शपथ ग्रहण समारोह में भी शामिल हुई थीं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_168
+जब हम दोनों अपने-अपने राज्य में मुख्यमंत्री थे, तब good governance जैसे विषयों पर अक्सर हमारे बीच बातचीत होती रहती थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (हमारे बीच) | Hyphen Pair: 0
+
+T1_169
+उनकी सोच बिल्कुल स्पष्ट थी और विचार बेहद सुलझे हुए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_170
+यह उनकी एक बड़ी खासियत थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_171
+कई वर्ष पहले उन्होंने पोंगल के पावन अवसर पर मुझे lunch के लिए चेन्नई आमंत्रित किया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (lunch लिए) | Hyphen Pair: 0
+
+T1_172
+स्नेह से भरा उनका वो भाव मेरे लिए अविस्मरणीय रहेगा.
+Reduplication: 1 (उनका-वो) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (मेरे लिए) | Hyphen Pair: 0
+
+T1_173
+एक बार फिर मैं उन्हें विनम्र श्रद्धांजलि अर्पित करता हूं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_174
+जयललिता अवरगलक्क, येन निनैवाजंलि-गल, समुदायत्तिर्क्कु, अवर आट्रिय सेवै येंड्रूम निनैविल इरुक्कुम. (English Translation: My tributes to Jayalalitha, Her services to the people will always be remembered.) मेरे प्यारे देशवासियो, अब मैं बात करूंगा
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (निनैवाजंलि-गल)
+
+T1_175
+अपने प्यारे, छोटे होनहार बच्चों से, उन बच्चों से जिनका इस समय exam चल रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_176
+मुझे उम्मीद है, आपने इस महीने की शुरुआत में 'परीक्षा पे चर्चा' देखी होगी और आपको उससे कुछ सीखने को भी मिला होगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 2 (आपने [formal], आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_177
+लेकिन, मैं फिर भी पूछूँगा पढ़ाई की ज्यादा tension तो नहीं ले रहे हैं न आप ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_178
+मेरे प्यारे बच्चो, आप तो exam warriors हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_179
+मुझे विश्वास है, आप सभी पूरे मन से इम्तिहान की तैयारियों में लगे होंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_180
+हाँ, ऐसे समय में मन में थोड़ी शंका आना भी स्वाभाविक है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_181
+कभी लगता है, सब याद रहेगा या नहीं रहेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_182
+कभी लगता है, समय कम तो नहीं पड़ जाएगा ना !
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (पड़+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_183
+ये भाव हर पीढ़ी के बच्चों ने महसूस किए हैं, आप अकेले नहीं हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_184
+आप याद रखिए, आपका मूल्य आपकी mark sheet से तय नहीं होता.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 3 (आप [formal], आपका [formal], आपकी [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_185
+इसलिए खुद पर भरोसा रखिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_186
+जो पढ़ा है, उसे पूरे मन से लिखिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_187
+और जो नहीं आया, उस एक सवाल को अपने मन पर हावी मत होने दीजिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_188
+और एक बात, अपने माता-पिता और शिक्षकों से बात करते रहिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (माता-पिता)
+
+T1_189
+वे आपके नंबरों से नहीं, आपके प्रयास से आपकी पहचान करते हैं, वो आपकी मेहनत से खुश रहते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 4 (आपके [formal], आपके [formal], आपकी [formal], आपकी [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_190
+मुझे पूरा भरोसा है कि आप परीक्षा में भी सफल होंगे और अपने जीवन में भी सफलता की नई ऊंचाई प्राप्त करेंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_191
+साथियो, इन दिनों रमजान चल रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_192
+मैं इस पवित्र महीने के लिए सभी को शुभकामनाएं देता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (महीने लिए) | Hyphen Pair: 0
+
+T1_193
+कुछ ही दिनों बाद होली का पर्व भी आ रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (दिनों बाद) | Hyphen Pair: 0
+
+T1_194
+यानि रंग, गुलाल और हंसी-खुशी से भरा समय दस्तक देने वाला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (हंसी-खुशी)
+
+T1_195
+आप सभी अपने परिवार और अपनों के साथ खुशी के साथ सारे त्योहार मनाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 2 (परिवार साथ, खुशी साथ) | Hyphen Pair: 0
+
+T1_196
+और हाँ, कुछ मंत्र हमेशा याद रखें, जैसे vocal for local.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_197
+हमारे होली के त्योहारों में या अन्य कोई भी त्योहार में अनेक ऐसे साजो-सामान घुस गए हैं, जो विदेशी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (घुस+गए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (साजो-सामान)
+
+T1_198
+इन्हें त्योहारों से दूर रखिए, होली से भी दूर रखिए, स्वदेशी अपनाइये.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_199
+जब आप स्वदेशी खरीदते हैं तो देश को आत्मनिर्भर बनाने के अभियान में भी मदद करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_200
+साथियो, मुझे हर महीने 'मन की बात' के लिए आपके ढ़ेरों सुझाव मिलते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 1 (बात लिए) | Hyphen Pair: 0
+
+T1_201
+आपके भेजे गए संदेशों से हमें देश के कोने-कोने में छिपी अद्भुत प्रतिभाओं के बारे में पता चलता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (भेजे+गए) | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 1 (प्रतिभाओं बारे) | Hyphen Pair: 0
+
+T1_202
+निजी स्वार्थ से उठकर समाज के लिए कुछ करने की अनेक प्रेरणादायी गाथाएं आपके माध्यम से देशभर के लोगों तक पहुंची हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 1 (समाज लिए) | Hyphen Pair: 0
+
+T1_203
+आप ऐसे ही अपने प्रयास जारी रखें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_204
+मुझे आपके संदेशों का इंतजार रहेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_205
+मैं एक बार फिर आपको और आपके परिवार को आने वाले त्योहारों की अनेक-अनेक शुभकामनाएं देता हूँ.
+Reduplication: 1 (अनेक-अनेक) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 2 (आपको [formal], आपके [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_206
+बहुत-बहुत धन्यवाद. नमस्कार.
+Reduplication: 1 (बहुत-बहुत) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_001
+मेरे प्यारे देशवासियो, नमस्कार. साल 2026 का यह पहला 'मन की बात' है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_002
+कल 26 जनवरी को हम सभी 'गणतंत्र दिवस' का पर्व मनाएंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_003
+इसी दिन हमारा संविधान लागू हुआ था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_004
+26 जनवरी का ये दिन हमें अपने संविधान निर्माताओं को नमन करने का अवसर देता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_005
+आज 25 जनवरी का दिन भी बहुत अहम है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_006
+आज 'National Voters' Day' है 'मतदाता दिवस' है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_007
+मतदाता ही लोकतंत्र की आत्मा होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_008
+साथियो, आमतौर पर जब कोई 18 साल का हो जाता है, मतदाता बन जाता है तो उसे जीवन का एक सामान्य पड़ाव समझा जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 3 (हो+जाता, बन+जाता, समझा+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_009
+लेकिन, दरअसल ये अवसर किसी भी भारतीय के जीवन का बहुत बड़ा milestone होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_010
+इसलिए बहुत जरूरी है कि हम देश में वोटर बनने का, मतदाता बनने का, उत्सव मनाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_011
+जैसे हम जन्मदिन पर शुभकामनाएं देते हैं और उसे celebrate करते हैं, ठीक वैसे ही, जब भी कोई युवा पहली बार मतदाता बने तो पूरा मोहल्ला, गाँव या फिर शहर एकजुट होकर उसका अभिनंदन करे और मिठाइयाँ बांटी जाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बांटी+जाएं) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_012
+इससे लोगों में voting के प्रति जागरूकता बढ़ेगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_013
+इसके साथ ही यह भावना और सशक्त होगी कि एक वोटर होना कितना मायने रखता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके साथ) | Hyphen Pair: 0
+
+T2_014
+साथियो, देश में जो भी लोग चुनावी प्रक्रिया से जुड़े रहते हैं, जो हमारे लोकतंत्र को जीवंत बनाए रखने के लिए जमीनी स्तर पर काम करते हैं, मैं उन सभी की बहुत सराहना करना चाहूँगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (बनाए लिए) | Hyphen Pair: 0
+
+T2_015
+आज 'मतदाता दिवस' पर मैं अपने युवा साथियों से फिर आग्रह करूंगा कि वे 18 साल का होने पर voter के रूप में खुद को जरूर register करें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (voter रूप) | Hyphen Pair: 0
+
+T2_016
+संविधान ने हर नागरिक से जिस कर्त्तव्य भावना के पालन की अपेक्षा रखी है इससे वो अपेक्षा भी पूरी होगी और भारत का लोकतंत्र भी मजबूत होगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_017
+मेरे प्यारे देशवासियो, इन दिनों मैं social media पर एक interesting trend देख रहा हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_018
+लोग साल 2016 की अपनी यादों को फिर से ताजा कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_019
+उसी भावना के साथ, आज मैं भी आपके साथ अपनी एक memory को share करना चाहता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 2 (भावना साथ, आपके साथ) | Hyphen Pair: 0
+
+T2_020
+दस साल पहले, जनवरी 2016 में हमने एक ambitious journey की शुरुआत की थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_021
+तब हमें इस बात का एहसास था कि भले ही ये एक छोटा क्यों ना हो ये, लेकिन ये युवा-पीढ़ी के लिए, देश के future के लिये, काफी अहम है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (युवा-पीढ़ी लिए) | Hyphen Pair: 1 (युवा-पीढ़ी)
+
+T2_022
+तब कुछ लोग ये समझ ही नहीं पाए थे कि ये आखिर है क्या ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_023
+साथियो, मैं जिस journey की बात कर रहा हूँ, वह है start-up India की journey.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-up)
+
+T2_024
+इस अद्भुत journey के heroes हमारे युवा साथी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_025
+अपने comfort zone से बाहर निकलकर उन्होंने जो innovation किए, वो इतिहास में दर्ज हो रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_026
+साथियो, भारत में आज दुनिया का तीसरा सबसे बड़ा start-ups ecosystem बन चुका है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_027
+ये start-ups लीक से हट के हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_028
+आज, वे, ऐसे sectors में काम कर रहे हैं, जिनके बारे में 10 साल पहले तक कल्पना भी नहीं की जा सकती थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (की+जा) | Honorific: 0 | Acronym: 0 | MWE: 1 (जिनके बारे) | Hyphen Pair: 0
+
+T2_029
+AI, Space, Nuclear Energy, Semi Conductors, Mobility, Green Hydrogen, Biotechnology आप नाम लीजिए और कोई न कोई भारतीय Start-up उस sector में काम करते हुए दिख जाएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (करते+जाएगा, दिख+जाएगा) | Honorific: 1 (आप [formal]) | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 1 (Start-up)
+
+T2_030
+मैं अपने उन सभी युवा-साथियों को salute करता हूँ जो किसी-न-किसी Start-up से जुड़े हैं या फिर अपना Start-up शुरू करना चाहते हैं|
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 4 (युवा-साथियों, किसी-न-किसी, Start-up, Start-up)
+
+T2_031
+साथियो, आज 'मन की बात' के माध्यम से मैं देशवासियों, विशेषकर industry और Start-up से जुड़े युवाओं से एक आग्रह जरूर करना चाहता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (Start-up)
+
+T2_032
+भारत की economy तेजी से आगे बढ़ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_033
+भारत पर दुनिया की नजरें हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_034
+ऐसे समय में हम सब पर एक बहुत बड़ी जिम्मेदारी भी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_035
+वो जिम्मेदारी है - quality पर जोर देने की. होती है, चलती है, चल जाएगा, यह युग चला गया.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 2 (चल+जाएगा, चला+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_036
+आइए इस वर्ष हम पूरी ताकत से quality को प्राथमिकता दें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_037
+हम सबका एक ही मंत्र हो quality, quality और सिर्फ quality.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_038
+कल से आज बेहतर quality.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_039
+हम जो भी manufacture कर रहे हैं, उसकी quality को बेहतर बनाने का संकल्प लें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_040
+चाहे हमारे textiles हों, technology हो या फिर electronics even packaging, Indian product का मतलब ही बन जाए - Top quality.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 1 (बन+जाए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_041
+आइए, excellence को हम अपना bench mark बनाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_042
+हम संकल्प लें quality में ना कोई कमी होगी, ना quality से कोई समझौता होगा और मैंने तो लाल किले से कहा था 'Zero defect - Zero effect'.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_043
+ऐसा करके ही हम विकसित भारत की यात्रा को तेजी से आगे ले जा पाएंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (ले+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_044
+मेरे प्यारे देशवासियो, हमारे देश के लोग बहुत innovative हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_045
+समस्याओं का समाधान ढूँढना हमारे देशवासियों के स्वभाव में है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_046
+कुछ लोग ये काम start-ups के जरिये करते हैं, तो कुछ लोग समाज की सामूहिक शक्ति से रास्ता निकालने का प्रयास करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-ups)
+
+T2_047
+ऐसा ही एक प्रयास उत्तर प्रदेश के आजमगढ़ में सामने आया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_048
+यहाँ से होकर गुजरने वाली तमसा नदी को लोगों ने नया जीवन दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_049
+तमसा केवल एक नदी नहीं, बल्कि हमारी सांस्कृतिक और आध्यात्मिक विरासत की सजीव धारा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_050
+अयोध्या से निकलकर गंगा में समाहित होने वाली यह नदी कभी इस क्षेत्र के लोगों के जन-जीवन की धुरी हुआ करती थी, लेकिन प्रदूषण की वजह से इसकी अविरल धारा में रुकावट आने लगी थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (प्रदूषण वजह) | Hyphen Pair: 1 (जन-जीवन)
+
+T2_051
+गाद, कूड़ा-कचरा और गंदगी ने इस नदी के प्रवाह को रोक दिया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (कूड़ा-कचरा)
+
+T2_052
+इसके बाद यहाँ के लोगों ने इसे एक नया जीवन देने का अभियान शुरू किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 0
+
+T2_053
+नदी की सफाई की गई और उसके किनारों पर छायादार, फलदार पेड़ लगाए गए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (की+गई, लगाए+गए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_054
+स्थानीय लोग कर्तव्य भावना से इस काम में जुटे और सबके प्रयास से नदी का पुनरुद्धार हो गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_055
+साथियो, जन-भागीदारी का ऐसा ही प्रयास आंध्र-प्रदेश के अनंतपुर में भी देखने को मिला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 2 (जन-भागीदारी, आंध्र-प्रदेश)
+
+T2_056
+यह वह क्षेत्र है जो सूखे की गम्भीर समस्या से जूझता रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_057
+यहाँ की मिट्टी, लाल और बलुई है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_058
+यही वजह है कि लोगों को पानी की कमी का सामना करना पड़ता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (करना+पड़ता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_059
+यहां के कई क्षेत्रों में लंबे समय तक बारिश नहीं होती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_060
+कई बार तो लोग अनंतपुर की तुलना रेगिस्तान में सूखे की स्थिति से भी कर देते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_061
+साथियो, इस समस्या के समाधान के लिये स्थानीय लोगों ने जलाशयों को साफ करने का संकल्प लिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_062
+फिर प्रशासन के सहयोग से यहाँ 'अनंत नीरू संरक्षणम प्रोजेक्ट' इसकी शुरुआत हुई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_063
+इस प्रयास के तहत 10 से अधिक जलाशयों को जीवन दान मिला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (प्रयास तहत) | Hyphen Pair: 0
+
+T2_064
+उन जलाशयों में अब पानी भरने लगा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_065
+इसके साथ ही 7000 से अधिक पेड़ भी लगाए गए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लगाए+गए) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके साथ) | Hyphen Pair: 0
+
+T2_066
+यानि अनंतपुर में जल संरक्षण के साथ-साथ green cover भी बढ़ा है.
+Reduplication: 1 (साथ-साथ) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_067
+यहाँ बच्चे अब तैराकी का आनंद भी ले सकते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_068
+एक प्रकार से कहें तो यहाँ का पूरा ecosystem फिर से निखर उठा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_069
+साथियो, आजमगढ़ हो, अनंतपुर हो, या फिर देश की कोई और जगह, ये देखकर खुशी होती है कि लोग एकजुट होकर कर्तव्य भाव से बड़े संकल्प सिद्ध कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_070
+जन-भागीदारी और सामूहिकता की यही भावना हमारे देश की सबसे बड़ी ताकत है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (जन-भागीदारी)
+
+T2_071
+मेरे प्यारे देशवासियो, हमारे देश में भजन और कीर्तन सदियों से हमारी संस्कृति की आत्मा रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_072
+हमने मंदिरों में भजन सुने हैं, कथा सुनते वक्त सुने हैं और हर दौर ने भक्ति को अपने समय के हिसाब से जिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_073
+आज की पीढ़ी भी कुछ नए कमाल कर रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_074
+आज के युवाओं ने भक्ति को अपने अनुभव और अपनी जीवन-शैली में ढाल दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (जीवन-शैली)
+
+T2_075
+इसी सोच से एक नया सांस्कृतिक चलन उभरकर सामने आया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_076
+आपने social media पर ऐसे video जरूर देखे होंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपने [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_077
+देश के अलग-अलग शहरों में बड़ी संख्या में युवा इकट्ठा हो रहे हैं.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_078
+मंच सजा होता है, रोशनी होती है, संगीत होता है, पूरा ताम-झाम होता है और माहौल किसी concert से जरा भी कम नहीं होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (ताम-झाम)
+
+T2_079
+ऐसा ही लग रहा है कि जैसे कोई बहुत बड़ा concert हो रहा है, लेकिन वहाँ जो गाया जा रहा होता है वो पूरी तन्मयता के साथ, पूरी लगन के साथ, पूरी लय के साथ भजन की गूंज.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (गाया+जा) | Honorific: 0 | Acronym: 0 | MWE: 3 (तन्मयता साथ, लगन साथ, लय साथ) | Hyphen Pair: 0
+
+T2_080
+इस चलन को आज 'भजन clubbing' कहा जा रहा है और यह खासतौर पर Genz के बीच तेजी से लोकप्रिय हो रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (कहा+जा) | Honorific: 0 | Acronym: 0 | MWE: 1 (Genz बीच) | Hyphen Pair: 0
+
+T2_081
+यह देखकर अच्छा लगता है कि इन आयोजनों में भजन की गरिमा और शुचिता का पूरा ध्यान रखा जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (रखा+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_082
+भक्ति को हल्केपन में नहीं लिया जाता.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लिया+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_083
+ना शब्दों की मर्यादा टूटती है और ना ही भाव की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_084
+मंच आधुनिक हो सकता है, संगीत की प्रस्तुति अलग हो सकती है, लेकिन मूल भावना वही रहती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_085
+अध्यात्म का एक निरंतर प्रवाह वहाँ अनुभव होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_086
+मेरे प्यारे देशवासियो, आज हमारी संस्कृति और त्योहार दुनिया भर में अपनी पहचान बना रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_087
+दुनिया के हर कोने में भारत के त्योहार बड़े उत्साह और उल्लास के साथ मनाए जाते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (मनाए+जाते) | Honorific: 0 | Acronym: 0 | MWE: 1 (उत्साह साथ) | Hyphen Pair: 0
+
+T2_088
+हर तरह की cultural vibrancy को बनाए रखने में हमारे भारतवंशी भाई-बहनों का अहम योगदान है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (भाई-बहनों)
+
+T2_089
+वो जहां भी है वहाँ अपनी संस्कृति की मूल भावना को संरक्षित कर और उसे आगे बढ़ा रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_090
+इसको लेकर मलेशिया में भी हमारा भारतीय समुदाय बहुत सराहनीय कार्य कर रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_091
+आपको यह जानकर सुखद आश्चर्य होगा कि मलेशिया में 500 से ज्यादा तमिल स्कूल हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_092
+इनमें तमिल भाषा की पढ़ाई के साथ ही अन्य विषयों को भी तमिल में पढ़ाया जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (पढ़ाया+जाता) | Honorific: 0 | Acronym: 0 | MWE: 1 (पढ़ाई साथ) | Hyphen Pair: 0
+
+T2_093
+इसके अलावा यहां तेलुगु और पंजाबी सहित अन्य भारतीय भाषाओं पर भी बहुत focus रहता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके अलावा) | Hyphen Pair: 0
+
+T2_094
+साथियो, भारत और मलेशिया के बीच ऐतिहासिक और सांस्कृतिक संबंधों को मजबूत करने में एक society की बड़ी भूमिका है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (साथियो बीच) | Hyphen Pair: 0
+
+T2_095
+इसका नाम है 'Malaysia India Heritage Society'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_096
+अलग-अलग कार्यक्रमों के साथ ही, यह संस्था एक heritage walk का भी आयोजन करती है.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (कार्यक्रमों साथ) | Hyphen Pair: 0
+
+T2_097
+इसमें दोनों देशों को आपस में जोड़ने वाले सांस्कृतिक स्थलों को cover किया जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_098
+पिछले महीने मलेशिया में 'लाल पाड़ साड़ी' iconic walk इसका आयोजन किया गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_099
+इस साड़ी का बंगाल की हमारी संस्कृति से विशेष नाता रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_100
+इस कार्यक्रम में सबसे अधिक संख्या में इस साड़ी को पहनने का record बना, जिसे Malaysian Book of Records में दर्ज किया गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_101
+इस मौके पर ओडिसी dance और baul music ने तो लोगों का दिल जीत लिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_102
+मैं कह सकता हूँ - साया बरबांगा/ देंगान डीयास्पोरा इंडिया/दि मलेशिया // मेरेका मम्बावा/इंडिया दान मलेशिया/सेमाकिन रापा // (हिन्दी अनुवाद - मुझे मलेशिया में भारतीय प्रवासियों पर गर्व है, भारत और मलेशिया को वो और करीब ला रहे हैं.
+Reduplication: 2 (-, -) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_103
+) मलेशिया के हमारे भारतवंशियों को मेरी बहुत-बहुत शुभकामनाएं.
+Reduplication: 1 (बहुत-बहुत) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_104
+मेरे प्यारे देशवासियो, हम भारत के किसी भी हिस्से में चले जाएँ, वहाँ हमें कुछ-न-कुछ असाधारण, अभूतपूर्व होते हुए जरूर दिख जाता है.
+Reduplication: 1 (होते-हुए) | Conjunctive Verb: 0 | Compound Verb: 2 (चले+जाएँ, दिख+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (कुछ-न-कुछ)
+
+T2_105
+कई बार Media की चकाचौंध में ये बातें जगह नहीं बना पातीं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_106
+लेकिन इनसे पता चलता है कि हमारे समाज की असली शक्ति क्या है ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_107
+इनसे हमारे उन Value Systems की भी झलक मिलती है, जिनमें एकजुटता की भावना सर्वोपरि है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_108
+गुजरात में बेचराजी के चंदनकी गाँव की परंपरा अपने आप में अनूठी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_109
+अगर मैं आपसे कहूँ कि यहां के लोग, विशेषकर बुजुर्ग, अपने घरों में खाना नहीं बनाते तो आपको हैरत होगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 2 (आपसे [formal], आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_110
+इसकी वजह गाँव का शानदार Community kitchen.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_111
+इस Community kitchen में एक साथ पूरे गाँव का सबका खाना बनता है और लोग एक साथ बैठकर भोजन करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (एक साथ, एक साथ) | Hyphen Pair: 0
+
+T2_112
+बीते 15 वर्षों से यह परंपरा निरंतर चली आ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_113
+इतना ही नहीं, यदि कोई व्यक्ति बीमार है तो उसके लिए Tiffin Service भी उपलब्ध है, यानि home delivery का भी पूरा इंतजाम है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (उसके लिए) | Hyphen Pair: 0
+
+T2_114
+गाँव का यह सामूहिक भोजन लोगों को आनंद से भर देता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_115
+ये पहल न केवल लोगों को आपस में जोड़ती है, बल्कि इससे पारिवारिक भावना को भी बढ़ावा मिलता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_116
+साथियो, भारत की परिवार व्यवस्था - Family System हमारी परंपरा का अभिन्न हिस्सा है.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_117
+दुनिया के कई देशों में इसे बहुत कौतूहल के साथ देखा जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (देखा+जाता) | Honorific: 0 | Acronym: 0 | MWE: 1 (कौतूहल साथ) | Hyphen Pair: 0
+
+T2_118
+कई देशों में ऐसे family system को लेकर बहुत सम्मान का भाव है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_119
+कुछ ही दिन पहले ही मेरे Brother U.A.E. के राष्ट्रपति महामहिम शेख मोहम्मद बिन जायद अल नाहयान भारत आए थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_120
+उन्होंने मुझे बताया कि U.A.E. साल 2026 को year of family के रूप में मना रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (family रूप) | Hyphen Pair: 0
+
+T2_121
+मकसद ये कि वहाँ के लोगों के बीच सौहार्द और सामुदायिक भावना और मजबूत हो, वाकई ये बहुत ही सराहनीय पहल है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (लोगों बीच) | Hyphen Pair: 0
+
+T2_122
+साथियो, जब परिवार और समाज की ताकत मिलती है, तो हम बड़ी-से-बड़ी चुनौतियों को परास्त कर सकते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (बड़ी-से-बड़ी)
+
+T2_123
+मुझे अनंतनाग के शेखगुन्ड गाँव के बारे में जानकारी मिली है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (गाँव बारे) | Hyphen Pair: 0
+
+T2_124
+यहां drugs, तंबाकू, सिगरेट और शराब से जुड़ी चुनौतियाँ काफी बढ़ गई थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बढ़+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_125
+इन सबको देखकर यहां के मीर जाफ़र जी इतना परेशान हुए कि उन्होंने इस समस्या को दूर करने की ठान ली.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_126
+उन्होंने गाँव के युवाओं से लेकर बुजुर्गों तक सभी को एकजुट किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_127
+उनकी इस पहल का असर कुछ ऐसा रहा कि वहाँ की दुकानों ने तंबाकू उत्पादों को बेचना ही बंद कर दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_128
+इस प्रयास से Drugs के खतरों को लेकर भी लोगों में जागरूकता बढ़ी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_129
+साथियो, हमारे देश में ऐसी अनेक संस्थाएं भी हैं, जो वर्षों से निस्वार्थ भाव से समाज सेवा में जुटी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_130
+जैसे एक संस्था है पश्चिम बंगाल के पूर्व मेदिनीपुर के फरीदपुर में.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_131
+इसका नाम है 'विवेकानंद लोक शिक्षा निकेतन'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_132
+ये संस्था पिछले चार दशक से बच्चों और बुजुर्गों की देखभाल में जुटी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_133
+गुरुकुल पद्धति की शिक्षा और teachers की training के साथ ही यह संस्था समाज कल्याण के कई नेक कार्यों में जुटी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (शिक्षा साथ) | Hyphen Pair: 0
+
+T2_134
+मेरी कामना है कि निस्वार्थ सेवा का यह भाव देशवासियों के बीच निरंतर और अधिक सशक्त होता रहे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (देशवासियों बीच) | Hyphen Pair: 0
+
+T2_135
+मेरे प्यारे देशवासियो, 'मन की बात' में हम निरंतर स्वच्छता के विषय को उठाते रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_136
+मुझे ये देखकर गर्व होता है हमारे युवा अपने आसपास की स्वच्छता को लेकर बहुत सजग हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_137
+अरुणाचल प्रदेश में हुए एक ऐसे ही अनूठे प्रयास के बारे में मुझे जानकारी मिली है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (प्रयास बारे) | Hyphen Pair: 0
+
+T2_138
+अरुणाचल वो धरती है जहां देश में सबसे पहले सूर्य की किरणें पहुँचती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_139
+यहां लोग 'जय हिन्द' कहकर एक-दूसरे का अभिवादन करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (एक-दूसरे)
+
+T2_140
+यहां ईटानगर में युवाओं का समूह उन हिस्सों की सफाई के लिए एकजुट हुआ, जिन पर ज्यादा ध्यान देने की जरूरत थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (सफाई लिए) | Hyphen Pair: 0
+
+T2_141
+इन युवाओं ने अलग-अलग शहरों में सार्वजनिक स्थलों की साफ-सफाई को अपना mission बना लिया.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (साफ-सफाई)
+
+T2_142
+इसके बाद ईटानगर, नाहरलागुन, दोईमुख, सेप्पा, पालिन और पासीघाट वहाँ भी ये अभियान चलाया गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (चलाया+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 0
+
+T2_143
+ये युवा अब तक करीब 11 लाख किलो से अधिक कचरे की सफाई कर चुके हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_144
+सोचिए दोस्तो, नौजवानों ने मिलकर के 11 लाख किलो कूड़ा-कचरा हटाया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (कूड़ा-कचरा)
+
+T2_145
+साथियो, एक और उदाहरण असम का है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_146
+असम के नागांव में वहाँ की पुरानी गलियों से लोग भावनात्मक रूप से जुड़े हैं यहां कुछ लोगों ने अपनी गलियों को मिलकर साफ करने का संकल्प लिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_147
+धीरे-धीरे उनके साथ और लोग जुडते गए.
+Reduplication: 1 (धीरे-धीरे) | Conjunctive Verb: 0 | Compound Verb: 1 (जुडते+गए) | Honorific: 0 | Acronym: 0 | MWE: 1 (उनके साथ) | Hyphen Pair: 0
+
+T2_148
+इस तरह एक ऐसी टीम तैयार हो गई, जिसने गलियों से बहुत सारा कचरा हटा दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_149
+साथियो, ऐसा ही एक प्रयास बेंगलुरु में हो रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_150
+बेंगलुरु में sofa waste एक बड़ी समस्या बनकर सामने आया है इसलिए कुछ professionals एकजुट होकर इस issue को अपने तरीके से solve कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_151
+साथियो, आज कई शहरों में ऐसी टीमें हैं, जो landfill waste की recycling में जुटी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_152
+चेन्नई में ऐसी ही एक team ने बहुत बेहतरीन काम किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_153
+ऐसे उदाहरणों से पता चलता है कि स्वच्छता से जुड़ा हर प्रयास कितना अहम है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_154
+हमें स्वच्छता के लिए व्यक्तिगत तौर पर या फिर टीम के तौर पर अपने प्रयास बढ़ाने होंगे, तभी हमारे शहर और बेहतर बनेंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (स्वच्छता लिए) | Hyphen Pair: 0
+
+T2_155
+मेरे प्यारे देशवासियो, जब पर्यावरण सरंक्षण की बात होती है, तो अक्सर हमारे मन में बड़ी योजनाएं, बड़े अभियान और बड़े-बड़े संगठन की बातें आती हैं.
+Reduplication: 1 (बड़े-बड़े) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_156
+लेकिन कई बार बदलाव की शुरुआत बहुत साधारण तरीके से होती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_157
+एक व्यक्ति से, एक इलाके से, एक कदम से और लगातार की गई छोटी-छोटी कोशिशों से भी बड़े बदलाव आते हैं.
+Reduplication: 1 (छोटी-छोटी) | Conjunctive Verb: 0 | Compound Verb: 1 (की+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_158
+पश्चिम बंगाल के कूच बिहार के रहने वाले बेनॉय दास जी का प्रयास इसी का उदाहरण है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_159
+पिछले कई वर्षों से उन्होंने अपने जिले को हरा-भरा बनाने का काम अकेले दम पर किया है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (हरा-भरा)
+
+T2_160
+बेनॉय दास जी ने हजारों पेड़ लगाए हैं .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_161
+कई बार पौधे खरीदने से लेकर उन्हें लगाने और देख-भाल करने का सारा खर्च खुद ने उठाया है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (देख-भाल)
+
+T2_162
+जहां जरूरत पड़ी, वहाँ स्थानीय लोगों, छात्रों और नगर निकायों के साथ मिलकर काम किया .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (निकायों साथ) | Hyphen Pair: 0
+
+T2_163
+उनके प्रयासों से सड़कों के किनारे हरियाली और बढ़ गई है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बढ़+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_164
+साथियो, मध्य प्रदेश में पन्ना जिले के जगदीश प्रसाद अहिरवार जी, उनका प्रयास भी बहुत ही सराहनीय है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_165
+वो जंगल में beat-guard के रूप में अपनी सेवाएं देते हैं .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (beat-guard रूप) | Hyphen Pair: 1 (beat-guard)
+
+T2_166
+एक बार गश्त के दौरान उन्होंने महसूस किया कि जंगल में मौजूद कई औषधीय पौधों की जानकारी कहीं भी व्यवस्थित रूप से दर्ज नहीं है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_167
+जगदीश जी, ये जानकारी अगली पीढ़ी तक पँहुचाना चाहते थे, इसलिए उन्होंने, औषधीय पौधों की पहचान करना और उनका record बनाना शुरू किया .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_168
+उन्होंने सवा-सौ से ज्यादा औषधीय पौधों की पहचान की .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (सवा-सौ)
+
+T2_169
+हर पौधे की तस्वीर, नाम, उपयोग और मिलने के स्थान की जानकारी जुटाई .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_170
+उनकी जुटाई गई जानकारी को वन विभाग ने संकलित किया और किताब के रूप में प्रकाशित भी किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (जुटाई+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (किताब रूप) | Hyphen Pair: 0
+
+T2_171
+इस किताब में दी गई जानकारी अब researcher, छात्रों और वन अधिकारियों के बहुत काम आ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (दी+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_172
+साथियो, पर्यावरण संरक्षण की यही भावना आज बड़े स्तर पर भी दिखाई दे रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_173
+इसी सोच के साथ देशभर में 'एक पेड़ माँ के नाम' अभियान चलाया जा रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (चलाया+जा) | Honorific: 0 | Acronym: 0 | MWE: 1 (सोच साथ) | Hyphen Pair: 0
+
+T2_174
+इस अभियान से आज करोड़ों लोग जुड़ चुके हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_175
+अब तक देश में 200 करोड़ से ज्यादा पेड़ लगाए भी जा चुके हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (लगाए+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_176
+ये बताता है कि पर्यावरण संरक्षण को लेकर अब लोग ज्यादा जागरूक हैं, और किसी-ना-किसी रूप में अपना योगदान देना चाहते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (किसी-ना-किसी)
+
+T2_177
+मेरे प्यारे देशवासियो, मैं आप सभी की एक और बात के लिए बहुत सराहना करना चाहता हूँ - वजह है m
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 1 (बात लिए) | Hyphen Pair: 0
+
+T2_178
+illets यानि श्रीअन्न. मुझे ये देखकर खुशी है कि श्रीअन्न के प्रति देश के लोगों का लगाव निरंतर बढ़ रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_179
+वैसे तो हमने 2023 को millet year घोषित किया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_180
+लेकिन आज तीन साल बाद भी इसको लेकर देश और दुनिया में जो passion और commitment है, वो बहुत उत्साहित करने वाला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (साल बाद) | Hyphen Pair: 0
+
+T2_181
+साथियो, तमिलनाडु के कल्ल-कुरिची जिले में महिला किसानों का एक समूह प्रेरणा स्त्रोत बन गया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बन+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (कल्ल-कुरिची)
+
+T2_182
+यहाँ के 'Periyapalayam millet' FPC से लगभग 800 महिला किसान जुड़ी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (FPC) | MWE: 0 | Hyphen Pair: 0
+
+T2_183
+Millets की बढ़ती लोकप्रियता को देखते हुए इन महिलाओं ने Millet Processing Unit की स्थापना की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_184
+अब वो millets से बने उत्पादों को सीधे बाजार तक पहुंचा रही है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_185
+साथियो, राजस्थान के रामसर में भी किसान श्रीअन्न को लेकर innovation कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_186
+यहाँ के Ramsar Organic Farmer Producer Company से 900 से अधिक किसान जुड़े हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_187
+ये किसान मुख्य रूप से बाजरे की खेती करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_188
+यहाँ बाजरे को process करके ready to eat लड्डू तैयार किया जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_189
+इसकी बाजार में बड़ी मांग है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_190
+इतना ही नहीं साथियों, मुझे तो ये जानकर खुशी होती है, आजकल कई मंदिर ऐसे हैं, जो अपने प्रसाद में सिर्फ millets का उपयोग करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_191
+मैं उन मंदिर के सभी व्यवस्थापकों का हृदय से अभिनंदन करता हूं, उनकी इस पहल के लिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (पहल लिए) | Hyphen Pair: 0
+
+T2_192
+साथियो, Millets श्रीअन्न से अन्नदाताओं की कमाई बढ़ने के साथ ही लोगों की health में भी सुधार की guarantee बनता जा रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बनता+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_193
+Millets पोषण से भरपूर होते हैं, super-food होते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_194
+हमारे देश में सर्दियों का मौसम तो खानपान के लिए बहुत ही अच्छा माना जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (माना+जाता) | Honorific: 0 | Acronym: 0 | MWE: 1 (खानपान लिए) | Hyphen Pair: 0
+
+T2_195
+ऐसे में इन दिनों हमें श्रीअन्न का सेवन जरूर करना चाहिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_196
+मेरे प्यारे देशवासियो, 'मन की बात' में हमें एक बार फिर कई अलग-अलग विषयों पर चर्चा करने का अवसर मिला.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_197
+यह कार्यक्रम हम सभी को अपने देश की उपलब्धियों को महसूस करने और celebrate करने का अवसर देता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_198
+फरवरी में ऐसा ही एक और अवसर आ रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_199
+अगले महीने India AI Impact Summit होने जा रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (होने+जा) | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_200
+इस Summit में दुनियाभर से, विशेषकर Technology के क्षेत्र से जुड़े Expert भारत आएंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_201
+यह सम्मेलन AI की दुनिया में भारत की प्रगति और उपलब्धियों को भी सामने लाएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_202
+मैं इसमें शामिल होने वाले हर किसी का हृदय से अभिनंदन करता हूं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_203
+अगले महीने 'मन की बात' में India AI Impact Summit पर हम जरूर बात करेंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_204
+देशवासियों की कुछ अन्य उपलब्धियों की भी चर्चा करेंगे .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_205
+तब तक के लिए मुझे 'मन की बात' में विदा दीजिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (तब लिए) | Hyphen Pair: 0
+
+T2_206
+कल के गणतंत्र दिवस के लिए एक बार फिर आप सभी को मेरी बहुत-बहुत शुभकामनाएँ.
+Reduplication: 1 (बहुत-बहुत) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 1 (दिवस लिए) | Hyphen Pair: 0
+
+T2_207
+धन्यवाद.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_001
+मेरे प्यारे देशवासियो, नमस्कार. 'मन की बात' में आपका फिर से स्वागत है, अभिनंदन है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपका [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_002
+कुछ ही दिनों में साल 2026 दस्तक देने वाला है, और आज, जब मैं आपसे बात कर रहा हूँ, तो मन में पूरे एक साल की यादें घूम रही हैं -
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपसे [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_003
+कई तस्वीरें, कई चर्चाएं, कई उपलब्धियां, जिन्होंने देश को एक साथ जोड़ दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (एक साथ) | Hyphen Pair: 0
+
+T3_004
+2025 ने हमें ऐसे कई पल दिए जिन पर हर भारतीय को गर्व हुआ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_005
+देश की सुरक्षा से लेकर खेल के मैदान तक, विज्ञान की प्रयोगशालाओं से लेकर दुनिया के बड़े मंचों तक. भारत ने हर जगह अपनी मजबूत छाप छोड़ी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_006
+इस साल 'ऑपरेशन सिंदूर' हर भारतीय के लिए गर्व का प्रतीक बन गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बन+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (भारतीय लिए) | Hyphen Pair: 0
+
+T3_007
+दुनिया ने साफ देखा आज का भारत अपनी सुरक्षा से कोई समझौता नहीं करता.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_008
+'ऑपरेशन सिंदूर' के दौरान देश के कोने-कोने से माँ भारती के प्रति प्रेम और समर्पण की तस्वीरें सामने आई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_009
+लोगों ने अपने-अपने तरीके से अपने भाव व्यक्त किये.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_010
+साथियो, यही जज्बा तब भी देखने को मिला, जब 'वंदे मातरम्' के 150 वर्ष पूरे हुए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_011
+मैंने आपसे आग्रह किया था कि '#VandeMataram150' के साथ अपने संदेश और सुझाव भेजें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपसे [formal]) | Acronym: 0 | MWE: 1 (#VandeMataram150 साथ) | Hyphen Pair: 0
+
+T3_012
+देशवासियों ने इस अभियान में बढ़-चढ़कर हिस्सा लिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (बढ़-चढ़कर)
+
+T3_013
+साथियो, 2025 खेल के लिहाज़ से भी एक यादगार साल रहा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_014
+हमारी पुरुष Cricket team ने ICC Champions Trophy जीती.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (ICC) | MWE: 0 | Hyphen Pair: 0
+
+T3_015
+महिला Cricket team ने पहली बार विश्व कप अपने नाम किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_016
+भारत की बेटियों ने Women's Blind T20 World Cup जीतकर इतिहास रच दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_017
+एशिया कप T20 में भी तिरंगा शान से लहराया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_018
+पैरा एथलीटों ने विश्व Championship में कई पदक जीतकर ये साबित किया कि कोई बाधा हौंसलों को नहीं रोक सकती.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_019
+विज्ञान और अंतरिक्ष के क्षेत्र में भी भारत ने बड़ी छलांग लगाई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_020
+शुभांशु शुक्ला पहले भारतीय बने, जो International Space Station तक पहुंचे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_021
+पर्यावरण संरक्षण और वन्य-जीवों की सुरक्षा से जुड़े कई प्रयास भी 2025 की पहचान बने.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (वन्य-जीवों)
+
+T3_022
+भारत में चीतों की संख्या भी अब 30 से ज्यादा हो गई है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (हो+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_023
+2025 में आस्था, संस्कृति और भारत की अद्वितीय विरासत सब एक साथ दिखाई दी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (एक साथ) | Hyphen Pair: 0
+
+T3_024
+साल के शुरुआत में प्रयागराज महाकुंभ के आयोजन ने पूरी दुनिया को चकित किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_025
+साल के अंत में अयोध्या में राम मंदिर पर ध्वजारोहण के कार्यक्रम ने हर भारतीय को गर्व से भर दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_026
+स्वदेशी को लेकर भी लोगों का उत्साह खूब दिखाई दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_027
+लोग वही सामान खरीद रहे हैं, जिसमें किसी भारतीय का पसीना लगा हो और जिसमें भारत की मिट्टी की सुगंध हो.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_028
+आज हम गर्व से कह सकते हैं 2025 ने भारत को और अधिक आत्मविश्वास दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_029
+ये बात भी सही है इस वर्ष प्राकृतिक आपदाएं हमें झेलनी पड़ी, अनेक क्षेत्रों में झेलनी पड़ी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (झेलनी+पड़ी, झेलनी+पड़ी) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_030
+अब देश 2026 में नई उम्मीदों, नए संकल्पों के साथ आगे बढ़ने को तैयार है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (उम्मीदों साथ) | Hyphen Pair: 0
+
+T3_031
+मेरे प्यारे देशवासियो, आज दुनिया भारत को बहुत आशा के साथ देख रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (आशा साथ) | Hyphen Pair: 0
+
+T3_032
+भारत से उम्मीद की सबसे बड़ी वजह है, हमारी युवा शक्ति.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_033
+विज्ञान के क्षेत्र में हमारी उपलब्धियां, नए-नए innovation, technology का विस्तार इनसे दुनियाभर के देश बहुत प्रभावित हैं.
+Reduplication: 1 (नए-नए) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_034
+साथियो, भारत के युवाओं में हमेशा कुछ नया करने का जुनून है और वो उतने ही जागरूक भी हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_035
+मेरे युवा साथी कई बार मुझसे यह पूछते हैं कि nation building में वो अपना योगदान और कैसे बढ़ाएं?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_036
+वो कैसे अपने ideas share कर सकते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_037
+कई साथी पूछते हैं कि मेरे सामने वो अपने ideas का presentation कैसे दे सकते हैं?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_038
+हमारे युवा साथियों की इस जिज्ञासा का समाधान है 'Viksit Bharat Young Leaders Dialogue'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_039
+पिछले साल इसका पहला edition हुआ था, अब कुछ दिन बाद उसका दूसरा edition होने वाला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (दिन बाद) | Hyphen Pair: 0
+
+T3_040
+अगले महीने की 12 तारीख को स्वामी विवेकानंद जी की जयंती के अवसर पर 'राष्ट्रीय युवा दिवस' मनाया जाएगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (मनाया+जाएगा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_041
+इसी दिन 'Young Leaders Dialogue' का भी आयोजन होगा और मैं भी इसमें जरूर शामिल होऊंगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_042
+इसमें हमारे युवा Innovation, Fitness, Startup और Agriculture जैसे महत्वपूर्ण विषयों पर अपने ideas share करेंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_043
+मैं इस कार्यक्रम को लेकर बहुत ही उत्सुक हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_044
+साथियो, मुझे ये देखकर अच्छा लगा कि इस कार्यक्रम में हमारे युवाओं की भागीदारी बढ़ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_045
+कुछ दिनों पहले ही इससे जुड़ा एक quiz competition हुआ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_046
+इसमें 50 लाख से अधिक युवा शामिल हुए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_047
+एक निबंध प्रतियोगिता भी हुई, जिसमें students ने विभिन्न विषयों पर अपनी बातें रखीं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_048
+इस प्रतियोगिता में तमिलनाडु पहले और उत्तर प्रदेश दूसरे स्थान पर रहा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_049
+साथियो, आज देश के भीतर युवाओं को प्रतिभा दिखाने के नए- नए अवसर मिल रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_050
+ऐसे बहुत से platforms विकसित हो रहे हैं, जहां युवा अपनी योग्यता और रुचि के अनुसार talent दिखा सकते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (योग्यता अनुसार) | Hyphen Pair: 0
+
+T3_051
+ऐसा ही एक platform है- 'Smart India Hackathon' एक और ऐसा माध्यम जहां ideas, action में बदलते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_052
+साथियो, 'Smart India Hackathon 2025' का समापन इसी महीने हुआ है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_053
+इस Hackathon के दौरान 80 से अधिक सरकारी विभागों की 270 से ज्यादा समस्याओं पर students ने काम किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_054
+Students ने ऐसे solution दिए, जो real life challenges से जुड़े थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_055
+जैसे traffic की समस्या है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_056
+इसे लेकर युवाओं ने 'Smart Traffic Management' से जुड़े बहुत ही interesting perspective share किए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_057
+Financial Frauds और Digital Arrests जैसी चुनौतियों के समाधान पर भी युवाओं ने अपने ideas सामने रखे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_058
+गाँवों में digital banking के लिए Cyber Security Framework पर सुझाव दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (banking लिए) | Hyphen Pair: 0
+
+T3_059
+कई युवा agriculture sector की चुनौतियों के समाधान में जुटे रहे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_060
+साथियो, पिछले 7-8 साल में 'Smart India Hackathon' में, 13 लाख से ज्यादा students और 6 हजार से ज्यादा Institutes हिस्सा ले चुके हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_061
+युवाओं ने सैंकड़ों problems के सटीक solutions भी दिए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_062
+इस तरह के Hackathons का आयोजन समय-समय पर होता रहता है.
+Reduplication: 1 (समय-समय) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_063
+मेरा अपने युवा साथियों से आग्रह है कि वे इन Hackathons का हिस्सा जरूर बनें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_064
+साथियो, आज का जीवन Tech-Driven होता जा रहा है और जो परिवर्तन सदियों में आते थे वो बदलाव हम कुछ बरसों में होते देख रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (होता+जा) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (Tech-Driven)
+
+T3_065
+कई बार तो कुछ लोग चिंता जताते हैं कि Robots कहीं मनुष्यों को ही न Replace कर दें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_066
+ऐसे बदलते समय में Human Development के लिए अपनी जड़ों से जुड़े रहना बहुत जरूरी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (Development लिए) | Hyphen Pair: 0
+
+T3_067
+मुझे ये देखकर बहुत खुशी होती है कि हमारी अगली पीढ़ी अपनी संस्कृति की जड़ों को अच्छी तरह थाम रही है -
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_068
+नई सोच के साथ नए तरीकों के साथ. साथियो, आपने Indian Institute of Science उसका नाम तो जरूर सुना होगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपने [formal]) | Acronym: 0 | MWE: 2 (सोच साथ, तरीकों साथ) | Hyphen Pair: 0
+
+T3_069
+Research और Innovation इस संस्थान की पहचान है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_070
+कुछ साल पहले वहाँ के कुछ छात्रों ने महसूस किया कि पढ़ाई और Research के बीच संगीत के लिए भी जगह होनी चाहिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (पढ़ाई बीच, संगीत लिए) | Hyphen Pair: 0
+
+T3_071
+बस यहीं से एक छोटी-सी Music Class शुरू हुई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (छोटी-सी)
+
+T3_072
+ना बड़ा मंच, ना कोई बड़ा बजट. धीरे-धीरे ये पहल बढ़ती गई और आज इसे हम 'Geetanjali IISc' के नाम से जानते हैं.
+Reduplication: 1 (धीरे-धीरे) | Conjunctive Verb: 0 | Compound Verb: 1 (बढ़ती+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_073
+यह अब सिर्फ एक Class नहीं, Campus का सांस्कृतिक केंद्र है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_074
+यहाँ हिन्दुस्तानी शास्त्रीय संगीत है, लोक परंपराएँ हैं, शास्त्रीय विधाएं हैं, छात्र यहाँ साथ बैठकर रियाज़ करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_075
+Professor साथ बैठते हैं, उनके परिवार भी जुड़ते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_076
+आज दो-सौ से ज्यादा लोग इससे जुड़े हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (दो-सौ)
+
+T3_077
+और खास बात ये कि जो विदेश चले गए, वो भी Online जुड़कर इस Group की डोर थामे हुए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (चले+गए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_078
+साथियो, अपनी जड़ों से जुड़े रहने के ये प्रयास सिर्फ भारत तक सीमित नहीं है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_079
+दुनिया के अलग-अलग कोनों और वहाँ बसे भारतीय भी अपनी भूमिका निभा रहे हैं.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_080
+एक और उदाहरण जो हमें देश से बाहर ले जाता है - ये जगह है 'दुबई'.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 1 (ले+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_081
+वहाँ रहने वाले कन्नड़ा परिवारों ने खुद से एक जरूरी सवाल पूछा - हमारे बच्चे Tech-World में आगे तो बढ़ रहें हैं, लेकिन कहीं वो अपनी भाषा से दूर तो नहीं हो रहे हैं?
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_082
+यहीं से जन्म हुआ 'कन्नड़ा पाठशाले' का. एक ऐसा प्रयास, जहां बच्चों को 'कन्नड़ा' पढ़ाना, सीखना, लिखना और बोलना सिखाया जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (बोलना+जाता, सिखाया+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_083
+आज इससे एक हजार से ज्यादा बच्चे जुड़े हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_084
+वाकई, कन्नड़ा नाडु, नुडी नम्मा हेम्मे. कन्नड़ा की भूमि और भाषा, हमारा गर्व है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_085
+साथियो, एक पुरानी कहावत है 'जहां चाह, वहाँ राह'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_086
+इस कहावत को फिर से सच कर दिखाया है मणिपुर के एक युवा मोइरांगथेम सेठ जी ने. उनकी उम्र 40 साल से भी कम है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_087
+श्रीमान् मोइरांगथेम जी मणिपुर के जिस दूर-सुदूर क्षेत्र में रहते थे वहाँ बिजली की बड़ी समस्या थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (दूर-सुदूर)
+
+T3_088
+इस चुनौती से निपटने के लिए उन्होंने Local Solution पर जोर दिया और उन्हें ये Solution मिला Solar Power में.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (निपटने लिए) | Hyphen Pair: 0
+
+T3_089
+हमारे मणिपुर में वैसे भी Solar Energy पैदा करना आसान है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_090
+तो मोइरांगथेम जी ने Solar Panel लगाने का अभियान चलाया और इस अभियान की वजह से आज उनके क्षेत्र के सैकड़ों घरों में Solar Power पहुंच गई है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (पहुंच+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (अभियान वजह) | Hyphen Pair: 0
+
+T3_091
+खास बात ये है कि उन्होंने Solar Power का उपयोग Health-Care और आजीविका को बेहतर बनाने के लिए किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (बनाने लिए) | Hyphen Pair: 0
+
+T3_092
+आज उनके प्रयासों से मणिपुर में कई Health Centers को भी Solar Power मिल रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_093
+उनके इस काम से मणिपुर की नारी-शक्ति को भी बहुत लाभ मिला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (नारी-शक्ति)
+
+T3_094
+स्थानीय मछुआरों और कलाकारों को भी इससे मदद मिली है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_095
+साथियो, आज सरकार 'PM सूर्य घर मुफ़्त बिजली योजना' के तहत हर लाभार्थी परिवार को Solar Panel लगाने के लिए करीब-करीब 75 से 80 हजार रुपए दे रही है.
+Reduplication: 1 (करीब-करीब) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (PM) | MWE: 2 (योजना तहत, लगाने लिए) | Hyphen Pair: 0
+
+T3_096
+मोइरांगथेम जी के ये प्रयास यूं तो व्यक्तिगत प्रयास हैं, लेकिन Solar Power से जुड़े हर अभियान को नई गति दे रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_097
+मैं 'मन की बात' के माध्यम से उन्हें अपनी शुभकामनाएँ देता हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_098
+मेरे प्यारे देशवासियो, आइए अब जरा हम जम्मू-कश्मीर की तरफ चलते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (जम्मू-कश्मीर तरफ) | Hyphen Pair: 1 (जम्मू-कश्मीर)
+
+T3_099
+जम्मू-कश्मीर की सांस्कृतिक और ऐतिहासिक विरासत, उसकी एक ऐसी गाथा साझा करना चाहता हूँ, जो आपको गर्व से भर देगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (जम्मू-कश्मीर)
+
+T3_100
+जम्मू-कश्मीर के बारामूला में, जेहनपोरा नाम की एक जगह है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (जम्मू-कश्मीर)
+
+T3_101
+वहां लोग बरसों से कुछ ऊंचे-ऊंचे टीले देखते आ रहे थे.
+Reduplication: 1 (ऊंचे-ऊंचे) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_102
+साधारण से टीले किसी को नहीं पता था कि ये क्या है?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_103
+फिर एक दिन Archaeologist की नज़र इन पर पड़ी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_104
+जब उन्होंने इस इलाके को ध्यान से देखना शुरू किया, तो ये टीले कुछ अलग लगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_105
+इसके बाद इन टीलों का वैज्ञानिक अध्ययन शुरू किया गया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (इसके बाद) | Hyphen Pair: 0
+
+T3_106
+ड्रोन के ज़रिए ऊपर से तस्वीरें ली गईं, ज़मीन की Mapping की गई.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (ली+गईं, की+गई) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_107
+और फिर कुछ हैरान करने वाली बातें सामने आने लगी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_108
+पता चला ये टीले प्राकृतिक नहीं हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_109
+ये इंसान द्वारा बनाई गई किसी बड़ी इमारत के अवशेष हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बनाई+गई) | Honorific: 0 | Acronym: 0 | MWE: 1 (इंसान द्वारा) | Hyphen Pair: 0
+
+T3_110
+इसी दौरान एक और दिलचस्प कड़ी जुड़ी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_111
+कश्मीर से हजारों किलोमीटर दूर, फ़्रांस के एक Museum के Archives में एक पुराना, धुंधला सा चित्र मिला.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_112
+बारामूला के उस चित्र में तीन बौद्ध स्तूप नजर आ रहे थे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_113
+यहीं से समय ने करवट ली और कश्मीर का एक गौरवशाली अतीत हमारे सामने आया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_114
+ये करीब दो हजार साल पुराना इतिहास है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_115
+कश्मीर के जेहनपोरा का ये बौद्ध परिसर हमें याद दिलाता है, कश्मीर का अतीत क्या था, उसकी पहचान कितनी समृद्ध थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_116
+मेरे प्यारे देशवासियो, अब मैं आपसे भारत से हजारों किलोमीटर दूर, एक ऐसे प्रयास की बात करना चाहता हूँ, जो दिल को छू लेने वाला है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपसे [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_117
+Fiji में भारतीय भाषा और संस्कृति के प्रसार के लिए एक सराहनीय पहल हो रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (प्रसार लिए) | Hyphen Pair: 0
+
+T3_118
+वहाँ की नई पीढ़ी को तमिल भाषा से जोड़ने के लिए कई स्तरों पर लगातार प्रयास किए जा रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किए+जा) | Honorific: 0 | Acronym: 0 | MWE: 1 (जोड़ने लिए) | Hyphen Pair: 0
+
+T3_119
+पिछले महीने Fiji के राकी-राकी इलाके में वहाँ के एक स्कूल में पहली बार तमिल दिवस मनाया गया.
+Reduplication: 1 (राकी-राकी) | Conjunctive Verb: 0 | Compound Verb: 1 (मनाया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_120
+उस दिन बच्चों को एक ऐसा मंच मिला, जहां उन्होंने अपनी भाषा पर खुले दिल से गौरव व्यक्त किया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_121
+बच्चों ने तमिल में कविताएँ सुनाई, भाषण दिए और अपनी संस्कृति को पूरे आत्मविश्वास के साथ मंच पर उतारा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (आत्मविश्वास साथ) | Hyphen Pair: 0
+
+T3_122
+साथियो, देश के भीतर भी तमिल भाषा के प्रचार के लिए लगातार काम हो रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (प्रचार लिए) | Hyphen Pair: 0
+
+T3_123
+कुछ दिन पहले ही मेरे संसदीय क्षेत्र काशी में चौथा 'काशी तमिल संगमम' हुआ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_124
+अब मैं आपको एक audio clip सुनाने जा रहा हूँ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (सुनाने+जा) | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_125
+आप सुनिए और अंदाज़ा लगाइए तमिल बोलने की कोशिश कर रहे ये बच्चे कहां के हैं?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_126
+# (Audio Clip 1 पायल) # साथियो, आपको जानकार हैरानी होगी तमिल भाषा में इतनी सहजता से अपनी बात रखने वाले ये बच्चे काशी के हैं, वाराणसी के हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_127
+इनकी मातृभाषा हिन्दी है, लेकिन तमिल भाषा के प्रति लगाव ने इन्हें तमिल सीखने के लिए प्रेरित किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (सीखने लिए) | Hyphen Pair: 0
+
+T3_128
+इस साल वाराणसी में 'काशी तमिल संगमम' के दौरान तमिल सीखने पर खास ज़ोर दिया गया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (दिया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_129
+Learn Tamil - 'तमिल कराकलम' इस Theme के तहत वाराणसी के 50 से ज्यादा स्कूलों में विशेष अभियान भी चलाए गए.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 1 (चलाए+गए) | Honorific: 0 | Acronym: 0 | MWE: 1 (Theme तहत) | Hyphen Pair: 0
+
+T3_130
+इसी का नतीजा हमें इस audio clip में सुनाई देता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_131
+# (Audio Clip 2 वैष्णवी) # साथियो, तमिल भाषा दुनिया की सबसे प्राचीन भाषा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_132
+तमिल साहित्य भी अत्यंत समृद्ध है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_133
+मैंने 'मन की बात' में 'काशी तमिल संगमम' में भाग लेने का आग्रह किया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_134
+मुझे खुशी है कि आज देश के दूसरे हिस्सों में भी बच्चों और युवाओं के बीच तमिल भाषा को लेकर नया आकर्षण दिख रहा है - यही भाषा की ताकत है, यही भारत की एकता है.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (बच्चों बीच) | Hyphen Pair: 0
+
+T3_135
+साथियो, अगले महीने हम देश का 77वाँ गणतंत्र दिवस मनाएंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_136
+जब भी ऐसे अवसर आते हैं, तो हमारा मन स्वतंत्रता सेनानियों और संविधान निर्माताओं के प्रति कृतज्ञता के भाव से भर जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (भर+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_137
+हमारे देश ने आजादी पाने के लिए लंबा संघर्ष किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (पाने लिए) | Hyphen Pair: 0
+
+T3_138
+आजादी के आंदोलन में देश के हर हिस्से के लोगों ने अपना योगदान दिया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_139
+लेकिन, दुर्भाग्य से आजादी के अनेकों नायक-नायिकाओं को वो सम्मान नहीं मिला, जो उन्हें मिलना चाहिए था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (नायक-नायिकाओं)
+
+T3_140
+ऐसी ही एक स्वतंत्रता सेनानी हैं - ओडिशा की पार्वती गिरि जी. जनवरी 2026 में उनकी जन्म-शताब्दी मनाई जाएगी.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 1 (मनाई+जाएगी) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (जन्म-शताब्दी)
+
+T3_141
+उन्होंने 16 वर्ष की आयु में 'भारत छोड़ो आंदोलन' में हिस्सा लिया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_142
+साथियो, आजादी के आंदोलन के बाद पार्वती गिरि जी ने अपना जीवन समाज सेवा और जनजातीय कल्याण को समर्पित कर दिया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (आंदोलन बाद) | Hyphen Pair: 0
+
+T3_143
+उन्होंने कई अनाथालयों की स्थापना की.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_144
+उनका प्रेरक जीवन हर पीढ़ी का मार्गदर्शन करता रहेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_145
+"मूँ पार्वती गिरि जिंकु श्रद्धांजलि अर्पण करुछी" (मैं पार्वती गिरी जी को श्रद्धांजलि अर्पित करता हूँ) साथियो, ये हमारा दायित्व है कि हम अपनी विरासत को ना भूलें| हम आजादी दिलाने वाले नायक-नायिकाओं की महान गाथा को अगली पीढ़ी तक पहुंचाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (नायक-नायिकाओं)
+
+T3_146
+आपको याद होगा जब हमारी आजादी के 75 वर्ष हुए थे, तब सरकार ने एक विशेष website तैयार की थी.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_147
+इसमें एक विभाग 'Unsung Heroes' को समर्पित किया गया था.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (किया+गया) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_148
+आज भी आप इस website पर visit करके उन महान विभूतियों के बारे में जान सकते हैं जिनकी देश को आजादी दिलाने में बहुत बड़ी भूमिका रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 1 (विभूतियों बारे) | Hyphen Pair: 0
+
+T3_149
+मेरे प्यारे देशवासियो, 'मन की बात' के जरिए हमें समाज की भलाई से जुड़े महत्वपूर्ण विषयों पर चर्चा करने का एक बहुत अच्छा अवसर मिलता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_150
+आज मैं एक ऐसे मुद्दे पर बात करना चाहता हूँ, जो हम सभी के लिए चिंता का विषय बन गया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बन+गया) | Honorific: 0 | Acronym: 0 | MWE: 1 (सभी लिए) | Hyphen Pair: 0
+
+T3_151
+ICMR यानि Indian Council of Medical Research ने हाल ही में एक report जारी की है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (ICMR) | MWE: 0 | Hyphen Pair: 0
+
+T3_152
+इसमें बताया गया है कि निमोनिया और UTI जैसी कई बीमारियों के खिलाफ antibiotic दवाएं कमजोर साबित हो रही हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बताया+गया) | Honorific: 0 | Acronym: 1 (UTI) | MWE: 0 | Hyphen Pair: 0
+
+T3_153
+हम सभी के लिए यह बहुत ही चिंताजनक है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (सभी लिए) | Hyphen Pair: 0
+
+T3_154
+report के मुताबिक इसका एक बड़ा कारण लोगों द्वारा बिना सोचे-समझे antibiotic दवाओं का सेवन है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (लोगों द्वारा) | Hyphen Pair: 1 (सोचे-समझे)
+
+T3_155
+antibiotic ऐसी दवाएं नहीं हैं, जिन्हें यूं ही ले लिया जाए.
+Reduplication: 1 (ले-लिया) | Conjunctive Verb: 0 | Compound Verb: 2 (ले+जाए, लिया+जाए) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_156
+इनका इस्तेमाल Doctor की सलाह से ही करना चाहिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_157
+आजकल लोग ये मानने लगे हैं कि बस एक गोली ले लो, हर तकलीफ दूर हो जाएगी.
+Reduplication: 1 (ले-लो) | Conjunctive Verb: 0 | Compound Verb: 1 (हो+जाएगी) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_158
+यही वजह है कि बीमारियाँ और संक्रमण इन antibiotic दवाओं पर भारी पड़ रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_159
+मैं आप सभी से आग्रह करता हूँ कि कृपया अपनी मनमर्जी से दवाओं का इस्तेमाल करने से बचें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_160
+Antibiotic दवाओं के मामले में तो इस बात का ध्यान रखना बहुत जरूरी है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_161
+मैं तो यही कहूँगा - Medicines के लिए Guidance और Antibiotics के लिए Doctors की जरूरत है.
+Reduplication: 1 (-) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (Medicines लिए, Guidance लिए) | Hyphen Pair: 0
+
+T3_162
+यह आदत आपकी सेहत को बेहतर बनाने में बहुत मददगार साबित होने वाली है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपकी [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_163
+मेरे प्यारे देशवासियो, हमारी पारंपरिक कलाएं समाज को सशक्त करने के साथ ही लोगों की आर्थिक प्रगति का भी बड़ा माध्यम बन रही हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_164
+आंध्र प्रदेश के नारसापुरम जिले की Lace Craft (लेस क्राफ्ट) की चर्चा अब पूरे देश में बढ़ रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_165
+ये Lace Craft (लेस क्राफ्ट) कई पीढ़ियों से महिलाओं के हाथों में रही है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_166
+बहुत धैर्य और बारीकी के साथ देश की नारी-शक्ति ने इसका संरक्षण किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (धैर्य साथ) | Hyphen Pair: 1 (नारी-शक्ति)
+
+T3_167
+आज इस परंपरा को एक नए रंग रूप के साथ आगे ले जाया जा रहा है.
+Reduplication: 1 (जाया-जा) | Conjunctive Verb: 0 | Compound Verb: 1 (ले+जाया) | Honorific: 0 | Acronym: 0 | MWE: 1 (रूप साथ) | Hyphen Pair: 0
+
+T3_168
+आंध्र प्रदेश सरकार और NABARD मिलकर कारीगरों को नए design सिखा रहे हैं, बेहतर skill training दे रहे हैं और नए बाजार से जोड़ रहे हैं .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (NABARD) | MWE: 0 | Hyphen Pair: 0
+
+T3_169
+नारसापुरम Lace को GI Tag भी मिला है .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (GI) | MWE: 0 | Hyphen Pair: 0
+
+T3_170
+आज इससे 500 से ज्यादा products बन रहे हैं और ढ़ाई-सौ से ज्यादा गांवों में करीब-करीब 1 लाख महिलाओं को इससे काम मिल रहा है.
+Reduplication: 1 (करीब-करीब) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (ढ़ाई-सौ)
+
+T3_171
+साथियो, 'मन की बात' ऐसे लोगों को सामने लाने का भी मंच है जो अपने परिश्रम से ना सिर्फ पारंपरिक कलाओं को आगे बढ़ा रहे हैं बल्कि इससे स्थानीय लोगों को सशक्त भी कर रहे हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_172
+मणिपुर के चुराचांदपुर में Margaret Ramtharsiem जी उनके प्रयास ऐसे ही हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_173
+उन्होंने मणिपुर के पारंपरिक उत्पादों को, वहाँ के handicraft को, बांस और लकड़ी से बनी चीजों को, एक बड़े vision के साथ देखा और इसी vision के कारण, वो एक handicraft artist से लोगों के जीवन को बदलने का माध्यम बन गईं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बन+गईं) | Honorific: 0 | Acronym: 0 | MWE: 1 (vision साथ) | Hyphen Pair: 0
+
+T3_174
+आज Margaret जी की unit उसमें 50 से ज्यादा artist काम कर रहे हैं और उन्होंने अपनी मेहनत से दिल्ली समेत देश के कई राज्यों में, अपने products का एक market भी develop किया है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_175
+साथियो, मणिपुर से ही एक और उदाहरण सेनापति जिले की रहने वाली चोखोने क्रिचेना जी का है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_176
+उनका पूरा परिवार परंपरागत खेती से जुड़ा रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_177
+क्रिचेना ने इस पारंपरिक अनुभव को एक और विस्तार दिया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_178
+उन्होंने फूलों की खेती को अपना passion बनाया.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_179
+आज वो इस काम से अलग-अलग markets को जोड़ रहीं हैं और अपने इलाके की local communities को भी Empower कर रही हैं.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_180
+साथियो, ये उदाहरण इस बात का पर्याय है कि अगर पारंपरिक ज्ञान को आधुनिक vision के साथ आगे बढ़ाएं तो ये आर्थिक प्रगति का बड़ा माध्यम बन जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (बन+जाता) | Honorific: 0 | Acronym: 0 | MWE: 1 (vision साथ) | Hyphen Pair: 0
+
+T3_181
+आपके आसपास भी ऐसी success stories हों, तो मुझे जरूर share करिए.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपके [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_182
+साथियो, हमारे देश की सबसे खूबसूरत बात ये है कि सालभर हर समय देश के किसी-ना-किसी हिस्से में उत्सव का माहौल रहता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (किसी-ना-किसी)
+
+T3_183
+अलग-अलग पर्व-त्योहार तो हैं ही, साथ ही विभिन्न राज्यों के स्थानीय उत्सव भी आयोजित होते रहते हैं.
+Reduplication: 1 (अलग-अलग) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (पर्व-त्योहार)
+
+T3_184
+यानि, अगर आप घूमने का मन बनाएं, तो हर समय, देश का कोई-ना-कोई कोना अपने unique उत्सव के साथ तैयार मिलेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 1 (उत्सव साथ) | Hyphen Pair: 1 (कोई-ना-कोई)
+
+T3_185
+ऐसा ही एक उत्सव इन दिनों कच्छ के रण में चल रहा है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_186
+इस साल कच्छ रणोत्सव का ये आयोजन 23 नवंबर से शुरू हुआ है, जो 20 फरवरी तक चलेगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_187
+यहाँ कच्छ की लोक संस्कृति, लोक संगीत, नृत्य और हस्तशिल्प की विविधता दिखाई देती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_188
+कच्छ के सफेद रण की भव्यता देखना अपने आप में एक सुखद अनुभव है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_189
+रात के समय जब सफेद रण के ऊपर चाँदनी फैलती है, वहाँ का दृश्य अपने आप में मंत्रमुग्ध कर देने वाला होता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_190
+रण उत्सव का Tent City बहुत लोकप्रिय है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_191
+मुझे जानकारी मिली है कि पिछले एक महीने में अब तक 2 लाख से ज्यादा लोग रणोत्सव का हिस्सा बन चुके हैं और देश के कोने-कोने से आए हैं, विदेश से भी लोग आए हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_192
+आपको जब भी अवसर मिले, तो ऐसे उत्सवों में जरूर शामिल हों और भारत की विविधता का आनद उठाएं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आपको [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_193
+साथियो, 2025 में 'मन की बात' का ये आखिरी episode है, अब हम साल 2026 में ऐसे ही उमंग और उत्साह के साथ, अपनेपन के साथ अपने 'मन की बातों' को करने के लिए 'मन की बात' के कार्यक्रम में जरूर जुड़ेंगे.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 3 (उमंग साथ, अपनेपन साथ, करने लिए) | Hyphen Pair: 0
+
+T3_194
+नई ऊर्जा, नए विषय और प्रेरणा से भर देने वाली देशवासियों की अनगिनित गाथाओं 'मन की बात' में हम सबको जोड़ती है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_195
+हर महीने मुझे ऐसे अनेक संदेश मिलते हैं, जिसमें 'विकसित भारत' को लेकर लोग अपना vision साझा करते हैं.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_196
+लोगों से मिलने वाले सुझाव और इस दिशा में उनके प्रयासों को देखकर ये विश्वास और मजबूत होता है और जब ये सब बातें मेरे तक पहुँचती हैं, तो 'विकसित भारत' का संकल्प जरूर सिद्ध होगा.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_197
+ये विश्वास दिनों दिन मजबूत होता जाता है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (होता+जाता) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_198
+साल 2026 इस संकल्प सिद्धि की यात्रा में एक अहम पड़ाव साबित हो, आपका और आपके परिवार का जीवन खुशहाल हो, इसी कामना के साथ इस episode में विदाई लेने से पहले मैं जरूर कहूँगा, 'Fit India Movement' आप को भी fit रहना है.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 3 (आपका [formal], आपके [formal], आप [formal]) | Acronym: 0 | MWE: 1 (कामना साथ) | Hyphen Pair: 0
+
+T3_199
+ठंडी का ये मौसम व्यायाम के लिए बहुत उपयुक्त होता है, व्यायाम जरूर करें.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (व्यायाम लिए) | Hyphen Pair: 0
+
+T3_200
+आप सभी को 2026 की बहुत-बहुत शुभकामनाएं.
+Reduplication: 1 (बहुत-बहुत) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (आप [formal]) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_201
+धन्यवाद. वंदे मातरम्.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+

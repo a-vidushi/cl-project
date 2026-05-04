@@ -1,0 +1,239 @@
+
+======================================================================
+WEEK 1 — CORPUS EXPLORATION & UTF-8 VALIDATION
+======================================================================
+Metric                   February 2026    January 2026   December 2025           TOTAL
+--------------------------------------------------------------------------------------
+Total chars                      15778           16235           16698           48711
+Devanagari chars                 11220           11440           11543           34203
+Latin alpha chars                 1104            1217            1460            3781
+Digit chars                         37              56             105             198
+Invalid Unicode                      0               0               0               0
+Total tokens                      3174            3266            3319            9759
+Devanagari tokens                 2958            3051            3051            9060
+Latin tokens                       193             187             221             601
+Sentences (approx.)                211             214             208             633
+Poorna viram (।)                   205             202             203             610
+Double danda (॥)                     0               0               0               0
+
+Sample sentence boundaries (February 2026, first 5):
+  [1] मेरे प्यारे देशवासियो, नमस्कार
+  [2] 'मन की बात' में आपका स्वागत है, अभिनंदन है
+  [3] 'मन की बात' देश और देशवासियों की उपलब्धियों को सामने लाने का एक मजबूत प्लेटफॉर्म…
+  [4] देश ने ऐसी ही उपलब्धि, अभी दिल्ली में हुई Global AI Impact Summit के दौरान देखी
+  [5] कई देशों के नेता, उद्योग जगत के leaders, Innovators और Start-Up sector से जुड़े …
+
+======================================================================
+WEEK 2 — PREPROCESSING & TRANSLITERATION
+======================================================================
+
+Transliteration sample (10 sentences per episode):
+
+── February 2026 ──
+  mērē pyārē dēśavāsiyō, namaskār
+  'man kī bāt' mēṃ āpakā svāgat hai, abhinaṃdan hai
+  'man kī bāt' dēś aur dēśavāsiyōṃ kī upalabdhiyōṃ kō sāmanē lānē kā ēk majabūt plēṭaphrm hai
+  dēś nē aisī hī upalabdhi, abhī dillī mēṃ huī Global AI Impact Summit kē daurān dēkhī
+  kaī dēśōṃ kē nētā, udyōg jagat kē leaders, Innovators aur Start-Up sector sē juṛē lōg, AI Impact Sum…
+  ānē vālē samay mēṃ AI kī śakti kā upayōg duniyā kis prakār karēgī, is diśā mēṃ yah summit ēk turning…
+  sāthiyō,
+Summit mēṃ mujhē World Leaders aur Tech CEOs sē milanē kā bhī avasar milā
+  AI summit kī exhibition mēṃ maiṃnē World Leaders kō ṛhēr sārī cījēṃ dikhāī
+  maiṃ dō bātōṃ kā viśēṣ rūp sē ullēkh karanā cāhatā hūm̐
+  Summit mēṃ in dō products nē duniyā bhar kē leaders kō bahut prabhāvit kiyā
+
+── January 2026 ──
+  mērē pyārē dēśavāsiyō, namaskār
+  sāl 2026 kā yah pahalā 'man kī bāt' hai
+  kal 26 janavarī kō ham sabhī 'gaṇataṃtr divas' kā parv manāēṃgē
+  isī din hamārā saṃvidhān lāgū huā thā
+  26 janavarī kā yē din hamēṃ apanē saṃvidhān nirmātāōṃ kō naman karanē kā avasar dētā hai
+  āj 25 janavarī kā din bhī bahut aham hai
+  āj 'National Voters' Day' hai 'matadātā divas' hai
+  matadātā hī lōkataṃtr kī ātmā hōtā hai
+  sāthiyō,
+āmataur par jab kōī 18 sāl kā hō jātā hai, matadātā ban jātā hai tō usē jīvan kā ēk sāmāny …
+  lēkin, daraasal yē avasar kisī bhī bhāratīy kē jīvan kā bahut baṛā milestone hōtā hai
+
+── December 2025 ──
+  mērē pyārē dēśavāsiyō, namaskār
+  'man kī bāt' mēṃ āpakā phir sē svāgat hai, abhinaṃdan hai
+  kuch hī dinōṃ mēṃ sāl 2026 dastak dēnē vālā hai, aur āj, jab maiṃ āpasē bāt kar rahā hūm̐, tō man mē…
+  2025 nē hamēṃ aisē kaī pal diē jin par har bhāratīy kō garv huā
+  dēś kī surakṣā sē lēkar khēl kē maidān tak, vijñān kī prayōgaśālāōṃ sē lēkar duniyā kē baṛē maṃcōṃ t…
+  bhārat nē har jagah apanī majabūt chāp chōṛī
+  is sāl 'ôparēśan siṃdūr' har bhāratīy kē liē garv kā pratīk ban gayā
+  duniyā nē sāph dēkhā āj kā bhārat apanī surakṣā sē kōī samajhautā nahīṃ karatā
+  'ôparēśan siṃdūr' kē daurān dēś kē kōnē-kōnē sē mām̐ bhāratī kē prati prēm aur samarpaṇ kī tasvīrēṃ …
+  lōgōṃ nē apanē-apanē tarīkē sē apanē bhāv vyakt kiyē
+
+Spot-check transliteration accuracy:
+  ✓  नमस्कार → namaskār  (expected namaskār)
+  ✓  भारत → bhārat  (expected bhārat)
+  ✓  किसान → kisān  (expected kisān)
+  ✓  धीरे → dhīrē  (expected dhīrē)
+  ✗  सरकार → sarakār  (expected sarkār)
+
+  Transliteration note: schwa deletion is word-final only.
+  Medial schwas in ~9759 tokens remain undeleted (known limitation).
+  This affects compound verb stems most — e.g. sarakār vs sarkār.
+
+======================================================================
+WEEK 3 — PATTERN EXTRACTION (REDUPLICATION, ACRONYMS, HYPHENATED PAIRS)
+======================================================================
+
+── Reduplication ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        12             10
+  January 2026                         10              6
+  December 2025                        14             10
+
+  Top examples (across all episodes):
+    alag-alag  (8×)
+    bahut-bahut  (4×)
+    apanē-apanē  (3×)
+    kōnē-kōnē  (3×)
+    samay-samay  (3×)
+    sāth-sāth  (2×)
+    dhīrē-dhīrē  (2×)
+    karīb-karīb  (2×)
+    anēk-anēk  (1×)
+    dūr-dūr  (1×)
+    kabhī-kabhī  (1×)
+    kūṭ-kūṭ  (1×)
+    baṛē-baṛē  (1×)
+    chōṭī-chōṭī  (1×)
+    naē-naē  (1×)
+
+── Acronyms ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        22              7
+  January 2026                          5              2
+  December 2025                         6              6
+
+  Top examples (across all episodes):
+    AI  (15×)
+    KYC  (6×)
+    GI  (2×)
+    OTP  (1×)
+    SMS  (1×)
+    UAE  (1×)
+    UPI  (1×)
+    FPC  (1×)
+    ICC  (1×)
+    ICMR  (1×)
+    NABARD  (1×)
+    PM  (1×)
+    UTI  (1×)
+
+── Hyphenated Pairs ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                         8              5
+  January 2026                         10              5
+  December 2025                         3              3
+
+  Top examples (across all episodes):
+    re-KYC  (4×)
+    Start-up  (4×)
+    start-ups  (3×)
+    Start-Up  (1×)
+    machine-readable  (1×)
+    under-16  (1×)
+    under-18  (1×)
+    beat-guard  (1×)
+    start-up  (1×)
+    super-food  (1×)
+    Health-Care  (1×)
+    Tech-Driven  (1×)
+    Tech-World  (1×)
+
+======================================================================
+WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)
+======================================================================
+
+── Conjunctive Verbs (-kar / -kē) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        31             13
+  January 2026                         37             19
+  December 2025                        23             12
+
+  Top examples:
+    isa-kē  (13×)
+    āpa-kē  (12×)
+    dēkha-kar  (10×)
+    una-kē  (10×)
+    usa-kē  (5×)
+    ilā-kē  (4×)
+    mila-kar  (4×)
+    jāna-kar  (3×)
+    kara-kē  (3×)
+    tarī-kē  (3×)
+    viśēṣa-kar  (3×)
+    baiṭha-kar  (2×)
+    nikala-kar  (2×)
+    jīta-kar  (2×)
+    chōṛa-kar  (1×)
+
+── Compound Verbs (stem + vector) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        27             27
+  January 2026                         33             32
+  December 2025                        33             33
+
+  Top examples (stem+vector):
+    isamēṃ+gayā  (2×)
+    karanē+liyā  (2×)
+    abrāham+diyā  (1×)
+    acānak+gaī  (1×)
+    aisē+gaē  (1×)
+    din+paṛē  (1×)
+    donors+gayā  (1×)
+    duniyā+gaī  (1×)
+    dēkhakar+paṛ  (1×)
+    dō+gaē  (1×)
+    jaisē+gaī  (1×)
+    janatā+dī  (1×)
+    jisakī+gaī  (1×)
+    jīvan+gayā  (1×)
+    kam+paṛ  (1×)
+
+── Honorifics (āp / tum / tū) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        13              1
+  January 2026                          4              1
+  December 2025                         8              1
+
+  Register breakdown (all episodes):
+    āp [formal]  (25×)
+
+── Multi-Word Expressions (lexicon-driven) ──
+  Episode                 Total instances   Unique types
+  ------------------------------------------------------
+  February 2026                        19              7
+  January 2026                         26              8
+  December 2025                        27             10
+
+  MWE types found (all episodes):
+    kē sāth  [with / along with]  (35×)
+    kē liyē  [for / in order to]  (7×)
+    kē bīc  [between / among]  (7×)
+    kē bād  [after]  (4×)
+    balki  [but also]  (4×)
+    sē lēkar  [from … up to]  (4×)
+    is tarah  [in this way]  (3×)
+    kē tahat  [under / pursuant to]  (3×)
+    kē ūpar  [above / on top of]  (2×)
+    kī vajah sē  [because of]  (2×)
+    kē anusār  [according to]  (1×)
+
+  Exported sentence-level annotation to: midsub/transcripts_raw_annotation_reg.txt
+
+======================================================================
+PIPELINE COMPLETE
+======================================================================

@@ -314,297 +314,357 @@ def find_mwes(text: str) -> list[dict]:
 
     return results
 
+def export_annotation_format_reg(episodes_raw: dict[str, str], out_filepath: str):
+    """Generates the per-sentence annotation file with pattern matches."""
+    with open(out_filepath, "w", encoding="utf-8") as f:
+        for ep_idx, (ep_label, raw_text) in enumerate(episodes_raw.items(), 1):
+            # Split raw text using same logic as in week1_analysis (with punctuation kept)
+            parts_raw = re.split(r'([' + POORNA_VIRAM + DBL_DANDA + r'.?!]+)', raw_text)
+            
+            sents_raw = []
+            for i in range(0, len(parts_raw)-1, 2):
+                s = (parts_raw[i] + parts_raw[i+1]).strip()
+                if s:
+                    sents_raw.append(s)
+            
+            if len(parts_raw) % 2 == 1 and parts_raw[-1].strip():
+                sents_raw.append(parts_raw[-1].strip())
+                
+            for sent_idx, s_raw in enumerate(sents_raw, 1):
+                s_pre = preprocess(s_raw)
+                s_trans = transliterate_mixed(s_pre)
+                
+                redup = [f"{m}-{m}" for m in find_reduplications(s_trans)]
+                conj = [f"{stem}-{suf}" for stem, suf in find_conjunctive_verbs(s_trans)]
+                comp = [f"{stem}+{vec}" for stem, vec in find_compound_verbs(s_trans)]
+                hono = [m["form"] for m in find_honorifics(s_trans)]
+                acro = find_acronyms(s_pre)
+                mwe = [m["mwe"] for m in find_mwes(s_trans)]
+                hyphen = [f"{l}-{r}" for l, r in find_hyphenated_pairs(s_pre)]
+                
+                def fmt(name, lst):
+                    if not lst:
+                        return f"{name}: 0"
+                    return f"{name}: {len(lst)} ({', '.join(lst)})"
+                
+                f.write(f"T{ep_idx}_{sent_idx:03d}\n")
+                # Remove newlines inside the sentence to keep it on one line
+                clean_raw = " ".join(s_raw.split())
+                f.write(f"{clean_raw}\n")
+                
+                parts = [
+                    fmt("Reduplication", redup),
+                    fmt("Conjunctive Verb", conj),
+                    fmt("Compound Verb", comp),
+                    fmt("Honorific", hono),
+                    fmt("Acronym", acro),
+                    fmt("MWE", mwe),
+                    fmt("Hyphen Pair", hyphen)
+                ]
+                f.write(" | ".join(parts) + "\n\n")
+
+
 # RUNNER
 
 def run(transcript_path: str) -> dict:
+    stats_path = os.path.splitext(transcript_path)[0] + "_stats_reg.txt"
+    with open(stats_path, "w", encoding="utf-8") as f:
 
-    # Load
-    episodes_raw = load_transcripts(transcript_path)
-    episode_order = list(episodes_raw.keys())
+        # Load
+        episodes_raw = load_transcripts(transcript_path)
+        episode_order = list(episodes_raw.keys())
 
-    results = {}
+        results = {}
 
-    # Week 1
-    print("\n" + "="*70)
-    print("WEEK 1 — CORPUS EXPLORATION & UTF-8 VALIDATION")
-    print("="*70)
+        # Week 1
+        print("\n" + "="*70, file=f)
+        print("WEEK 1 — CORPUS EXPLORATION & UTF-8 VALIDATION", file=f)
+        print("="*70, file=f)
 
-    w1 = week1_analysis(episodes_raw)
-    results["week1"] = w1
+        w1 = week1_analysis(episodes_raw)
+        results["week1"] = w1
 
-    col_w = 22
-    header = f"{'Metric':<{col_w}}" + "".join(f"{ep:>16}" for ep in episode_order) + f"{'TOTAL':>16}"
-    print(header)
-    print("-" * len(header))
+        col_w = 22
+        header = f"{'Metric':<{col_w}}" + "".join(f"{ep:>16}" for ep in episode_order) + f"{'TOTAL':>16}"
+        print(header, file=f)
+        print("-" * len(header), file=f)
 
-    metrics_labels = {
-        "total_chars":         "Total chars",
-        "devanagari_chars":    "Devanagari chars",
-        "latin_chars":         "Latin alpha chars",
-        "digit_chars":         "Digit chars",
-        "invalid_unicode":     "Invalid Unicode",
-        "total_tokens":        "Total tokens",
-        "devanagari_tokens":   "Devanagari tokens",
-        "latin_tokens":        "Latin tokens",
-        "sentence_count":      "Sentences (approx.)",
-        "poorna_viram_count":  "Poorna viram (।)",
-        "dbl_danda_count":     "Double danda (॥)",
-    }
+        metrics_labels = {
+            "total_chars":         "Total chars",
+            "devanagari_chars":    "Devanagari chars",
+            "latin_chars":         "Latin alpha chars",
+            "digit_chars":         "Digit chars",
+            "invalid_unicode":     "Invalid Unicode",
+            "total_tokens":        "Total tokens",
+            "devanagari_tokens":   "Devanagari tokens",
+            "latin_tokens":        "Latin tokens",
+            "sentence_count":      "Sentences (approx.)",
+            "poorna_viram_count":  "Poorna viram (।)",
+            "dbl_danda_count":     "Double danda (॥)",
+        }
 
-    for key, label in metrics_labels.items():
-        row = f"{label:<{col_w}}"
+        for key, label in metrics_labels.items():
+            row = f"{label:<{col_w}}"
+            for ep in episode_order:
+                row += f"{w1[ep][key]:>16}"
+            row += f"{w1['TOTAL'][key]:>16}"
+            print(row, file=f)
+
+        print("\n✓ No invalid Unicode code points detected." if w1["TOTAL"]["invalid_unicode"] == 0
+              else f"⚠ {w1['TOTAL']['invalid_unicode']} invalid Unicode code points found.")
+
+        # Sample sentence tokenisation
+        first_ep = episode_order[0]
+        print(f"\nSample sentence boundaries ({first_ep}, first 5):", file=f)
+        feb_pre = preprocess(episodes_raw[first_ep])
+        sents = [s.strip() for s in re.split(r'[.?!]', feb_pre) if s.strip()][:5]
+        for i, s in enumerate(sents, 1):
+            print(f"  [{i}] {s[:80]}{'…' if len(s) > 80 else ''}", file=f)
+
+
+        # Week 2
+        print("\n" + "="*70, file=f)
+        print("WEEK 2 — PREPROCESSING & TRANSLITERATION", file=f)
+        print("="*70, file=f)
+
+        episodes_translit = week2_pipeline(episodes_raw)
+        results["week2"] = {"transliterated": episodes_translit}
+
+        # Validation: sample sentences from each episode
+        print("\nTransliteration sample (10 sentences per episode):\n", file=f)
         for ep in episode_order:
-            row += f"{w1[ep][key]:>16}"
-        row += f"{w1['TOTAL'][key]:>16}"
-        print(row)
+            print(f"── {ep} ──", file=f)
+            sents = [s.strip() for s in re.split(r'[.?!]', episodes_translit[ep]) if s.strip()]
+            for s in sents[:10]:
+                if len(s) > 5:
+                    print(f"  {s[:100]}{'…' if len(s) > 100 else ''}", file=f)
+            print(file=f)
 
-    print("\n✓ No invalid Unicode code points detected." if w1["TOTAL"]["invalid_unicode"] == 0
-          else f"⚠ {w1['TOTAL']['invalid_unicode']} invalid Unicode code points found.")
+        # Transliteration accuracy spot-check on known Devanagari → ISO 15919 pairs
+        print("Spot-check transliteration accuracy:", file=f)
+        spot_checks = [
+            ("नमस्कार", "namaskār"),
+            ("भारत",   "bhārat"),
+            ("किसान",  "kisān"),
+            ("धीरे",   "dhīrē"),
+            ("सरकार",  "sarkār"),
+        ]
+        for dev, expected in spot_checks:
+            got = unicode_converter(dev)
+            mark = "✓" if got == expected else "✗"
+            print(f"  {mark}  {dev} → {got}  (expected {expected})", file=f)
 
-    # Sample sentence tokenisation
-    first_ep = episode_order[0]
-    print(f"\nSample sentence boundaries ({first_ep}, first 5):")
-    feb_pre = preprocess(episodes_raw[first_ep])
-    sents = [s.strip() for s in re.split(r'[.?!]', feb_pre) if s.strip()][:5]
-    for i, s in enumerate(sents, 1):
-        print(f"  [{i}] {s[:80]}{'…' if len(s) > 80 else ''}")
+        dev_token_count = sum(len(episodes_raw[ep].split()) for ep in episode_order)
+        print(f"\n  Transliteration note: schwa deletion is word-final only.", file=f)
+        print(f"  Medial schwas in ~{dev_token_count} tokens remain undeleted (known limitation).", file=f)
+        print(f"  This affects compound verb stems most — e.g. sarakār vs sarkār.", file=f)
+
+        # Week 3
+        print("\n" + "="*70, file=f)
+        print("WEEK 3 — PATTERN EXTRACTION (REDUPLICATION, ACRONYMS, HYPHENATED PAIRS)", file=f)
+        print("="*70, file=f)
+
+        w3_results = {}
+
+        for pattern_name, extract_fn, apply_on in [
+            ("Reduplication",    find_reduplications,    "transliterated"),
+            ("Acronyms",         find_acronyms,          "raw"),
+            ("Hyphenated Pairs", find_hyphenated_pairs,  "raw"),
+        ]:
+            print(f"\n── {pattern_name} ──", file=f)
+            pat_results = {}
+
+            for ep in episode_order:
+                text = (episodes_translit[ep] if apply_on == "transliterated"
+                        else preprocess(episodes_raw[ep]))
+                matches = extract_fn(text)
+
+                if pattern_name == "Reduplication":
+                    # matches are captured groups (just the word); build full form
+                    full_matches = [f"{m}-{m}" for m in matches]
+                    unique = sorted(set(full_matches))
+                    freq   = {m: full_matches.count(m) for m in unique}
+                elif pattern_name == "Acronyms":
+                    unique = sorted(set(matches))
+                    freq   = {m: matches.count(m) for m in unique}
+                else:  # Hyphenated pairs
+                    full_matches = [f"{l}-{r}" for l, r in matches]
+                    unique = sorted(set(full_matches))
+                    freq   = {m: full_matches.count(m) for m in unique}
+
+                pat_results[ep] = {
+                    "total_instances": len(matches),
+                    "unique_types":    len(unique),
+                    "frequency":       freq,
+                    "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
+                }
+
+            w3_results[pattern_name] = pat_results
+
+            # Print summary table
+            print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}", file=f)
+            print("  " + "-"*54, file=f)
+            for ep in episode_order:
+                r = pat_results[ep]
+                print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}", file=f)
+
+            # Print top examples
+            print(f"\n  Top examples (across all episodes):", file=f)
+            all_freqs: dict[str, int] = {}
+            for ep in episode_order:
+                for item, cnt in pat_results[ep]["frequency"].items():
+                    all_freqs[item] = all_freqs.get(item, 0) + cnt
+            for item, cnt in sorted(all_freqs.items(), key=lambda x: -x[1])[:15]:
+                print(f"    {item}  ({cnt}×)", file=f)
+
+        results["week3"] = w3_results
 
 
-    # Week 2
-    print("\n" + "="*70)
-    print("WEEK 2 — PREPROCESSING & TRANSLITERATION")
-    print("="*70)
+        # Week 4
+        print("\n" + "="*70, file=f)
+        print("WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)", file=f)
+        print("="*70, file=f)
 
-    episodes_translit = week2_pipeline(episodes_raw)
-    results["week2"] = {"transliterated": episodes_translit}
+        w4_results = {}
 
-    # Validation: sample sentences from each episode
-    print("\nTransliteration sample (10 sentences per episode):\n")
-    for ep in episode_order:
-        print(f"── {ep} ──")
-        sents = [s.strip() for s in re.split(r'[.?!]', episodes_translit[ep]) if s.strip()]
-        for s in sents[:10]:
-            if len(s) > 5:
-                print(f"  {s[:100]}{'…' if len(s) > 100 else ''}")
-        print()
-
-    # Transliteration accuracy spot-check on known Devanagari → ISO 15919 pairs
-    print("Spot-check transliteration accuracy:")
-    spot_checks = [
-        ("नमस्कार", "namaskār"),
-        ("भारत",   "bhārat"),
-        ("किसान",  "kisān"),
-        ("धीरे",   "dhīrē"),
-        ("सरकार",  "sarkār"),
-    ]
-    for dev, expected in spot_checks:
-        got = unicode_converter(dev)
-        mark = "✓" if got == expected else "✗"
-        print(f"  {mark}  {dev} → {got}  (expected {expected})")
-
-    dev_token_count = sum(len(episodes_raw[ep].split()) for ep in episode_order)
-    print(f"\n  Transliteration note: schwa deletion is word-final only.")
-    print(f"  Medial schwas in ~{dev_token_count} tokens remain undeleted (known limitation).")
-    print(f"  This affects compound verb stems most — e.g. sarakār vs sarkār.")
-
-    # Week 3
-    print("\n" + "="*70)
-    print("WEEK 3 — PATTERN EXTRACTION (REDUPLICATION, ACRONYMS, HYPHENATED PAIRS)")
-    print("="*70)
-
-    w3_results = {}
-
-    for pattern_name, extract_fn, apply_on in [
-        ("Reduplication",    find_reduplications,    "transliterated"),
-        ("Acronyms",         find_acronyms,          "raw"),
-        ("Hyphenated Pairs", find_hyphenated_pairs,  "raw"),
-    ]:
-        print(f"\n── {pattern_name} ──")
-        pat_results = {}
-
+        # 4a. Conjunctive Verbs
+        print("\n── Conjunctive Verbs (-kar / -kē) ──", file=f)
+        cv_results = {}
         for ep in episode_order:
-            text = (episodes_translit[ep] if apply_on == "transliterated"
-                    else preprocess(episodes_raw[ep]))
-            matches = extract_fn(text)
-
-            if pattern_name == "Reduplication":
-                # matches are captured groups (just the word); build full form
-                full_matches = [f"{m}-{m}" for m in matches]
-                unique = sorted(set(full_matches))
-                freq   = {m: full_matches.count(m) for m in unique}
-            elif pattern_name == "Acronyms":
-                unique = sorted(set(matches))
-                freq   = {m: matches.count(m) for m in unique}
-            else:  # Hyphenated pairs
-                full_matches = [f"{l}-{r}" for l, r in matches]
-                unique = sorted(set(full_matches))
-                freq   = {m: full_matches.count(m) for m in unique}
-
-            pat_results[ep] = {
+            text = episodes_translit[ep]
+            matches = find_conjunctive_verbs(text)
+            full = [f"{stem}-{suf}" for stem, suf in matches]
+            unique = sorted(set(full))
+            freq = {m: full.count(m) for m in unique}
+            cv_results[ep] = {
                 "total_instances": len(matches),
                 "unique_types":    len(unique),
                 "frequency":       freq,
                 "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
             }
+        w4_results["Conjunctive Verbs"] = cv_results
 
-        w3_results[pattern_name] = pat_results
-
-        # Print summary table
-        print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}")
-        print("  " + "-"*54)
+        print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}", file=f)
+        print("  " + "-"*54, file=f)
         for ep in episode_order:
-            r = pat_results[ep]
-            print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}")
-
-        # Print top examples
-        print(f"\n  Top examples (across all episodes):")
-        all_freqs: dict[str, int] = {}
+            r = cv_results[ep]
+            print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}", file=f)
+        all_cv: dict[str, int] = {}
         for ep in episode_order:
-            for item, cnt in pat_results[ep]["frequency"].items():
-                all_freqs[item] = all_freqs.get(item, 0) + cnt
-        for item, cnt in sorted(all_freqs.items(), key=lambda x: -x[1])[:15]:
-            print(f"    {item}  ({cnt}×)")
+            for item, cnt in cv_results[ep]["frequency"].items():
+                all_cv[item] = all_cv.get(item, 0) + cnt
+        print("\n  Top examples:", file=f)
+        for item, cnt in sorted(all_cv.items(), key=lambda x: -x[1])[:15]:
+            print(f"    {item}  ({cnt}×)", file=f)
 
-    results["week3"] = w3_results
+        # 4b. Compound Verbs
+        print("\n── Compound Verbs (stem + vector) ──", file=f)
+        compv_results = {}
+        for ep in episode_order:
+            text = episodes_translit[ep]
+            matches = find_compound_verbs(text)
+            full = [f"{stem}+{vec}" for stem, vec in matches]
+            unique = sorted(set(full))
+            freq = {m: full.count(m) for m in unique}
+            compv_results[ep] = {
+                "total_instances": len(matches),
+                "unique_types":    len(unique),
+                "frequency":       freq,
+                "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
+            }
+        w4_results["Compound Verbs"] = compv_results
 
+        print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}", file=f)
+        print("  " + "-"*54, file=f)
+        for ep in episode_order:
+            r = compv_results[ep]
+            print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}", file=f)
+        all_compv: dict[str, int] = {}
+        for ep in episode_order:
+            for item, cnt in compv_results[ep]["frequency"].items():
+                all_compv[item] = all_compv.get(item, 0) + cnt
+        print("\n  Top examples (stem+vector):", file=f)
+        for item, cnt in sorted(all_compv.items(), key=lambda x: -x[1])[:15]:
+            print(f"    {item}  ({cnt}×)", file=f)
 
-    # Week 4
-    print("\n" + "="*70)
-    print("WEEK 4 — PATTERN EXTRACTION (CONJ. VERBS, COMPOUND VERBS, HONORIFICS, MWEs)")
-    print("="*70)
+        # 4c. Honorifics
+        print("\n── Honorifics (āp / tum / tū) ──", file=f)
+        hon_results = {}
+        for ep in episode_order:
+            text = episodes_translit[ep]
+            matches = find_honorifics(text)
+            by_register: dict[str, int] = {}
+            for m in matches:
+                key = f"{m['form']} [{m['register']}]"
+                by_register[key] = by_register.get(key, 0) + 1
+            hon_results[ep] = {
+                "total_instances": len(matches),
+                "unique_types":    len(by_register),
+                "frequency":       by_register,
+            }
+        w4_results["Honorifics"] = hon_results
 
-    w4_results = {}
+        print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}", file=f)
+        print("  " + "-"*54, file=f)
+        for ep in episode_order:
+            r = hon_results[ep]
+            print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}", file=f)
+        all_hon: dict[str, int] = {}
+        for ep in episode_order:
+            for item, cnt in hon_results[ep]["frequency"].items():
+                all_hon[item] = all_hon.get(item, 0) + cnt
+        print("\n  Register breakdown (all episodes):", file=f)
+        for item, cnt in sorted(all_hon.items(), key=lambda x: -x[1]):
+            print(f"    {item}  ({cnt}×)", file=f)
 
-    # 4a. Conjunctive Verbs
-    print("\n── Conjunctive Verbs (-kar / -kē) ──")
-    cv_results = {}
-    for ep in episode_order:
-        text = episodes_translit[ep]
-        matches = find_conjunctive_verbs(text)
-        full = [f"{stem}-{suf}" for stem, suf in matches]
-        unique = sorted(set(full))
-        freq = {m: full.count(m) for m in unique}
-        cv_results[ep] = {
-            "total_instances": len(matches),
-            "unique_types":    len(unique),
-            "frequency":       freq,
-            "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
-        }
-    w4_results["Conjunctive Verbs"] = cv_results
+        # 4d. Multi-Word Expressions
+        print("\n── Multi-Word Expressions (lexicon-driven) ──", file=f)
+        mwe_results = {}
+        for ep in episode_order:
+            text = episodes_translit[ep]
+            matches = find_mwes(text)
+            freq: dict[str, int] = {}
+            for m in matches:
+                key = f"{m['mwe']}  [{m['gloss']}]"
+                freq[key] = freq.get(key, 0) + 1
+            mwe_results[ep] = {
+                "total_instances": len(matches),
+                "unique_types":    len(freq),
+                "frequency":       freq,
+                "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
+            }
+        w4_results["MWEs"] = mwe_results
 
-    print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}")
-    print("  " + "-"*54)
-    for ep in episode_order:
-        r = cv_results[ep]
-        print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}")
-    all_cv: dict[str, int] = {}
-    for ep in episode_order:
-        for item, cnt in cv_results[ep]["frequency"].items():
-            all_cv[item] = all_cv.get(item, 0) + cnt
-    print("\n  Top examples:")
-    for item, cnt in sorted(all_cv.items(), key=lambda x: -x[1])[:15]:
-        print(f"    {item}  ({cnt}×)")
+        print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}", file=f)
+        print("  " + "-"*54, file=f)
+        for ep in episode_order:
+            r = mwe_results[ep]
+            print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}", file=f)
+        all_mwe: dict[str, int] = {}
+        for ep in episode_order:
+            for item, cnt in mwe_results[ep]["frequency"].items():
+                all_mwe[item] = all_mwe.get(item, 0) + cnt
+        print("\n  MWE types found (all episodes):", file=f)
+        for item, cnt in sorted(all_mwe.items(), key=lambda x: -x[1]):
+            print(f"    {item}  ({cnt}×)", file=f)
 
-    # 4b. Compound Verbs
-    print("\n── Compound Verbs (stem + vector) ──")
-    compv_results = {}
-    for ep in episode_order:
-        text = episodes_translit[ep]
-        matches = find_compound_verbs(text)
-        full = [f"{stem}+{vec}" for stem, vec in matches]
-        unique = sorted(set(full))
-        freq = {m: full.count(m) for m in unique}
-        compv_results[ep] = {
-            "total_instances": len(matches),
-            "unique_types":    len(unique),
-            "frequency":       freq,
-            "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
-        }
-    w4_results["Compound Verbs"] = compv_results
+        results["week4"] = w4_results
 
-    print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}")
-    print("  " + "-"*54)
-    for ep in episode_order:
-        r = compv_results[ep]
-        print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}")
-    all_compv: dict[str, int] = {}
-    for ep in episode_order:
-        for item, cnt in compv_results[ep]["frequency"].items():
-            all_compv[item] = all_compv.get(item, 0) + cnt
-    print("\n  Top examples (stem+vector):")
-    for item, cnt in sorted(all_compv.items(), key=lambda x: -x[1])[:15]:
-        print(f"    {item}  ({cnt}×)")
+        # Generate the requested annotation file
+        annotation_path = os.path.splitext(transcript_path)[0] + "_annotation_reg.txt"
+        try:
+            export_annotation_format_reg(episodes_raw, annotation_path)
+            print(f"\n  Exported sentence-level annotation to: {annotation_path}", file=f)
+        except Exception as e:
+            print(f"\n  Error exporting annotation: {e}", file=f)
 
-    # 4c. Honorifics
-    print("\n── Honorifics (āp / tum / tū) ──")
-    hon_results = {}
-    for ep in episode_order:
-        text = episodes_translit[ep]
-        matches = find_honorifics(text)
-        by_register: dict[str, int] = {}
-        for m in matches:
-            key = f"{m['form']} [{m['register']}]"
-            by_register[key] = by_register.get(key, 0) + 1
-        hon_results[ep] = {
-            "total_instances": len(matches),
-            "unique_types":    len(by_register),
-            "frequency":       by_register,
-        }
-    w4_results["Honorifics"] = hon_results
-
-    print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}")
-    print("  " + "-"*54)
-    for ep in episode_order:
-        r = hon_results[ep]
-        print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}")
-    all_hon: dict[str, int] = {}
-    for ep in episode_order:
-        for item, cnt in hon_results[ep]["frequency"].items():
-            all_hon[item] = all_hon.get(item, 0) + cnt
-    print("\n  Register breakdown (all episodes):")
-    for item, cnt in sorted(all_hon.items(), key=lambda x: -x[1]):
-        print(f"    {item}  ({cnt}×)")
-
-    # 4d. Multi-Word Expressions
-    print("\n── Multi-Word Expressions (lexicon-driven) ──")
-    mwe_results = {}
-    for ep in episode_order:
-        text = episodes_translit[ep]
-        matches = find_mwes(text)
-        freq: dict[str, int] = {}
-        for m in matches:
-            key = f"{m['mwe']}  [{m['gloss']}]"
-            freq[key] = freq.get(key, 0) + 1
-        mwe_results[ep] = {
-            "total_instances": len(matches),
-            "unique_types":    len(freq),
-            "frequency":       freq,
-            "top10":           sorted(freq.items(), key=lambda x: -x[1])[:10],
-        }
-    w4_results["MWEs"] = mwe_results
-
-    print(f"  {'Episode':<20} {'Total instances':>18} {'Unique types':>14}")
-    print("  " + "-"*54)
-    for ep in episode_order:
-        r = mwe_results[ep]
-        print(f"  {ep:<20} {r['total_instances']:>18} {r['unique_types']:>14}")
-    all_mwe: dict[str, int] = {}
-    for ep in episode_order:
-        for item, cnt in mwe_results[ep]["frequency"].items():
-            all_mwe[item] = all_mwe.get(item, 0) + cnt
-    print("\n  MWE types found (all episodes):")
-    for item, cnt in sorted(all_mwe.items(), key=lambda x: -x[1]):
-        print(f"    {item}  ({cnt}×)")
-
-    results["week4"] = w4_results
-
-    print("\n" + "="*70)
-    print("PIPELINE COMPLETE")
-    print("="*70)
+        print("\n" + "="*70, file=f)
+        print("PIPELINE COMPLETE", file=f)
+        print("="*70, file=f)
 
     return results
 
 
 if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else "/home/claude/transcripts_raw.txt"
+    path = sys.argv[1] if len(sys.argv) > 1 else print("Please provide a path to the transcript file")
     run(path)
