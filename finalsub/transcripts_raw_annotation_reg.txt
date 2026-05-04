@@ -1,0 +1,2534 @@
+﻿**DATA**
+
+T1_001
+mērē pyārē dēśavāsiyō, namaskār.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_002
+'man kī bāt' mēṃ āpakā svāgat hai, abhinaṃdan hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_003
+'man kī bāt' dēś aur dēśavāsiyōṃ kī upalabdhiyōṃ kō sāmanē lānē kā ēk majabūt plēṭaphrm hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_004
+dēś nē aisī hī upalabdhi, abhī dillī mēṃ huī Global AI Impact Summit kē daurān dēkhī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_005
+kaī dēśōṃ kē nētā, udyōg jagat kē leaders, Innovators aur Start-Up sector sē juṛē lōg, AI Impact Summit kē liyē bhārat maṃḍapam mēṃ ēkatr huē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 1 (kē liyē) | Hyphen Pair: 1 (Start-Up)
+
+T1_006
+ānē vālē samay mēṃ AI kī śakti kā upayōg duniyā kis prakār karēgī, is diśā mēṃ yah summit ēk turning point sābit huī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_007
+sāthiyō, Summit mēṃ mujhē World Leaders aur Tech CEOs sē milanē kā bhī avasar milā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_008
+AI summit kī exhibition mēṃ maiṃnē World Leaders kō ṛhēr sārī cījēṃ dikhāī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_009
+maiṃ dō bātōṃ kā viśēṣ rūp sē ullēkh karanā cāhatā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_010
+Summit mēṃ in dō products nē duniyā bhar kē leaders kō bahut prabhāvit kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_011
+pahalā product amūl kē booth par thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_012
+isamēṃ batāyā gayā ki kaisē AI jānavarōṃ kā ilāj karanē mēṃ hamārī madad kar rahī hai aur kaisē 24×7 AI assistance kī madad sē kisān apanī ḍēyarī aur jānavar kā hisāb rakhatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (isamēṃ+gayā) | Honorific: 0 | Acronym: 2 (AI, AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_013
+sāthiyō, dūsarā product hamārī saṃskr̥ti sē saṃbaṃdhit thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_014
+duniyā bhar kē leaders yē dēkhakar hairat mēṃ paṛ gaē ki kaisē AI kī madad sē ham hamārē prācīn graṃthōṃ kō, hamārē prācīn jñān kō, hamārī pāṃḍulipiyōṃ kō saṃrakṣit kar rahē haiṃ, āj kī generation kē anurūp ṛhāl rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 1 (dēkhakar+paṛ) | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_015
+sāthiyō, Exhibition kē daurān display kē liyē suśrut saṃhitā kā cayan kiyā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 0
+
+T1_016
+pahalē step mēṃ dikhāyā gayā ki kaisē technology kī madad sē ham pāṃḍulipiyōṃ kī image quality sudhārakar unhēṃ paṛhanē lāyak banā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (sudhāra-kar) | Compound Verb: 1 (step+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_017
+Second step mēṃ is image kō maśīn kē paṛhanē lāyak text mēṃ badalā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (text+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_018
+agalē step mēṃ machine-readable text kō ēk AI avatār nē paṛhā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 1 (machine-readable)
+
+T1_019
+aur phir, agalē step mēṃ hamanē yē bhī dikhāyā ki kaisē technology sē yē anamōl bhāratīy jñān Indian languages aur vidēśī bhāṣāōṃ mēṃ translate kiyā jā sakatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_020
+bhārat kē prācīn jñān kō ādhunik avatār kē mādhyam sē jānanē mēṃ World Leaders nē bahut dilacaspī dikhāī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_021
+sāthiyō, is summit mēṃ duniyā kō AI kē kṣētr mēṃ bhārat kī adbhut kṣamatāēm̐ dēkhanē kō milī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_022
+is daurān bhārat nē tīn Made In India AI Model bhī launch kiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_023
+yah apanē āp mēṃ ab tak kī sabasē baṛī AI summit rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T1_024
+is summit kō lēkar yuvāōṃ kā jōś aur utsāh dēkhatē hī ban rahā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_025
+maiṃ sabhī dēśavāsiyōṃ kō is summit kī saphalatā kī badhāī dētā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_026
+sāthiyō, maiṃ aksar kahatā hūm̐ 'jō khēlē-vō khilē'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_027
+khēl hamēṃ jōṛatā bhī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_028
+ājakal āp T-20 world cup kē maic dēkh rahē hōṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_029
+aur mujhē pakkā viśvās hai ki maic dēkhatē huē kaī bār ām̐khēṃ kisī khās khilāṛī par ṭik jātī hōṃgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_030
+Jersey kisī aur dēś kī hōtī hai lēkin nām sunakar lagatā hai ki arē, yē tō apanē dēś kā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (suna-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_031
+tab dil kē kisī kōnē mēṃ ēk halkī sī khuśī ātī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_032
+kyōṃki vō khilāṛī bhāratīy mūl kā hōtā hai aur vō us dēś kē liyē khēl rahā hōtā hai jahāṃ usakā parivār bas gayā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (usakā+gayā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 0
+
+T1_033
+vē apanē-apanē dēśōṃ kī jersey pahanakar maidān mēṃ utaratē haiṃ, pūrē man sē us dēś kā pratinidhitv karatē haiṃ.
+Reduplication: 1 (apanē-apanē) | Conjunctive Verb: 1 (pahana-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_034
+Canada kī ṭīm mēṃ sabasē jyādā bhāratīy mūl kē khilāṛī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_035
+ṭīm kē kaptān dilaprīt bājavā kā janm paṃjāb kē guradāsapur mēṃ huā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_036
+navanīt dhālīvāl caṃḍīgaṛh kē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_037
+is list mēṃ harṣ ṭhākar, śrēyas mōvā jaisē kaī nām haiṃ, jō Canada kē sāth-sāth bhārat kā bhī gaurav baṛhā rahē haiṃ.
+Reduplication: 1 (sāth-sāth) | Conjunctive Verb: 1 (ṭhā-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T1_038
+America kī ṭīm mēṃ kaī cēharē bhārat kē gharēlū krikēṭ sē nikalē huē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_039
+amērikī ṭīm kē kaptān mōnāṃk paṭēl gujarāt kī under-16 aur under-18 ṭīm kē liyē bhī khēl cukē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 2 (under-16, under-18)
+
+T1_040
+muṃbaī kē saurabh, haramīt siṃh, dillī kē miliṃd kumār, yē sab amērikī ṭīm kī śān haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_041
+Oman kī ṭīm mēṃ āj kaī cēharē haiṃ jō pahalē bhārat kē alag-alag rājyōṃ mēṃ khēl cukē haiṃ.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_042
+jatiṃdar siṃh, vināyak śuklā, karan, jay, āśīṣ jaisē khilāṛī Oman krikēṭ kī majabūt kaṛī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_043
+New Zealand, UAE aur Italy kī ṭīmōṃ mēṃ bhī bhāratīy mūl kē khilāṛī apanī jagah banā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (UAE) | MWE: 0 | Hyphen Pair: 0
+
+T1_044
+aisē kitanē hī bhāratīy mūl kē khilāṛī haiṃ jō apanē dēś kā gaurav baṛhā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_045
+vahām̐ kē yuvāōṃ kē liyē prēraṇā ban rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 0
+
+T1_046
+bhāratīyatā kī yahī tō viśēṣatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_047
+bhāratīy jahāṃ bhī jātē haiṃ apanī mātr̥bhūmi kī jaṛōṃ sē juṛē rahatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_048
+aur apanī karmabhūmi yāni jis dēś mēṃ rahatē haiṃ usakē vikās mēṃ bhī sahayōg karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (usa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_049
+mērē pyārē dēśavāsiyō, kisī bhī mātā-pitā kē liē apanē baccē kō khōnē sē baṛā du:kh kuch aur hō hī nahīṃ sakatā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_050
+chōṭē sē baccē kō khōnē kā dukh tō aur bhī gaharā hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_051
+kuch hī din pahalē hamanē kēralā kī ēk nanhī māsūm ālin śērin abrāham kō khō diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (abrāham+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_052
+mahaj 10 mahīnōṃ mēṃ vō is duniyā sē calī gaī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (duniyā+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_053
+kalpanā kījiē- usakē sāmanē pūrī jiṃdagī thī, jō acānak khatm hō gaī.
+Reduplication: 0 | Conjunctive Verb: 1 (usa-kē) | Compound Verb: 1 (acānak+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_054
+kitanē hī sapanē aur khuśiyāṃ adhūrī rah gaī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (khuśiyāṃ+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_055
+usakē parents jis pīṛā sē gujar rahē hōṃgē, usē śabdōṃ sē vyakt nahīṃ kiyā jā sakatā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (usa-kē) | Compound Verb: 1 (vyakt+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_056
+lēkin itanē gaharē dard kē bīc bhī ālin kē pitā aruṇ abrāham aur mām̐ śērin nē ēk aisā phaisalā liyā, jisasē har dēśavāsī kā hr̥day unakē prati sammān sē bhar gayā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 1 (sammān+gayā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T1_057
+unhōṃnē ālin kē aṃgadān kā phaisalā kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_058
+is ēk phaisalē sē patā calatā hai ki unakī sōc kitanī baṛī hai aur vyaktitv kitanā viśāl.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_059
+ēk taraph vē apanī baccī kō khōnē kē śōk mēṃ ḍūbē thē, tō vahīṃ dūsarōṃ kī madad kā bhāv bhī unamēṃ bharā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_060
+vē cāhatē thē ki kisī bhī parivār kō aisā din dēkhanā nā paṛē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (din+paṛē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_061
+ālin śērin abrāham āj hamārē bīc nahīṃ hai, lēkin usakā nām dēś kē kam umr kī organ donors mēṃ juṛ gayā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (donors+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_062
+sāthiyō, in dinōṃ bhārat mēṃ organ donation kō lēkar jāgarūkatā lagātār baṛh rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_063
+isasē un lōgōṃ kī madad hō rahī hai, jinhēṃ isakī jarūrat hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_064
+isakē sāth hī dēś mēṃ medical research kō bhī bal mil rahā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_065
+is diśā mēṃ kaī saṃsthāēm̐ aur lōg asādhāraṇ kāry kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_066
+sāthiyō, kēralā kī ālin kī tarah hī aisē bahut sē lōg haiṃ jinhōṃnē organ donation kē jariē, kisī kō dūsarā jīvan diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_067
+jaisē dillī kī lakṣmī dēvī jī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_068
+unhōṃnē bītē varṣ kēdāranāth kī yātrā kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_069
+isakē liē unhēṃ 14 kilōmīṭar kī ṭraikiṃg karanī paṛī.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_070
+āpakō yē jānakar hairānī hōgī ki unhōṃnē yah yātrā heart transplant kē bād kī.
+Reduplication: 0 | Conjunctive Verb: 1 (jāna-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bād) | Hyphen Pair: 0
+
+T1_071
+unakā heart kēval 15 pratiśat hī kām kar rahā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_072
+aisē mēṃ unhēṃ ēk donor kā heart milā, jisakī mr̥tyu hō gaī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jisakī+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_073
+isakē bād tō unakā jīvan hī badal gayā.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 1 (jīvan+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_074
+paścim baṃgāl kē gaurāṃg banarjī dō bār nāthū-lā gaē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dō+gaē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_075
+yē samundr tal sē 14 hajār phīṭ kī ūṃcāī par hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_076
+aur khās bāt yē hai ki unhōṃnē yah upalabdhi lung transplant kē bād hāsil kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bād) | Hyphen Pair: 0
+
+T1_077
+rājasthān mēṃ sīkar kē rāmadēv siṃh jī kō kidney transplant karānā paṛā thā .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (kidney+paṛā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_078
+āj vē sporting activity mēṃ kamāl kar rahē haiṃ .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_079
+sāthiyō, āpakō is tarah kē bahut sē prērak udāharaṇ dēkhanē kō mil jāēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (is tarah) | Hyphen Pair: 0
+
+T1_080
+isasē yē bāt phir sābit hōtī hai ki kisī ēk kī nēk pahal, nā jānē kitanē lōgōṃ kī jiṃdagī badal sakatī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_081
+maiṃ un sabhī lōgōṃ kī hr̥day sē sarāhanā karatā hūṃ, jinhōṃnē aisē nēk kāry kiē haiṃ .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_082
+mērē pyārē dēśavāsiyō, āzādī kē amr̥t mahōtsav kē daurān maiṃnē lāl kilē sē paṃc prāṇōṃ kī bāt kahī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_083
+unamēṃ sē ēk hai, gulāmī kī mānasikatā sē mukti.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_084
+āj dēś gulāmī kē pratīkōṃ kō pīchē chōṛakar bhārat kī saṃskr̥ti sē juṛī cījōṃ kō mahatv dēnē lagā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (chōṛa-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_085
+is diśā mēṃ hamārē rāṣṭrapati bhavan nē bhī ēk mahatvapūrṇ kadam uṭhāyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_086
+kal yāni 23 pharavarī kō rāṣṭrapati bhavan mēṃ 'rājājī utsav' manāyā jāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_087
+is avasar par rāṣṭrapati bhavan kē kēndrīy prāṃgaṇ mēṃ sī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_088
+rājagōpālācārī jī kī pratimā kā anāvaraṇ kiyā jāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_089
+vē svataṃtr bhārat kē pahalē bhāratīy gavarnar janaral thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_090
+vē un lōgōṃ mēṃ thē, jinhōṃnē sattā kō pad kī tarah nahīṃ, sēvā kī tarah dēkhā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_091
+sārvajanik jīvan mēṃ unakā ācaraṇ, ātmasaṃyam aur svataṃtr ciṃtan, āj bhī hamēṃ prērit karatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_092
+durbhāgy sē, ājādī kē bād bhī rāṣṭrapati bhavan mēṃ briṭiś praśāsakōṃ kī mūrtiyāṃ tō lagī rahanē dī gaīṃ, lēkin dēś kē mahān sapūtōṃ kō jagah nahīṃ dī gaī .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bād) | Hyphen Pair: 0
+
+T1_093
+British architect Edwin Lutyens kī pratimā bhī rāṣṭrapati bhavan mēṃ lagī huī thī .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_094
+ab is pratimā kē sthān par rājājī kī pratimā lagāī jāēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_095
+rājājī utsav kē daurān rājagōpālācārī jī par ādhārit pradarśanī bhī lagēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_096
+yē pradarśanī 24 pharavarī sē 1 mārc tak calēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_097
+maukā nikālakar āp bhī isē dēkhanē jarūr jāiēgā.
+Reduplication: 0 | Conjunctive Verb: 1 (nikāla-kar) | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_098
+mērē pyārē dēśavāsiyō, 'man kī bāt' mēṃ, maiṃnē āpasē Digital Arrest par vistār sē bāt kī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_099
+isakē bād dēś mēṃ Digital Arrest aur Digital Fraud kō lēkar hamārē samāj mēṃ kāphī jāgarūkatā āī, lēkin abhī bhī hamārē āsapās aisī ghaṭanāēṃ hō rahī haiṃ, jō akṣamy haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_100
+nirdōṣ lōgōṃ kō Digital Arrest aur Financial Fraud kā niśānā banāyā jā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_101
+kaī bār patā calatā hai ki kisī Senior Citizen kī jīvanabhar kī kamāī ṭhag lī gaī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_102
+kabhī kisī un paisōṃ kī ṭhagī hō jātī hai, jō usanē baccōṃ kī phīs jamā karanē kē liē bacāē thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_103
+kārōbāriyōṃ sē dhōkhādhaṛī kī khabarēṃ bhī hamēṃ dēkhanē kō milatī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_104
+kōī phōn karatā hai aur kahatā hai - maiṃ ēk baṛā adhikārī hūṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_105
+āpakō kuch details share karanī hōgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_106
+isakē bād bhōlē-bhālē lōg aisā hī kar baiṭhatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_107
+isīliē, āpakā satark rahanā, jāgarūk rahanā bēhad jarūrī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_108
+sāthiyō, āp sabhī KYC - Know Your Customer yāni apanē grāhak kō jānēṃ, is process kō tō jānatē hī hōṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 0
+
+T1_109
+kabhī-kabhī, jab āpakō āpakē baiṃk sē KYC update yā re-KYC karavānē kē message ātē haiṃ, tō man mēṃ savāl uṭhatā hai - maiṃnē tō pahalē hī KYC karavā rakhī hai, tō yē phir kyōṃ ?
+Reduplication: 1 (kabhī-kabhī) | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 2 (KYC, KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_110
+mērā āpasē āgrah hai, jhuṃjhalāiē nahīṃ, yē āpakē paisē kī surakṣā kē liē hī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_111
+ham sabhī jānatē haiṃ ki ājakal pension, subsidy, bīmā, UPI sab kuch baiṃk khātē sē juṛā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (UPI) | MWE: 0 | Hyphen Pair: 0
+
+T1_112
+isī vajah sē baiṃk samay-samay par re-KYC karatē haiṃ, tāki āpakā bank account surakṣit rahē.
+Reduplication: 1 (samay-samay) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_113
+hāṃ, isamēṃ bhī āpakō ēk bāt yād rakhanī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_114
+jō aparādhī haiṃ, vō pharjī call karatē haiṃ, SMS aur link bhējatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (SMS) | MWE: 0 | Hyphen Pair: 0
+
+T1_115
+isīliē hamēṃ satark rahanā hai aur aisē dhōkhēbājōṃ kē jhāṃsē mēṃ nahīṃ ānā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_116
+KYC yā re-KYC kēval apanē baiṃk kī śākhā yā ādhikārik App aur authorised medium sē hī karāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_117
+OTP, ādhār naṃbar yā baiṃk khātē saṃbaṃdhī jānakārī kisī kō bhī n dēṃ aur sabasē aham bāt, apanē password kō samay-samay par jarūr badalatē rahēṃ.
+Reduplication: 1 (samay-samay) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (OTP) | MWE: 0 | Hyphen Pair: 0
+
+T1_118
+jaisē har mausam kē sāth khān-pān badal jātā hai, pahanāvā bhī badal jātā hai, vaisē hī niyam banā lījiē ki har kuch din mēṃ āpakō apanā password bhī badal lēnā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (sāth+jātā, pahanāvā+jātā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T1_119
+sāthiyō, hāl hī mēṃ bhāratīy rijarv baiṃk nē inhīṃ viṣayōṃ par vittīy sākṣaratā saptāh kā āyōjan kiyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_120
+vittīy sākṣaratā kā yē abhiyān ab pūrē varṣ jārī rahēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_121
+isaliē bhāratīy rijarv baiṃk kē message kā dhyān rakhēṃ aur apanī KYC updated rakhēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 0
+
+T1_122
+yād rakhiē - sahī KYC, samay par re-KYC karē khātā surakṣit, banēṃ saśakt nāgarik, kyōṃki saśakt nāgarikōṃ sē hī banatā hai majabūt aur ātmanirbhar bhārat.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (KYC) | MWE: 0 | Hyphen Pair: 1 (re-KYC)
+
+T1_123
+mērē pyārē dēśavāsiyō, hamārē kisān kēval annadātā nahīṃ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_124
+vē dharatī kē saccē sādhak haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_125
+miṭṭī kō sōnā banānā kyā hōtā hai, yē kōī hamārē kisānōṃ sē sīkhē aur hamārā āj kā kisān tō paraṃparā aur technology, dōnōṃ kō sāth lēkar cal rahā hai aur mujhē yē dēkhakar khuśī hōtī hai ki hamārē kisān ab sirph utpādan nahīṃ, balki guṇavattā, value addition aur naē bājārōṃ par bhī dhyān dē rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (balki) | Hyphen Pair: 0
+
+T1_126
+ōḍiśā mēṃ hirōd paṭēl nām kē ēk yuvā kisān sē juṛī jānakārī vākaī bahut prērak hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_127
+karīb āṭh sāl pahalē tak vē apanē pitā śiv śaṃkar paṭēl kē sāth pāraṃparik ṛhaṃg sē dhān kī khētī karatē thē lēkin unhōṃnē khētī kō naē najariyē sē dēkhanā śurū kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T1_128
+apanē khēt kē tālāb kē ūpar unhōṃnē majabūt jālīdār ḍhāṃcā banāyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē ūpar) | Hyphen Pair: 0
+
+T1_129
+us par bēl vālī sabjiyāṃ ugāī, tālāb kē cārōṃ ōr kēlē, amarūd aur nāriyal lagāē aur tālāb mēṃ machalī pālan bhī śurū kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_130
+yāni ēk hī jagah - pāraṃparik khētī bhī hō rahī hai, sabjī bhī, phal bhī, machalī bhī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_131
+isasē jamīn kā bēhatar upayōg huā, pānī kī bacat huī aur atirikt āmadanī bhī milī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_132
+āj dūr-dūr sē kisān unakā model dēkhanē ātē haiṃ.
+Reduplication: 1 (dūr-dūr) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_133
+sāthiyō, kēralā kē trisūr jilē mēṃ ēk gāṃv aisā hai, jahāṃ ēk hī khēt mēṃ 570 tarah kī dhān kī kismēṃ lagāī jātī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_134
+isamēṃ sthānīy kismēṃ bhī haiṃ, harbal kismēṃ bhī haiṃ aur dūsarē rājyōṃ sē lāī gaī prajātiyāṃ bhī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (rājyōṃ+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_135
+yē kēval khētī nahīṃ, bījōṃ kī virāsat kō bacānē kā mahā abhiyān hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_136
+hamārē kisānōṃ kī mēhanat kā asar āṃkaṛōṃ mēṃ bhī dikh rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_137
+bhārat āj duniyā kā sabasē baṛā cāval utpādak dēś ban cukā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_138
+15 karōṛ ṭan sē adhik cāval kā utpādan, yē chōṭī upalabdhi nahīṃ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_139
+ham apanī jarūratēṃ pūrī kar rahē haiṃ aur duniyā kī food basket mēṃ yōgadān bhī dē rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_140
+sāthiyō, ab tō kr̥ṣi utpād havāī mārg sē bhī jyādā āsānī sē vidēś pahuṃc rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_141
+karnāṭakā kē naṃjanaguḍ kēlē, maisūru pān kē pattē aur iṃḍī nīṃbū kō māladīv bhējā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_142
+yē utpād apanē svād aur guṇavattā kē liē jānē jātē haiṃ aur inhēṃ GI ṭaig bhī milā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (GI) | MWE: 0 | Hyphen Pair: 0
+
+T1_143
+āj kā kisān quality bhī cāhatā hai, quantity bhī baṛhā rahā hai aur apanī pahacān bhī banā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_144
+mērē pyārē dēśavāsiyō, pichalē varṣ, isī samay mahākuṃbh kī adbhut tasvīrēṃ āpakō jarūr yād hōṃgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_145
+saṃgam kē taṭ par umaṛatā janasāgar, āsthā kā athāh pravāh aur snān kē us pāvan kṣaṇ mēṃ, jaisē bhārat apanī sanātan cētanā sē sākṣātkār kar rahā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_146
+sāthiyō, mahākuṃbh kī vahī dhārā, vahī māgh kā mahīnā, vahī śraddhā kā svar, jab uttar sē dakṣiṇ kī ōr baṛhatā hai, tō ēk naī pahacān lē lētā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_147
+sāthiyō, kēralā kī dharatī par, bhāratappujhā nadī kē kinārē tirunāvāyā mēṃ sadiyōṃ purānī ēk paraṃparā rahī hai - māmaṃgam.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_148
+isē kaī lōg mahā māgh mahōtsav yā kēralā kumbh bhī kahatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_149
+māgh kē mahīnē mēṃ pavitr nadī mēṃ snān aur us kṣaṇ kō jīvan kā amiṭ smaraṇ banā lēnā, yahī isakī ātmā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_150
+samay kē sāth yah paraṃparā jaisē ōjhal hō gaī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jaisē+gaī) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T1_151
+karīb ṛhāī-sau varṣōṃ tak yah āyōjan usī bhavyatā mēṃ nahīṃ huā thā jaisē pahalē huā karatā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_152
+lēkin āj apanī virāsat kō phir sē pahacān rahē hamārē dēś mēṃ itihās nē phir karavaṭ lī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_153
+is bār binā kisī baṛī ghōṣaṇā kē kēralā kumbh kā saphal āyōjan huā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_154
+lōgōṃ nē isakē bārē mēṃ ēk nē dūsarē kō batāyā, kānōṃ-kān bāt pahum̐catī gaī aur dēkhatē hī dēkhatē śraddhālu tirunāvāyā pahum̐canē lagē.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 1 (kān+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_155
+sāthiyō, mahākuṃbh hō yā kēralā kumbh, yah kēval snān kā parv nahīṃ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_156
+yah smr̥ti kā jāgaraṇ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_157
+yah saṃskr̥ti kā punarasmaraṇ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_158
+uttar sē dakṣiṇ tak, nadiyāṃ bhalē alag hōṃ, kinārē bhalē alag hōṃ, par āsthā kī dhārā ēk hī hai - yahī bhārat hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_159
+sāthiyō, hamārē dēś mēṃ aisē lōg hamēśā janatā kē dilōṃ mēṃ basē rahatē haiṃ jinhōṃnē samāj kē kalyāṇ kē liē kām kiyā hōtā hai, jinhōṃnē apanē nēk kāryōṃ mēṃ janatā kō prāthamikatā dī hōtī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (janatā+dī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_160
+ammā jayalalitā jī, aisī hī ēk lōkapriy līḍar thīṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_161
+24 pharavarī unakē janmadin kā avasar hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_162
+tamilanāḍu kē lōgōṃ kā unasē lagāv kitanā gaharā thā, yah mujhē āj bhī rājy kē daurē mēṃ dikhatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_163
+ammā jayalalitā jī kā jikr hōtē hī, tamilanāḍu kē lōgōṃ kē cēharē khil uṭhatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_164
+hamārī nārī śakti kā juṛāv tō unasē aur viśēṣ rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_165
+aisā isaliē bhī hai, kyōṃki sarakār mēṃ rahatē huē unhōṃnē mātāōṃ-bahanōṃ aur bēṭiyōṃ kē liē kaī sarāhanīy prayās kiyē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_166
+rājy mēṃ kānūn-vyavasthā kō durust rakhanē kē liē bhī unhōṃnē bahut ṭhōs kadam uṭhāē thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_167
+dēśabhakti kī bhāvanā unamēṃ kūṭ-kūṭ kar bharī thī.
+Reduplication: 1 (kūṭ-kūṭ) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_168
+isakē sāth hī bhārat kī sāṃskr̥tik virāsat par unhēṃ bahut garv thā.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_169
+ammā jayalalitā jī kē sāth huī har mulākāt, har prakār kī bātacīt mērē man mēṃ āj bhī tājā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T1_170
+vē gujarāt mēṃ 2002 aur 2012 mēṃ huē mērē dō śapath grahaṇ samārōh mēṃ bhī śāmil huī thīṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_171
+jab ham dōnōṃ apanē-apanē rājy mēṃ mukhyamaṃtrī thē, tab good governance jaisē viṣayōṃ par aksar hamārē bīc bātacīt hōtī rahatī thī.
+Reduplication: 1 (apanē-apanē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_172
+unakī sōc bilkul spaṣṭ thī aur vicār bēhad sulajhē huē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_173
+yah unakī ēk baṛī khāsiyat thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_174
+kaī varṣ pahalē unhōṃnē pōṃgal kē pāvan avasar par mujhē lunch kē liē cēnnaī āmaṃtrit kiyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_175
+snēh sē bharā unakā vō bhāv mērē liē avismaraṇīy rahēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_176
+ēk bār phir maiṃ unhēṃ vinamr śraddhāṃjali arpit karatā hūṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_177
+jayalalitā avaragalakk, yēn ninaivājaṃli-gal, samudāyattirkku, avar āṭriy sēvai yēṃḍrūm ninaivil irukkum.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_178
+(English Translation: My tributes to Jayalalitha, Her services to the people will always be remembered.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_179
+) mērē pyārē dēśavāsiyō, ab maiṃ bāt karūṃgā apanē pyārē, chōṭē hōnahār baccōṃ sē, un baccōṃ sē jinakā is samay exam cal rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_180
+mujhē ummīd hai, āpanē is mahīnē kī śuruāt mēṃ 'parīkṣā pē carcā' dēkhī hōgī aur āpakō usasē kuch sīkhanē kō bhī milā hōgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_181
+lēkin, maiṃ phir bhī pūchūm̐gā paṛhāī kī jyādā tension tō nahīṃ lē rahē haiṃ n āp ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (tension+lē) | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_182
+mērē pyārē baccō, āp tō exam warriors haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_183
+mujhē viśvās hai, āp sabhī pūrē man sē imtihān kī taiyāriyōṃ mēṃ lagē hōṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_184
+hām̐, aisē samay mēṃ man mēṃ thōṛī śaṃkā ānā bhī svābhāvik hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_185
+kabhī lagatā hai, sab yād rahēgā yā nahīṃ rahēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_186
+kabhī lagatā hai, samay kam tō nahīṃ paṛ jāēgā nā !
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (kam+paṛ) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_187
+yē bhāv har pīṛhī kē baccōṃ nē mahasūs kiē haiṃ, āp akēlē nahīṃ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_188
+āp yād rakhiē, āpakā mūly āpakī mark sheet sē tay nahīṃ hōtā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_189
+isaliē khud par bharōsā rakhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_190
+jō paṛhā hai, usē pūrē man sē likhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_191
+aur jō nahīṃ āyā, us ēk savāl kō apanē man par hāvī mat hōnē dījiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_192
+aur ēk bāt, apanē mātā-pitā aur śikṣakōṃ sē bāt karatē rahiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_193
+vē āpakē naṃbarōṃ sē nahīṃ, āpakē prayās sē āpakī pahacān karatē haiṃ, vō āpakī mēhanat sē khuś rahatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 2 (āpa-kē, āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_194
+mujhē pūrā bharōsā hai ki āp parīkṣā mēṃ bhī saphal hōṃgē aur apanē jīvan mēṃ bhī saphalatā kī naī ūṃcāī prāpt karēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_195
+sāthiyō, in dinōṃ ramajān cal rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_196
+maiṃ is pavitr mahīnē kē liē sabhī kō śubhakāmanāēṃ dētā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_197
+kuch hī dinōṃ bād hōlī kā parv bhī ā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_198
+yāni raṃg, gulāl aur haṃsī-khuśī sē bharā samay dastak dēnē vālā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_199
+āp sabhī apanē parivār aur apanōṃ kē sāth khuśī kē sāth sārē tyōhār manāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 2 (kē sāth, kē sāth) | Hyphen Pair: 0
+
+T1_200
+aur hām̐, kuch maṃtr hamēśā yād rakhēṃ, jaisē vocal for local.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_201
+hamārē hōlī kē tyōhārōṃ mēṃ yā any kōī bhī tyōhār mēṃ anēk aisē sājō-sāmān ghus gaē haiṃ, jō vidēśī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (aisē+gaē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_202
+inhēṃ tyōhārōṃ sē dūr rakhiē, hōlī sē bhī dūr rakhiē, svadēśī apanāiyē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_203
+jab āp svadēśī kharīdatē haiṃ tō dēś kō ātmanirbhar banānē kē abhiyān mēṃ bhī madad karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_204
+sāthiyō, mujhē har mahīnē 'man kī bāt' kē liē āpakē ṛhērōṃ sujhāv milatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_205
+āpakē bhējē gaē saṃdēśōṃ sē hamēṃ dēś kē kōnē-kōnē mēṃ chipī adbhut pratibhāōṃ kē bārē mēṃ patā calatā hai.
+Reduplication: 1 (kōnē-kōnē) | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 1 (āpakē+gaē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_206
+nijī svārth sē uṭhakar samāj kē liē kuch karanē kī anēk prēraṇādāyī gāthāēṃ āpakē mādhyam sē dēśabhar kē lōgōṃ tak pahuṃcī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 2 (uṭha-kar, āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_207
+āp aisē hī apanē prayās jārī rakhēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_208
+mujhē āpakē saṃdēśōṃ kā iṃtajār rahēgā.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_209
+maiṃ ēk bār phir āpakō aur āpakē parivār kō ānē vālē tyōhārōṃ kī anēk-anēk śubhakāmanāēṃ dētā hūm̐.
+Reduplication: 1 (anēk-anēk) | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_210
+bahut-bahut dhanyavād.
+Reduplication: 1 (bahut-bahut) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T1_211
+namaskār.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_001
+mērē pyārē dēśavāsiyō, namaskār.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_002
+sāl 2026 kā yah pahalā 'man kī bāt' hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_003
+kal 26 janavarī kō ham sabhī 'gaṇataṃtr divas' kā parv manāēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_004
+isī din hamārā saṃvidhān lāgū huā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_005
+26 janavarī kā yē din hamēṃ apanē saṃvidhān nirmātāōṃ kō naman karanē kā avasar dētā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_006
+āj 25 janavarī kā din bhī bahut aham hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_007
+āj 'National Voters' Day' hai 'matadātā divas' hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_008
+matadātā hī lōkataṃtr kī ātmā hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_009
+sāthiyō, āmataur par jab kōī 18 sāl kā hō jātā hai, matadātā ban jātā hai tō usē jīvan kā ēk sāmāny paṛāv samajhā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 3 (sāl+jātā, matadātā+jātā, sāmāny+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_010
+lēkin, daraasal yē avasar kisī bhī bhāratīy kē jīvan kā bahut baṛā milestone hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_011
+isaliē bahut jarūrī hai ki ham dēś mēṃ vōṭar bananē kā, matadātā bananē kā, utsav manāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_012
+jaisē ham janmadin par śubhakāmanāēṃ dētē haiṃ aur usē celebrate karatē haiṃ, ṭhīk vaisē hī, jab bhī kōī yuvā pahalī bār matadātā banē tō pūrā mōhallā, gām̐v yā phir śahar ēkajuṭ hōkar usakā abhinaṃdan karē aur miṭhāiyām̐ bāṃṭī jāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_013
+isasē lōgōṃ mēṃ voting kē prati jāgarūkatā baṛhēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_014
+isakē sāth hī yah bhāvanā aur saśakt hōgī ki ēk vōṭar hōnā kitanā māyanē rakhatā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_015
+sāthiyō, dēś mēṃ jō bhī lōg cunāvī prakriyā sē juṛē rahatē haiṃ, jō hamārē lōkataṃtr kō jīvaṃt banāē rakhanē kē liē jamīnī star par kām karatē haiṃ, maiṃ un sabhī kī bahut sarāhanā karanā cāhūm̐gā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_016
+āj 'matadātā divas' par maiṃ apanē yuvā sāthiyōṃ sē phir āgrah karūṃgā ki vē 18 sāl kā hōnē par voter kē rūp mēṃ khud kō jarūr register karēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_017
+saṃvidhān nē har nāgarik sē jis karttavy bhāvanā kē pālan kī apēkṣā rakhī hai isasē vō apēkṣā bhī pūrī hōgī aur bhārat kā lōkataṃtr bhī majabūt hōgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_018
+mērē pyārē dēśavāsiyō, in dinōṃ maiṃ social media par ēk interesting trend dēkh rahā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_019
+lōg sāl 2016 kī apanī yādōṃ kō phir sē tājā kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_020
+usī bhāvanā kē sāth, āj maiṃ bhī āpakē sāth apanī ēk memory kō share karanā cāhatā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_021
+das sāl pahalē, janavarī 2016 mēṃ hamanē ēk ambitious journey kī śuruāt kī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_022
+tab hamēṃ is bāt kā ēhasās thā ki bhalē hī yē ēk chōṭā kyōṃ nā hō yē, lēkin yē yuvā-pīṛhī kē liē, dēś kē future kē liyē, kāphī aham hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 0
+
+T2_023
+tab kuch lōg yē samajh hī nahīṃ pāē thē ki yē ākhir hai kyā ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_024
+sāthiyō, maiṃ jis journey kī bāt kar rahā hūm̐, vah hai start-up India kī journey.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-up)
+
+T2_025
+is adbhut journey kē heroes hamārē yuvā sāthī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_026
+apanē comfort zone sē bāhar nikalakar unhōṃnē jō innovation kiē, vō itihās mēṃ darj hō rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (nikala-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_027
+sāthiyō, bhārat mēṃ āj duniyā kā tīsarā sabasē baṛā start-ups ecosystem ban cukā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-ups)
+
+T2_028
+yē start-ups līk sē haṭ kē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-ups)
+
+T2_029
+āj, vē, aisē sectors mēṃ kām kar rahē haiṃ, jinakē bārē mēṃ 10 sāl pahalē tak kalpanā bhī nahīṃ kī jā sakatī thī.
+Reduplication: 0 | Conjunctive Verb: 1 (jina-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_030
+AI, Space, Nuclear Energy, Semi Conductors, Mobility, Green Hydrogen, Biotechnology āp nām lījiē aur kōī n kōī bhāratīy Start-up us sector mēṃ kām karatē huē dikh jāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 1 (Start-up)
+
+T2_031
+maiṃ apanē un sabhī yuvā-sāthiyōṃ kō salute karatā hūm̐ jō kisī-n-kisī Start-up sē juṛē haiṃ yā phir apanā Start-up śurū karanā cāhatē haiṃ| sāthiyō, āj 'man kī bāt' kē mādhyam sē maiṃ dēśavāsiyōṃ, viśēṣakar industry aur Start-up sē juṛē yuvāōṃ sē ēk āgrah jarūr karanā cāhatā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 1 (viśēṣa-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 3 (Start-up, Start-up, Start-up)
+
+T2_032
+bhārat kī economy tējī sē āgē baṛh rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_033
+bhārat par duniyā kī najarēṃ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_034
+aisē samay mēṃ ham sab par ēk bahut baṛī jimmēdārī bhī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_035
+vō jimmēdārī hai - quality par jōr dēnē kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_036
+hōtī hai, calatī hai, cal jāēgā, yah yug calā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_037
+āiē is varṣ ham pūrī tākat sē quality kō prāthamikatā dēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_038
+ham sabakā ēk hī maṃtr hō quality, quality aur sirph quality.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_039
+kal sē āj bēhatar quality.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_040
+ham jō bhī manufacture kar rahē haiṃ, usakī quality kō bēhatar banānē kā saṃkalp lēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_041
+cāhē hamārē textiles hōṃ, technology hō yā phir electronics even packaging, Indian product kā matalab hī ban jāē - Top quality.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_042
+āiē, excellence kō ham apanā bench mark banāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_043
+ham saṃkalp lēṃ quality mēṃ nā kōī kamī hōgī, nā quality sē kōī samajhautā hōgā aur maiṃnē tō lāl kilē sē kahā thā 'Zero defect - Zero effect'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_044
+aisā karakē hī ham vikasit bhārat kī yātrā kō tējī sē āgē lē jā pāēṃgē.
+Reduplication: 0 | Conjunctive Verb: 1 (kara-kē) | Compound Verb: 1 (tējī+lē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_045
+mērē pyārē dēśavāsiyō, hamārē dēś kē lōg bahut innovative haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_046
+samasyāōṃ kā samādhān ḍhūm̐ḍhanā hamārē dēśavāsiyōṃ kē svabhāv mēṃ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_047
+kuch lōg yē kām start-ups kē jariyē karatē haiṃ, tō kuch lōg samāj kī sāmūhik śakti sē rāstā nikālanē kā prayās karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (start-ups)
+
+T2_048
+aisā hī ēk prayās uttar pradēś kē ājamagaṛh mēṃ sāmanē āyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (ājamagaṛh+āyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_049
+yahām̐ sē hōkar gujaranē vālī tamasā nadī kō lōgōṃ nē nayā jīvan diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_050
+tamasā kēval ēk nadī nahīṃ, balki hamārī sāṃskr̥tik aur ādhyātmik virāsat kī sajīv dhārā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (balki) | Hyphen Pair: 0
+
+T2_051
+ayōdhyā sē nikalakar gaṃgā mēṃ samāhit hōnē vālī yah nadī kabhī is kṣētr kē lōgōṃ kē jan-jīvan kī dhurī huā karatī thī, lēkin pradūṣaṇ kī vajah sē isakī aviral dhārā mēṃ rukāvaṭ ānē lagī thī.
+Reduplication: 0 | Conjunctive Verb: 1 (nikala-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kī vajah sē) | Hyphen Pair: 0
+
+T2_052
+gād, kūṛā-kacarā aur gaṃdagī nē is nadī kē pravāh kō rōk diyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (pravāh+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_053
+isakē bād yahām̐ kē lōgōṃ nē isē ēk nayā jīvan dēnē kā abhiyān śurū kiyā.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_054
+nadī kī saphāī kī gaī aur usakē kinārōṃ par chāyādār, phaladār pēṛ lagāē gaē.
+Reduplication: 0 | Conjunctive Verb: 1 (usa-kē) | Compound Verb: 1 (phaladār+gaē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_055
+sthānīy lōg kartavy bhāvanā sē is kām mēṃ juṭē aur sabakē prayās sē nadī kā punaruddhār hō gayā.
+Reduplication: 0 | Conjunctive Verb: 1 (saba-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_056
+sāthiyō, jan-bhāgīdārī kā aisā hī prayās āṃdhr-pradēś kē anaṃtapur mēṃ bhī dēkhanē kō milā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_057
+yah vah kṣētr hai jō sūkhē kī gambhīr samasyā sē jūjhatā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_058
+yahām̐ kī miṭṭī, lāl aur baluī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_059
+yahī vajah hai ki lōgōṃ kō pānī kī kamī kā sāmanā karanā paṛatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_060
+yahāṃ kē kaī kṣētrōṃ mēṃ laṃbē samay tak bāriś nahīṃ hōtī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_061
+kaī bār tō lōg anaṃtapur kī tulanā rēgistān mēṃ sūkhē kī sthiti sē bhī kar dētē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_062
+sāthiyō, is samasyā kē samādhān kē liyē sthānīy lōgōṃ nē jalāśayōṃ kō sāph karanē kā saṃkalp liyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (karanē+liyā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē liyē) | Hyphen Pair: 0
+
+T2_063
+phir praśāsan kē sahayōg sē yahām̐ 'anaṃt nīrū saṃrakṣaṇam prōjēkṭ' isakī śuruāt huī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_064
+is prayās kē tahat 10 sē adhik jalāśayōṃ kō jīvan dān milā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē tahat) | Hyphen Pair: 0
+
+T2_065
+un jalāśayōṃ mēṃ ab pānī bharanē lagā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_066
+isakē sāth hī 7000 sē adhik pēṛ bhī lagāē gaē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 1 (pēṛ+gaē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_067
+yāni anaṃtapur mēṃ jal saṃrakṣaṇ kē sāth-sāth green cover bhī baṛhā hai.
+Reduplication: 1 (sāth-sāth) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_068
+yahām̐ baccē ab tairākī kā ānaṃd bhī lē sakatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_069
+ēk prakār sē kahēṃ tō yahām̐ kā pūrā ecosystem phir sē nikhar uṭhā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_070
+sāthiyō, ājamagaṛh hō, anaṃtapur hō, yā phir dēś kī kōī aur jagah, yē dēkhakar khuśī hōtī hai ki lōg ēkajuṭ hōkar kartavy bhāv sē baṛē saṃkalp siddh kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_071
+jan-bhāgīdārī aur sāmūhikatā kī yahī bhāvanā hamārē dēś kī sabasē baṛī tākat hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_072
+mērē pyārē dēśavāsiyō, hamārē dēś mēṃ bhajan aur kīrtan sadiyōṃ sē hamārī saṃskr̥ti kī ātmā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_073
+hamanē maṃdirōṃ mēṃ bhajan sunē haiṃ, kathā sunatē vakt sunē haiṃ aur har daur nē bhakti kō apanē samay kē hisāb sē jiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_074
+āj kī pīṛhī bhī kuch naē kamāl kar rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_075
+āj kē yuvāōṃ nē bhakti kō apanē anubhav aur apanī jīvan-śailī mēṃ ḍhāl diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (śailī+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_076
+isī sōc sē ēk nayā sāṃskr̥tik calan ubharakar sāmanē āyā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (ubhara-kar) | Compound Verb: 1 (calan+āyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_077
+āpanē social media par aisē video jarūr dēkhē hōṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_078
+dēś kē alag-alag śaharōṃ mēṃ baṛī saṃkhyā mēṃ yuvā ikaṭṭhā hō rahē haiṃ.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_079
+maṃc sajā hōtā hai, rōśanī hōtī hai, saṃgīt hōtā hai, pūrā tām-jhām hōtā hai aur māhaul kisī concert sē jarā bhī kam nahīṃ hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_080
+aisā hī lag rahā hai ki jaisē kōī bahut baṛā concert hō rahā hai, lēkin vahām̐ jō gāyā jā rahā hōtā hai vō pūrī tanmayatā kē sāth, pūrī lagan kē sāth, pūrī lay kē sāth bhajan kī gūṃj.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 3 (kē sāth, kē sāth, kē sāth) | Hyphen Pair: 0
+
+T2_081
+is calan kō āj 'bhajan clubbing' kahā jā rahā hai aur yah khāsataur par Genz kē bīc tējī sē lōkapriy hō rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (bhajan+jā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T2_082
+yah dēkhakar acchā lagatā hai ki in āyōjanōṃ mēṃ bhajan kī garimā aur śucitā kā pūrā dhyān rakhā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 1 (pūrā+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_083
+bhakti kō halkēpan mēṃ nahīṃ liyā jātā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (halkēpan+liyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_084
+nā śabdōṃ kī maryādā ṭūṭatī hai aur nā hī bhāv kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_085
+maṃc ādhunik hō sakatā hai, saṃgīt kī prastuti alag hō sakatī hai, lēkin mūl bhāvanā vahī rahatī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_086
+adhyātm kā ēk niraṃtar pravāh vahām̐ anubhav hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_087
+mērē pyārē dēśavāsiyō, āj hamārī saṃskr̥ti aur tyōhār duniyā bhar mēṃ apanī pahacān banā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_088
+duniyā kē har kōnē mēṃ bhārat kē tyōhār baṛē utsāh aur ullās kē sāth manāē jātē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_089
+har tarah kī cultural vibrancy kō banāē rakhanē mēṃ hamārē bhāratavaṃśī bhāī-bahanōṃ kā aham yōgadān hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_090
+vō jahāṃ bhī hai vahām̐ apanī saṃskr̥ti kī mūl bhāvanā kō saṃrakṣit kar aur usē āgē baṛhā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_091
+isakō lēkar malēśiyā mēṃ bhī hamārā bhāratīy samudāy bahut sarāhanīy kāry kar rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_092
+āpakō yah jānakar sukhad āścary hōgā ki malēśiyā mēṃ 500 sē jyādā tamil skūl haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (jāna-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_093
+inamēṃ tamil bhāṣā kī paṛhāī kē sāth hī any viṣayōṃ kō bhī tamil mēṃ paṛhāyā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (tamil+jātā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_094
+isakē alāvā yahāṃ tēlugu aur paṃjābī sahit any bhāratīy bhāṣāōṃ par bhī bahut focus rahatā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_095
+sāthiyō, bhārat aur malēśiyā kē bīc aitihāsik aur sāṃskr̥tik saṃbaṃdhōṃ kō majabūt karanē mēṃ ēk society kī baṛī bhūmikā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T2_096
+isakā nām hai 'Malaysia India Heritage Society'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_097
+alag-alag kāryakramōṃ kē sāth hī, yah saṃsthā ēk heritage walk kā bhī āyōjan karatī hai.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_098
+isamēṃ dōnōṃ dēśōṃ kō āpas mēṃ jōṛanē vālē sāṃskr̥tik sthalōṃ kō cover kiyā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_099
+pichalē mahīnē malēśiyā mēṃ 'lāl pāṛ sāṛī' iconic walk isakā āyōjan kiyā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (isakā+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_100
+is sāṛī kā baṃgāl kī hamārī saṃskr̥ti sē viśēṣ nātā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_101
+is kāryakram mēṃ sabasē adhik saṃkhyā mēṃ is sāṛī kō pahananē kā record banā, jisē Malaysian Book of Records mēṃ darj kiyā gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_102
+is maukē par ōḍisī dance aur baul music nē tō lōgōṃ kā dil jīt liyā.
+Reduplication: 0 | Conjunctive Verb: 1 (mau-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_103
+maiṃ kah sakatā hūm̐ - sāyā barabāṃgā/ dēṃgān ḍīyāspōrā iṃḍiyā/di malēśiyā // mērēkā mambāvā/iṃḍiyā dān malēśiyā/sēmākin rāpā // (hindī anuvād - mujhē malēśiyā mēṃ bhāratīy pravāsiyōṃ par garv hai, bhārat aur malēśiyā kō vō aur karīb lā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_104
+) malēśiyā kē hamārē bhāratavaṃśiyōṃ kō mērī bahut-bahut śubhakāmanāēṃ.
+Reduplication: 1 (bahut-bahut) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_105
+mērē pyārē dēśavāsiyō, ham bhārat kē kisī bhī hissē mēṃ calē jāēm̐, vahām̐ hamēṃ kuch-n-kuch asādhāraṇ, abhūtapūrv hōtē huē jarūr dikh jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (huē+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_106
+kaī bār Media kī cakācauṃdh mēṃ yē bātēṃ jagah nahīṃ banā pātīṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_107
+lēkin inasē patā calatā hai ki hamārē samāj kī asalī śakti kyā hai ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_108
+inasē hamārē un Value Systems kī bhī jhalak milatī hai, jinamēṃ ēkajuṭatā kī bhāvanā sarvōpari hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_109
+gujarāt mēṃ bēcarājī kē caṃdanakī gām̐v kī paraṃparā apanē āp mēṃ anūṭhī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_110
+agar maiṃ āpasē kahūm̐ ki yahāṃ kē lōg, viśēṣakar bujurg, apanē gharōṃ mēṃ khānā nahīṃ banātē tō āpakō hairat hōgī.
+Reduplication: 0 | Conjunctive Verb: 1 (viśēṣa-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_111
+isakī vajah gām̐v kā śānadār Community kitchen.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_112
+is Community kitchen mēṃ ēk sāth pūrē gām̐v kā sabakā khānā banatā hai aur lōg ēk sāth baiṭhakar bhōjan karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (baiṭha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_113
+bītē 15 varṣōṃ sē yah paraṃparā niraṃtar calī ā rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (paraṃparā+ā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_114
+itanā hī nahīṃ, yadi kōī vyakti bīmār hai tō usakē liē Tiffin Service bhī upalabdh hai, yāni home delivery kā bhī pūrā iṃtajām hai.
+Reduplication: 0 | Conjunctive Verb: 1 (usa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_115
+gām̐v kā yah sāmūhik bhōjan lōgōṃ kō ānaṃd sē bhar dētā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_116
+yē pahal n kēval lōgōṃ kō āpas mēṃ jōṛatī hai, balki isasē pārivārik bhāvanā kō bhī baṛhāvā milatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (balki) | Hyphen Pair: 0
+
+T2_117
+sāthiyō, bhārat kī parivār vyavasthā - Family System hamārī paraṃparā kā abhinn hissā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_118
+duniyā kē kaī dēśōṃ mēṃ isē bahut kautūhal kē sāth dēkhā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_119
+kaī dēśōṃ mēṃ aisē family system kō lēkar bahut sammān kā bhāv hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_120
+kuch hī din pahalē hī mērē Brother U.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_121
+A.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_122
+E.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_123
+kē rāṣṭrapati mahāmahim śēkh mōhammad bin jāyad al nāhayān bhārat āē thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_124
+unhōṃnē mujhē batāyā ki U.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_125
+A.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_126
+E.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_127
+sāl 2026 kō year of family kē rūp mēṃ manā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_128
+makasad yē ki vahām̐ kē lōgōṃ kē bīc sauhārd aur sāmudāyik bhāvanā aur majabūt hō, vākaī yē bahut hī sarāhanīy pahal hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T2_129
+sāthiyō, jab parivār aur samāj kī tākat milatī hai, tō ham baṛī-sē-baṛī cunautiyōṃ kō parāst kar sakatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_130
+mujhē anaṃtanāg kē śēkhagunḍ gām̐v kē bārē mēṃ jānakārī milī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_131
+yahāṃ drugs, taṃbākū, sigarēṭ aur śarāb sē juṛī cunautiyām̐ kāphī baṛh gaī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (kāphī+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_132
+in sabakō dēkhakar yahāṃ kē mīr jāfar jī itanā parēśān huē ki unhōṃnē is samasyā kō dūr karanē kī ṭhān lī.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 1 (karanē+lī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_133
+unhōṃnē gām̐v kē yuvāōṃ sē lēkar bujurgōṃ tak sabhī kō ēkajuṭ kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (sē lēkar) | Hyphen Pair: 0
+
+T2_134
+unakī is pahal kā asar kuch aisā rahā ki vahām̐ kī dukānōṃ nē taṃbākū utpādōṃ kō bēcanā hī baṃd kar diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_135
+is prayās sē Drugs kē khatarōṃ kō lēkar bhī lōgōṃ mēṃ jāgarūkatā baṛhī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_136
+sāthiyō, hamārē dēś mēṃ aisī anēk saṃsthāēṃ bhī haiṃ, jō varṣōṃ sē nisvārth bhāv sē samāj sēvā mēṃ juṭī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_137
+jaisē ēk saṃsthā hai paścim baṃgāl kē pūrv mēdinīpur kē pharīdapur mēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_138
+isakā nām hai 'vivēkānaṃd lōk śikṣā nikētan'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_139
+yē saṃsthā pichalē cār daśak sē baccōṃ aur bujurgōṃ kī dēkhabhāl mēṃ juṭī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_140
+gurukul paddhati kī śikṣā aur teachers kī training kē sāth hī yah saṃsthā samāj kalyāṇ kē kaī nēk kāryōṃ mēṃ juṭī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_141
+mērī kāmanā hai ki nisvārth sēvā kā yah bhāv dēśavāsiyōṃ kē bīc niraṃtar aur adhik saśakt hōtā rahē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T2_142
+mērē pyārē dēśavāsiyō, 'man kī bāt' mēṃ ham niraṃtar svacchatā kē viṣay kō uṭhātē rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_143
+mujhē yē dēkhakar garv hōtā hai hamārē yuvā apanē āsapās kī svacchatā kō lēkar bahut sajag haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_144
+aruṇācal pradēś mēṃ huē ēk aisē hī anūṭhē prayās kē bārē mēṃ mujhē jānakārī milī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_145
+aruṇācal vō dharatī hai jahāṃ dēś mēṃ sabasē pahalē sūry kī kiraṇēṃ pahum̐catī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_146
+yahāṃ lōg 'jay hind' kahakar ēk-dūsarē kā abhivādan karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (kaha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_147
+yahāṃ īṭānagar mēṃ yuvāōṃ kā samūh un hissōṃ kī saphāī kē liē ēkajuṭ huā, jin par jyādā dhyān dēnē kī jarūrat thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_148
+in yuvāōṃ nē alag-alag śaharōṃ mēṃ sārvajanik sthalōṃ kī sāph-saphāī kō apanā mission banā liyā.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 1 (apanā+liyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_149
+isakē bād īṭānagar, nāharalāgun, dōīmukh, sēppā, pālin aur pāsīghāṭ vahām̐ bhī yē abhiyān calāyā gayā.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_150
+yē yuvā ab tak karīb 11 lākh kilō sē adhik kacarē kī saphāī kar cukē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_151
+sōciē dōstō, naujavānōṃ nē milakar kē 11 lākh kilō kūṛā-kacarā haṭāyā.
+Reduplication: 0 | Conjunctive Verb: 1 (mila-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_152
+sāthiyō, ēk aur udāharaṇ asam kā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_153
+asam kē nāgāṃv mēṃ vahām̐ kī purānī galiyōṃ sē lōg bhāvanātmak rūp sē juṛē haiṃ yahāṃ kuch lōgōṃ nē apanī galiyōṃ kō milakar sāph karanē kā saṃkalp liyā.
+Reduplication: 0 | Conjunctive Verb: 1 (mila-kar) | Compound Verb: 1 (karanē+liyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_154
+dhīrē-dhīrē unakē sāth aur lōg juḍatē gaē.
+Reduplication: 1 (dhīrē-dhīrē) | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_155
+is tarah ēk aisī ṭīm taiyār hō gaī, jisanē galiyōṃ sē bahut sārā kacarā haṭā diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (ṭīm+gaī, sārā+diyā) | Honorific: 0 | Acronym: 0 | MWE: 1 (is tarah) | Hyphen Pair: 0
+
+T2_156
+sāthiyō, aisā hī ēk prayās bēṃgaluru mēṃ hō rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_157
+bēṃgaluru mēṃ sofa waste ēk baṛī samasyā banakar sāmanē āyā hai isaliē kuch professionals ēkajuṭ hōkar is issue kō apanē tarīkē sē solve kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 2 (bana-kar, tarī-kē) | Compound Verb: 1 (samasyā+āyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_158
+sāthiyō, āj kaī śaharōṃ mēṃ aisī ṭīmēṃ haiṃ, jō landfill waste kī recycling mēṃ juṭī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_159
+cēnnaī mēṃ aisī hī ēk team nē bahut bēhatarīn kām kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_160
+aisē udāharaṇōṃ sē patā calatā hai ki svacchatā sē juṛā har prayās kitanā aham hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_161
+hamēṃ svacchatā kē liē vyaktigat taur par yā phir ṭīm kē taur par apanē prayās baṛhānē hōṃgē, tabhī hamārē śahar aur bēhatar banēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_162
+mērē pyārē dēśavāsiyō, jab paryāvaraṇ saraṃkṣaṇ kī bāt hōtī hai, tō aksar hamārē man mēṃ baṛī yōjanāēṃ, baṛē abhiyān aur baṛē-baṛē saṃgaṭhan kī bātēṃ ātī haiṃ.
+Reduplication: 1 (baṛē-baṛē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_163
+lēkin kaī bār badalāv kī śuruāt bahut sādhāraṇ tarīkē sē hōtī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (tarī-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_164
+ēk vyakti sē, ēk ilākē sē, ēk kadam sē aur lagātār kī gaī chōṭī-chōṭī kōśiśōṃ sē bhī baṛē badalāv ātē haiṃ.
+Reduplication: 1 (chōṭī-chōṭī) | Conjunctive Verb: 1 (ilā-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_165
+paścim baṃgāl kē kūc bihār kē rahanē vālē bēny dās jī kā prayās isī kā udāharaṇ hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_166
+pichalē kaī varṣōṃ sē unhōṃnē apanē jilē kō harā-bharā banānē kā kām akēlē dam par kiyā hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_167
+bēny dās jī nē hajārōṃ pēṛ lagāē haiṃ .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_168
+kaī bār paudhē kharīdanē sē lēkar unhēṃ lagānē aur dēkh-bhāl karanē kā sārā kharc khud nē uṭhāyā hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (sē lēkar) | Hyphen Pair: 0
+
+T2_169
+jahāṃ jarūrat paṛī, vahām̐ sthānīy lōgōṃ, chātrōṃ aur nagar nikāyōṃ kē sāth milakar kām kiyā .
+Reduplication: 0 | Conjunctive Verb: 1 (mila-kar) | Compound Verb: 1 (jahāṃ+paṛī) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_170
+unakē prayāsōṃ sē saṛakōṃ kē kinārē hariyālī aur baṛh gaī hai .
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 1 (hariyālī+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_171
+sāthiyō, madhy pradēś mēṃ pannā jilē kē jagadīś prasād ahiravār jī, unakā prayās bhī bahut hī sarāhanīy hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_172
+vō jaṃgal mēṃ beat-guard kē rūp mēṃ apanī sēvāēṃ dētē haiṃ .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (beat-guard)
+
+T2_173
+ēk bār gaśt kē daurān unhōṃnē mahasūs kiyā ki jaṃgal mēṃ maujūd kaī auṣadhīy paudhōṃ kī jānakārī kahīṃ bhī vyavasthit rūp sē darj nahīṃ hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_174
+jagadīś jī, yē jānakārī agalī pīṛhī tak pam̐hucānā cāhatē thē, isaliē unhōṃnē, auṣadhīy paudhōṃ kī pahacān karanā aur unakā record banānā śurū kiyā .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_175
+unhōṃnē savā-sau sē jyādā auṣadhīy paudhōṃ kī pahacān kī .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_176
+har paudhē kī tasvīr, nām, upayōg aur milanē kē sthān kī jānakārī juṭāī .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_177
+unakī juṭāī gaī jānakārī kō van vibhāg nē saṃkalit kiyā aur kitāb kē rūp mēṃ prakāśit bhī kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (unakī+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_178
+is kitāb mēṃ dī gaī jānakārī ab researcher, chātrōṃ aur van adhikāriyōṃ kē bahut kām ā rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_179
+sāthiyō, paryāvaraṇ saṃrakṣaṇ kī yahī bhāvanā āj baṛē star par bhī dikhāī dē rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_180
+isī sōc kē sāth dēśabhar mēṃ 'ēk pēṛ mām̐ kē nām' abhiyān calāyā jā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (abhiyān+jā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_181
+is abhiyān sē āj karōṛōṃ lōg juṛ cukē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_182
+ab tak dēś mēṃ 200 karōṛ sē jyādā pēṛ lagāē bhī jā cukē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (pēṛ+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_183
+yē batātā hai ki paryāvaraṇ saṃrakṣaṇ kō lēkar ab lōg jyādā jāgarūk haiṃ, aur kisī-nā-kisī rūp mēṃ apanā yōgadān dēnā cāhatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_184
+mērē pyārē dēśavāsiyō, maiṃ āp sabhī kī ēk aur bāt kē liē bahut sarāhanā karanā cāhatā hūm̐ - vajah hai millets yāni śrīann.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_185
+mujhē yē dēkhakar khuśī hai ki śrīann kē prati dēś kē lōgōṃ kā lagāv niraṃtar baṛh rahā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_186
+vaisē tō hamanē 2023 kō millet year ghōṣit kiyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_187
+lēkin āj tīn sāl bād bhī isakō lēkar dēś aur duniyā mēṃ jō passion aur commitment hai, vō bahut utsāhit karanē vālā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_188
+sāthiyō, tamilanāḍu kē kall-kuricī jilē mēṃ mahilā kisānōṃ kā ēk samūh prēraṇā strōt ban gayā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (prēraṇā+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_189
+yahām̐ kē 'Periyapalayam millet' FPC sē lagabhag 800 mahilā kisān juṛī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (FPC) | MWE: 0 | Hyphen Pair: 0
+
+T2_190
+Millets kī baṛhatī lōkapriyatā kō dēkhatē huē in mahilāōṃ nē Millet Processing Unit kī sthāpanā kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_191
+ab vō millets sē banē utpādōṃ kō sīdhē bājār tak pahuṃcā rahī hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_192
+sāthiyō, rājasthān kē rāmasar mēṃ bhī kisān śrīann kō lēkar innovation kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_193
+yahām̐ kē Ramsar Organic Farmer Producer Company sē 900 sē adhik kisān juṛē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_194
+yē kisān mukhy rūp sē bājarē kī khētī karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_195
+yahām̐ bājarē kō process karakē ready to eat laḍḍū taiyār kiyā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (kara-kē) | Compound Verb: 1 (laḍḍū+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_196
+isakī bājār mēṃ baṛī māṃg hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_197
+itanā hī nahīṃ sāthiyōṃ, mujhē tō yē jānakar khuśī hōtī hai, ājakal kaī maṃdir aisē haiṃ, jō apanē prasād mēṃ sirph millets kā upayōg karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (jāna-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_198
+maiṃ un maṃdir kē sabhī vyavasthāpakōṃ kā hr̥day sē abhinaṃdan karatā hūṃ, unakī is pahal kē liē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_199
+sāthiyō, Millets śrīann sē annadātāōṃ kī kamāī baṛhanē kē sāth hī lōgōṃ kī health mēṃ bhī sudhār kī guarantee banatā jā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T2_200
+Millets pōṣaṇ sē bharapūr hōtē haiṃ, super-food hōtē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (super-food)
+
+T2_201
+hamārē dēś mēṃ sardiyōṃ kā mausam tō khānapān kē liē bahut hī acchā mānā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_202
+aisē mēṃ in dinōṃ hamēṃ śrīann kā sēvan jarūr karanā cāhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_203
+mērē pyārē dēśavāsiyō, 'man kī bāt' mēṃ hamēṃ ēk bār phir kaī alag-alag viṣayōṃ par carcā karanē kā avasar milā.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_204
+yah kāryakram ham sabhī kō apanē dēś kī upalabdhiyōṃ kō mahasūs karanē aur celebrate karanē kā avasar dētā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_205
+pharavarī mēṃ aisā hī ēk aur avasar ā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_206
+agalē mahīnē India AI Impact Summit hōnē jā rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (Impact+jā) | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_207
+is Summit mēṃ duniyābhar sē, viśēṣakar Technology kē kṣētr sē juṛē Expert bhārat āēṃgē.
+Reduplication: 0 | Conjunctive Verb: 1 (viśēṣa-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_208
+yah sammēlan AI kī duniyā mēṃ bhārat kī pragati aur upalabdhiyōṃ kō bhī sāmanē lāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_209
+maiṃ isamēṃ śāmil hōnē vālē har kisī kā hr̥day sē abhinaṃdan karatā hūṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_210
+agalē mahīnē 'man kī bāt' mēṃ India AI Impact Summit par ham jarūr bāt karēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (AI) | MWE: 0 | Hyphen Pair: 0
+
+T2_211
+dēśavāsiyōṃ kī kuch any upalabdhiyōṃ kī bhī carcā karēṃgē .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_212
+tab tak kē liē mujhē 'man kī bāt' mēṃ vidā dījiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_213
+kal kē gaṇataṃtr divas kē liē ēk bār phir āp sabhī kō mērī bahut-bahut śubhakāmanāēm̐.
+Reduplication: 1 (bahut-bahut) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T2_214
+dhanyavād.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_001
+mērē pyārē dēśavāsiyō, namaskār.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_002
+'man kī bāt' mēṃ āpakā phir sē svāgat hai, abhinaṃdan hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_003
+kuch hī dinōṃ mēṃ sāl 2026 dastak dēnē vālā hai, aur āj, jab maiṃ āpasē bāt kar rahā hūm̐, tō man mēṃ pūrē ēk sāl kī yādēṃ ghūm rahī haiṃ - kaī tasvīrēṃ, kaī carcāēṃ, kaī upalabdhiyāṃ, jinhōṃnē dēś kō ēk sāth jōṛ diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_004
+2025 nē hamēṃ aisē kaī pal diē jin par har bhāratīy kō garv huā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_005
+dēś kī surakṣā sē lēkar khēl kē maidān tak, vijñān kī prayōgaśālāōṃ sē lēkar duniyā kē baṛē maṃcōṃ tak.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (sē lēkar, sē lēkar) | Hyphen Pair: 0
+
+T3_006
+bhārat nē har jagah apanī majabūt chāp chōṛī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_007
+is sāl 'ôparēśan siṃdūr' har bhāratīy kē liē garv kā pratīk ban gayā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_008
+duniyā nē sāph dēkhā āj kā bhārat apanī surakṣā sē kōī samajhautā nahīṃ karatā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_009
+'ôparēśan siṃdūr' kē daurān dēś kē kōnē-kōnē sē mām̐ bhāratī kē prati prēm aur samarpaṇ kī tasvīrēṃ sāmanē āī.
+Reduplication: 1 (kōnē-kōnē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_010
+lōgōṃ nē apanē-apanē tarīkē sē apanē bhāv vyakt kiyē.
+Reduplication: 1 (apanē-apanē) | Conjunctive Verb: 1 (tarī-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_011
+sāthiyō, yahī jajbā tab bhī dēkhanē kō milā, jab 'vaṃdē mātaram' kē 150 varṣ pūrē huē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_012
+maiṃnē āpasē āgrah kiyā thā ki '#VandeMataram150' kē sāth apanē saṃdēś aur sujhāv bhējēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_013
+dēśavāsiyōṃ nē is abhiyān mēṃ baṛh-caṛhakar hissā liyā.
+Reduplication: 0 | Conjunctive Verb: 1 (caṛha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_014
+sāthiyō, 2025 khēl kē lihāz sē bhī ēk yādagār sāl rahā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_015
+hamārī puruṣ Cricket team nē ICC Champions Trophy jītī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (ICC) | MWE: 0 | Hyphen Pair: 0
+
+T3_016
+mahilā Cricket team nē pahalī bār viśv kap apanē nām kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_017
+bhārat kī bēṭiyōṃ nē Women's Blind T20 World Cup jītakar itihās rac diyā.
+Reduplication: 0 | Conjunctive Verb: 1 (jīta-kar) | Compound Verb: 1 (jītakar+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_018
+ēśiyā kap T20 mēṃ bhī tiraṃgā śān sē laharāyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_019
+pairā ēthalīṭōṃ nē viśv Championship mēṃ kaī padak jītakar yē sābit kiyā ki kōī bādhā hauṃsalōṃ kō nahīṃ rōk sakatī.
+Reduplication: 0 | Conjunctive Verb: 1 (jīta-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_020
+vijñān aur aṃtarikṣ kē kṣētr mēṃ bhī bhārat nē baṛī chalāṃg lagāī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_021
+śubhāṃśu śuklā pahalē bhāratīy banē, jō International Space Station tak pahuṃcē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_022
+paryāvaraṇ saṃrakṣaṇ aur vany-jīvōṃ kī surakṣā sē juṛē kaī prayās bhī 2025 kī pahacān banē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_023
+bhārat mēṃ cītōṃ kī saṃkhyā bhī ab 30 sē jyādā hō gaī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_024
+2025 mēṃ āsthā, saṃskr̥ti aur bhārat kī advitīy virāsat sab ēk sāth dikhāī dī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_025
+sāl kē śuruāt mēṃ prayāgarāj mahākuṃbh kē āyōjan nē pūrī duniyā kō cakit kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_026
+sāl kē aṃt mēṃ ayōdhyā mēṃ rām maṃdir par dhvajārōhaṇ kē kāryakram nē har bhāratīy kō garv sē bhar diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (garv+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_027
+svadēśī kō lēkar bhī lōgōṃ kā utsāh khūb dikhāī diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (utsāh+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_028
+lōg vahī sāmān kharīd rahē haiṃ, jisamēṃ kisī bhāratīy kā pasīnā lagā hō aur jisamēṃ bhārat kī miṭṭī kī sugaṃdh hō.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_029
+āj ham garv sē kah sakatē haiṃ 2025 nē bhārat kō aur adhik ātmaviśvās diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_030
+yē bāt bhī sahī hai is varṣ prākr̥tik āpadāēṃ hamēṃ jhēlanī paṛī, anēk kṣētrōṃ mēṃ jhēlanī paṛī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (āpadāēṃ+paṛī, kṣētrōṃ+paṛī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_031
+ab dēś 2026 mēṃ naī ummīdōṃ, naē saṃkalpōṃ kē sāth āgē baṛhanē kō taiyār hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_032
+mērē pyārē dēśavāsiyō, āj duniyā bhārat kō bahut āśā kē sāth dēkh rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_033
+bhārat sē ummīd kī sabasē baṛī vajah hai, hamārī yuvā śakti.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_034
+vijñān kē kṣētr mēṃ hamārī upalabdhiyāṃ, naē-naē innovation, technology kā vistār inasē duniyābhar kē dēś bahut prabhāvit haiṃ.
+Reduplication: 1 (naē-naē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_035
+sāthiyō, bhārat kē yuvāōṃ mēṃ hamēśā kuch nayā karanē kā junūn hai aur vō utanē hī jāgarūk bhī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_036
+mērē yuvā sāthī kaī bār mujhasē yah pūchatē haiṃ ki nation building mēṃ vō apanā yōgadān aur kaisē baṛhāēṃ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_037
+vō kaisē apanē ideas share kar sakatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_038
+kaī sāthī pūchatē haiṃ ki mērē sāmanē vō apanē ideas kā presentation kaisē dē sakatē haiṃ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_039
+hamārē yuvā sāthiyōṃ kī is jijñāsā kā samādhān hai 'Viksit Bharat Young Leaders Dialogue'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_040
+pichalē sāl isakā pahalā edition huā thā, ab kuch din bād usakā dūsarā edition hōnē vālā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_041
+agalē mahīnē kī 12 tārīkh kō svāmī vivēkānaṃd jī kī jayaṃtī kē avasar par 'rāṣṭrīy yuvā divas' manāyā jāēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_042
+isī din 'Young Leaders Dialogue' kā bhī āyōjan hōgā aur maiṃ bhī isamēṃ jarūr śāmil hōūṃgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_043
+isamēṃ hamārē yuvā Innovation, Fitness, Startup aur Agriculture jaisē mahatvapūrṇ viṣayōṃ par apanē ideas share karēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_044
+maiṃ is kāryakram kō lēkar bahut hī utsuk hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_045
+sāthiyō, mujhē yē dēkhakar acchā lagā ki is kāryakram mēṃ hamārē yuvāōṃ kī bhāgīdārī baṛh rahī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_046
+kuch dinōṃ pahalē hī isasē juṛā ēk quiz competition huā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_047
+isamēṃ 50 lākh sē adhik yuvā śāmil huē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_048
+ēk nibaṃdh pratiyōgitā bhī huī, jisamēṃ students nē vibhinn viṣayōṃ par apanī bātēṃ rakhīṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_049
+is pratiyōgitā mēṃ tamilanāḍu pahalē aur uttar pradēś dūsarē sthān par rahā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_050
+sāthiyō, āj dēś kē bhītar yuvāōṃ kō pratibhā dikhānē kē naē- naē avasar mil rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_051
+aisē bahut sē platforms vikasit hō rahē haiṃ, jahāṃ yuvā apanī yōgyatā aur ruci kē anusār talent dikhā sakatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē anusār) | Hyphen Pair: 0
+
+T3_052
+aisā hī ēk platform hai- 'Smart India Hackathon' ēk aur aisā mādhyam jahāṃ ideas, action mēṃ badalatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_053
+sāthiyō, 'Smart India Hackathon 2025' kā samāpan isī mahīnē huā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_054
+is Hackathon kē daurān 80 sē adhik sarakārī vibhāgōṃ kī 270 sē jyādā samasyāōṃ par students nē kām kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_055
+Students nē aisē solution diē, jō real life challenges sē juṛē thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_056
+jaisē traffic kī samasyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_057
+isē lēkar yuvāōṃ nē 'Smart Traffic Management' sē juṛē bahut hī interesting perspective share kiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_058
+Financial Frauds aur Digital Arrests jaisī cunautiyōṃ kē samādhān par bhī yuvāōṃ nē apanē ideas sāmanē rakhē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_059
+gām̐vōṃ mēṃ digital banking kē liē Cyber Security Framework par sujhāv diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (Framework+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_060
+kaī yuvā agriculture sector kī cunautiyōṃ kē samādhān mēṃ juṭē rahē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_061
+sāthiyō, pichalē 7-8 sāl mēṃ 'Smart India Hackathon' mēṃ, 13 lākh sē jyādā students aur 6 hajār sē jyādā Institutes hissā lē cukē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jyādā+lē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_062
+yuvāōṃ nē saiṃkaṛōṃ problems kē saṭīk solutions bhī diē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_063
+is tarah kē Hackathons kā āyōjan samay-samay par hōtā rahatā hai.
+Reduplication: 1 (samay-samay) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (is tarah) | Hyphen Pair: 0
+
+T3_064
+mērā apanē yuvā sāthiyōṃ sē āgrah hai ki vē in Hackathons kā hissā jarūr banēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_065
+sāthiyō, āj kā jīvan Tech-Driven hōtā jā rahā hai aur jō parivartan sadiyōṃ mēṃ ātē thē vō badalāv ham kuch barasōṃ mēṃ hōtē dēkh rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jīvan+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (Tech-Driven)
+
+T3_066
+kaī bār tō kuch lōg ciṃtā jatātē haiṃ ki Robots kahīṃ manuṣyōṃ kō hī n Replace kar dēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_067
+aisē badalatē samay mēṃ Human Development kē liē apanī jaṛōṃ sē juṛē rahanā bahut jarūrī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_068
+mujhē yē dēkhakar bahut khuśī hōtī hai ki hamārī agalī pīṛhī apanī saṃskr̥ti kī jaṛōṃ kō acchī tarah thām rahī hai - naī sōc kē sāth naē tarīkōṃ kē sāth.
+Reduplication: 0 | Conjunctive Verb: 1 (dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (kē sāth, kē sāth) | Hyphen Pair: 0
+
+T3_069
+sāthiyō, āpanē Indian Institute of Science usakā nām tō jarūr sunā hōgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_070
+Research aur Innovation is saṃsthān kī pahacān hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_071
+kuch sāl pahalē vahām̐ kē kuch chātrōṃ nē mahasūs kiyā ki paṛhāī aur Research kē bīc saṃgīt kē liē bhī jagah hōnī cāhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T3_072
+bas yahīṃ sē ēk chōṭī-sī Music Class śurū huī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_073
+nā baṛā maṃc, nā kōī baṛā bajaṭ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_074
+dhīrē-dhīrē yē pahal baṛhatī gaī aur āj isē ham 'Geetanjali IISc' kē nām sē jānatē haiṃ.
+Reduplication: 1 (dhīrē-dhīrē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_075
+yah ab sirph ēk Class nahīṃ, Campus kā sāṃskr̥tik kēṃdr hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_076
+yahām̐ hindustānī śāstrīy saṃgīt hai, lōk paraṃparāēm̐ haiṃ, śāstrīy vidhāēṃ haiṃ, chātr yahām̐ sāth baiṭhakar riyāz karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (baiṭha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_077
+Professor sāth baiṭhatē haiṃ, unakē parivār bhī juṛatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_078
+āj dō-sau sē jyādā lōg isasē juṛē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_079
+aur khās bāt yē ki jō vidēś calē gaē, vō bhī Online juṛakar is Group kī ḍōr thāmē huē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (juṛa-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_080
+sāthiyō, apanī jaṛōṃ sē juṛē rahanē kē yē prayās sirph bhārat tak sīmit nahīṃ hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_081
+duniyā kē alag-alag kōnōṃ aur vahām̐ basē bhāratīy bhī apanī bhūmikā nibhā rahē haiṃ.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_082
+ēk aur udāharaṇ jō hamēṃ dēś sē bāhar lē jātā hai - yē jagah hai 'dubaī'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (dēś+lē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_083
+vahām̐ rahanē vālē kannaṛā parivārōṃ nē khud sē ēk jarūrī savāl pūchā - hamārē baccē Tech-World mēṃ āgē tō baṛh rahēṃ haiṃ, lēkin kahīṃ vō apanī bhāṣā sē dūr tō nahīṃ hō rahē haiṃ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (Tech-World)
+
+T3_084
+yahīṃ sē janm huā 'kannaṛā pāṭhaśālē' kā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_085
+ēk aisā prayās, jahāṃ baccōṃ kō 'kannaṛā' paṛhānā, sīkhanā, likhanā aur bōlanā sikhāyā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_086
+āj isasē ēk hajār sē jyādā baccē juṛē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_087
+vākaī, kannaṛā nāḍu, nuḍī nammā hēmmē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_088
+kannaṛā kī bhūmi aur bhāṣā, hamārā garv hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_089
+sāthiyō, ēk purānī kahāvat hai 'jahāṃ cāh, vahām̐ rāh'.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_090
+is kahāvat kō phir sē sac kar dikhāyā hai maṇipur kē ēk yuvā mōirāṃgathēm sēṭh jī nē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_091
+unakī umr 40 sāl sē bhī kam hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_092
+śrīmān mōirāṃgathēm jī maṇipur kē jis dūr-sudūr kṣētr mēṃ rahatē thē vahām̐ bijalī kī baṛī samasyā thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_093
+is cunautī sē nipaṭanē kē liē unhōṃnē Local Solution par jōr diyā aur unhēṃ yē Solution milā Solar Power mēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (Solution+diyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_094
+hamārē maṇipur mēṃ vaisē bhī Solar Energy paidā karanā āsān hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_095
+tō mōirāṃgathēm jī nē Solar Panel lagānē kā abhiyān calāyā aur is abhiyān kī vajah sē āj unakē kṣētr kē saikaṛōṃ gharōṃ mēṃ Solar Power pahuṃc gaī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 1 (Solar+gaī) | Honorific: 0 | Acronym: 0 | MWE: 1 (kī vajah sē) | Hyphen Pair: 0
+
+T3_096
+khās bāt yē hai ki unhōṃnē Solar Power kā upayōg Health-Care aur ājīvikā kō bēhatar banānē kē liē kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 1 (Health-Care)
+
+T3_097
+āj unakē prayāsōṃ sē maṇipur mēṃ kaī Health Centers kō bhī Solar Power mil rahī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_098
+unakē is kām sē maṇipur kī nārī-śakti kō bhī bahut lābh milā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_099
+sthānīy machuārōṃ aur kalākārōṃ kō bhī isasē madad milī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_100
+sāthiyō, āj sarakār 'PM sūry ghar muft bijalī yōjanā' kē tahat har lābhārthī parivār kō Solar Panel lagānē kē liē karīb-karīb 75 sē 80 hajār rupaē dē rahī hai.
+Reduplication: 1 (karīb-karīb) | Conjunctive Verb: 0 | Compound Verb: 1 (80+dē) | Honorific: 0 | Acronym: 1 (PM) | MWE: 1 (kē tahat) | Hyphen Pair: 0
+
+T3_101
+mōirāṃgathēm jī kē yē prayās yūṃ tō vyaktigat prayās haiṃ, lēkin Solar Power sē juṛē har abhiyān kō naī gati dē rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_102
+maiṃ 'man kī bāt' kē mādhyam sē unhēṃ apanī śubhakāmanāēm̐ dētā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_103
+mērē pyārē dēśavāsiyō, āiē ab jarā ham jammū-kaśmīr kī taraph calatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_104
+jammū-kaśmīr kī sāṃskr̥tik aur aitihāsik virāsat, usakī ēk aisī gāthā sājhā karanā cāhatā hūm̐, jō āpakō garv sē bhar dēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_105
+jammū-kaśmīr kē bārāmūlā mēṃ, jēhanapōrā nām kī ēk jagah hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_106
+vahāṃ lōg barasōṃ sē kuch ūṃcē-ūṃcē ṭīlē dēkhatē ā rahē thē.
+Reduplication: 1 (ūṃcē-ūṃcē) | Conjunctive Verb: 0 | Compound Verb: 1 (ūṃcē+ā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_107
+sādhāraṇ sē ṭīlē kisī kō nahīṃ patā thā ki yē kyā hai?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_108
+phir ēk din Archaeologist kī nazar in par paṛī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (nazar+paṛī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_109
+jab unhōṃnē is ilākē kō dhyān sē dēkhanā śurū kiyā, tō yē ṭīlē kuch alag lagē.
+Reduplication: 0 | Conjunctive Verb: 1 (ilā-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_110
+isakē bād in ṭīlōṃ kā vaijñānik adhyayan śurū kiyā gayā.
+Reduplication: 0 | Conjunctive Verb: 1 (isa-kē) | Compound Verb: 1 (adhyayan+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_111
+ḍrōn kē zariē ūpar sē tasvīrēṃ lī gaīṃ, zamīn kī Mapping kī gaī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (ūpar+lī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_112
+aur phir kuch hairān karanē vālī bātēṃ sāmanē ānē lagī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_113
+patā calā yē ṭīlē prākr̥tik nahīṃ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_114
+yē iṃsān dvārā banāī gaī kisī baṛī imārat kē avaśēṣ haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (iṃsān+gaī) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_115
+isī daurān ēk aur dilacasp kaṛī juṛī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_116
+kaśmīr sē hajārōṃ kilōmīṭar dūr, frāṃs kē ēk Museum kē Archives mēṃ ēk purānā, dhuṃdhalā sā citr milā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_117
+bārāmūlā kē us citr mēṃ tīn bauddh stūp najar ā rahē thē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (bauddh+ā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_118
+yahīṃ sē samay nē karavaṭ lī aur kaśmīr kā ēk gauravaśālī atīt hamārē sāmanē āyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 2 (samay+lī, atīt+āyā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_119
+yē karīb dō hajār sāl purānā itihās hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_120
+kaśmīr kē jēhanapōrā kā yē bauddh parisar hamēṃ yād dilātā hai, kaśmīr kā atīt kyā thā, usakī pahacān kitanī samr̥ddh thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_121
+mērē pyārē dēśavāsiyō, ab maiṃ āpasē bhārat sē hajārōṃ kilōmīṭar dūr, ēk aisē prayās kī bāt karanā cāhatā hūm̐, jō dil kō chū lēnē vālā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_122
+Fiji mēṃ bhāratīy bhāṣā aur saṃskr̥ti kē prasār kē liē ēk sarāhanīy pahal hō rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_123
+vahām̐ kī naī pīṛhī kō tamil bhāṣā sē jōṛanē kē liē kaī starōṃ par lagātār prayās kiē jā rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (lagātār+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_124
+pichalē mahīnē Fiji kē rākī-rākī ilākē mēṃ vahām̐ kē ēk skūl mēṃ pahalī bār tamil divas manāyā gayā.
+Reduplication: 1 (rākī-rākī) | Conjunctive Verb: 1 (ilā-kē) | Compound Verb: 1 (tamil+gayā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_125
+us din baccōṃ kō ēk aisā maṃc milā, jahāṃ unhōṃnē apanī bhāṣā par khulē dil sē gaurav vyakt kiyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_126
+baccōṃ nē tamil mēṃ kavitāēm̐ sunāī, bhāṣaṇ diē aur apanī saṃskr̥ti kō pūrē ātmaviśvās kē sāth maṃc par utārā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_127
+sāthiyō, dēś kē bhītar bhī tamil bhāṣā kē pracār kē liē lagātār kām hō rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_128
+kuch din pahalē hī mērē saṃsadīy kṣētr kāśī mēṃ cauthā 'kāśī tamil saṃgamam' huā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_129
+ab maiṃ āpakō ēk audio clip sunānē jā rahā hūm̐.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (audio+jā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_130
+āp suniē aur aṃdāzā lagāiē tamil bōlanē kī kōśiś kar rahē yē baccē kahāṃ kē haiṃ?
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_131
+# (Audio Clip 1 pāyal) # sāthiyō, āpakō jānakār hairānī hōgī tamil bhāṣā mēṃ itanī sahajatā sē apanī bāt rakhanē vālē yē baccē kāśī kē haiṃ, vārāṇasī kē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_132
+inakī mātr̥bhāṣā hindī hai, lēkin tamil bhāṣā kē prati lagāv nē inhēṃ tamil sīkhanē kē liē prērit kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_133
+is sāl vārāṇasī mēṃ 'kāśī tamil saṃgamam' kē daurān tamil sīkhanē par khās zōr diyā gayā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_134
+Learn Tamil - 'tamil karākalam' is Theme kē tahat vārāṇasī kē 50 sē jyādā skūlōṃ mēṃ viśēṣ abhiyān bhī calāē gaē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (abhiyān+gaē) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē tahat) | Hyphen Pair: 0
+
+T3_135
+isī kā natījā hamēṃ is audio clip mēṃ sunāī dētā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_136
+# (Audio Clip 2 vaiṣṇavī) # sāthiyō, tamil bhāṣā duniyā kī sabasē prācīn bhāṣā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_137
+tamil sāhity bhī atyaṃt samr̥ddh hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_138
+maiṃnē 'man kī bāt' mēṃ 'kāśī tamil saṃgamam' mēṃ bhāg lēnē kā āgrah kiyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_139
+mujhē khuśī hai ki āj dēś kē dūsarē hissōṃ mēṃ bhī baccōṃ aur yuvāōṃ kē bīc tamil bhāṣā kō lēkar nayā ākarṣaṇ dikh rahā hai - yahī bhāṣā kī tākat hai, yahī bhārat kī ēkatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bīc) | Hyphen Pair: 0
+
+T3_140
+sāthiyō, agalē mahīnē ham dēś kā 77vām̐ gaṇataṃtr divas manāēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_141
+jab bhī aisē avasar ātē haiṃ, tō hamārā man svataṃtratā sēnāniyōṃ aur saṃvidhān nirmātāōṃ kē prati kr̥tajñatā kē bhāv sē bhar jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (bhāv+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_142
+hamārē dēś nē ājādī pānē kē liē laṃbā saṃgharṣ kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_143
+ājādī kē āṃdōlan mēṃ dēś kē har hissē kē lōgōṃ nē apanā yōgadān diyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_144
+lēkin, durbhāgy sē ājādī kē anēkōṃ nāyak-nāyikāōṃ kō vō sammān nahīṃ milā, jō unhēṃ milanā cāhiē thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_145
+aisī hī ēk svataṃtratā sēnānī haiṃ - ōḍiśā kī pārvatī giri jī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_146
+janavarī 2026 mēṃ unakī janm-śatābdī manāī jāēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_147
+unhōṃnē 16 varṣ kī āyu mēṃ 'bhārat chōṛō āṃdōlan' mēṃ hissā liyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_148
+sāthiyō, ājādī kē āṃdōlan kē bād pārvatī giri jī nē apanā jīvan samāj sēvā aur janajātīy kalyāṇ kō samarpit kar diyā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē bād) | Hyphen Pair: 0
+
+T3_149
+unhōṃnē kaī anāthālayōṃ kī sthāpanā kī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_150
+unakā prērak jīvan har pīṛhī kā mārgadarśan karatā rahēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_151
+"mūm̐ pārvatī giri jiṃku śraddhāṃjali arpaṇ karuchī" (maiṃ pārvatī girī jī kō śraddhāṃjali arpit karatā hūm̐) sāthiyō, yē hamārā dāyitv hai ki ham apanī virāsat kō nā bhūlēṃ| ham ājādī dilānē vālē nāyak-nāyikāōṃ kī mahān gāthā kō agalī pīṛhī tak pahuṃcāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_152
+āpakō yād hōgā jab hamārī ājādī kē 75 varṣ huē thē, tab sarakār nē ēk viśēṣ website taiyār kī thī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_153
+isamēṃ ēk vibhāg 'Unsung Heroes' kō samarpit kiyā gayā thā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_154
+āj bhī āp is website par visit karakē un mahān vibhūtiyōṃ kē bārē mēṃ jān sakatē haiṃ jinakī dēś kō ājādī dilānē mēṃ bahut baṛī bhūmikā rahī hai.
+Reduplication: 0 | Conjunctive Verb: 1 (kara-kē) | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_155
+mērē pyārē dēśavāsiyō, 'man kī bāt' kē jariē hamēṃ samāj kī bhalāī sē juṛē mahatvapūrṇ viṣayōṃ par carcā karanē kā ēk bahut acchā avasar milatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_156
+āj maiṃ ēk aisē muddē par bāt karanā cāhatā hūm̐, jō ham sabhī kē liē ciṃtā kā viṣay ban gayā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_157
+ICMR yāni Indian Council of Medical Research nē hāl hī mēṃ ēk report jārī kī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (ICMR) | MWE: 0 | Hyphen Pair: 0
+
+T3_158
+isamēṃ batāyā gayā hai ki nimōniyā aur UTI jaisī kaī bīmāriyōṃ kē khilāph antibiotic davāēṃ kamajōr sābit hō rahī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (isamēṃ+gayā) | Honorific: 0 | Acronym: 1 (UTI) | MWE: 0 | Hyphen Pair: 0
+
+T3_159
+ham sabhī kē liē yah bahut hī ciṃtājanak hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_160
+report kē mutābik isakā ēk baṛā kāraṇ lōgōṃ dvārā binā sōcē-samajhē antibiotic davāōṃ kā sēvan hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_161
+antibiotic aisī davāēṃ nahīṃ haiṃ, jinhēṃ yūṃ hī lē liyā jāē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jinhēṃ+lē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_162
+inakā istēmāl Doctor kī salāh sē hī karanā cāhiē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_163
+ājakal lōg yē mānanē lagē haiṃ ki bas ēk gōlī lē lō, har takalīph dūr hō jāēgī.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (bas+lē) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_164
+yahī vajah hai ki bīmāriyām̐ aur saṃkramaṇ in antibiotic davāōṃ par bhārī paṛ rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (davāōṃ+paṛ) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_165
+maiṃ āp sabhī sē āgrah karatā hūm̐ ki kr̥payā apanī manamarjī sē davāōṃ kā istēmāl karanē sē bacēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_166
+Antibiotic davāōṃ kē māmalē mēṃ tō is bāt kā dhyān rakhanā bahut jarūrī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_167
+maiṃ tō yahī kahūm̐gā - Medicines kē liē Guidance aur Antibiotics kē liē Doctors kī jarūrat hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_168
+yah ādat āpakī sēhat kō bēhatar banānē mēṃ bahut madadagār sābit hōnē vālī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_169
+mērē pyārē dēśavāsiyō, hamārī pāraṃparik kalāēṃ samāj kō saśakt karanē kē sāth hī lōgōṃ kī ārthik pragati kā bhī baṛā mādhyam ban rahī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_170
+āṃdhr pradēś kē nārasāpuram jilē kī Lace Craft (lēs krāphṭ) kī carcā ab pūrē dēś mēṃ baṛh rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_171
+yē Lace Craft (lēs krāphṭ) kaī pīṛhiyōṃ sē mahilāōṃ kē hāthōṃ mēṃ rahī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_172
+bahut dhairy aur bārīkī kē sāth dēś kī nārī-śakti nē isakā saṃrakṣaṇ kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_173
+āj is paraṃparā kō ēk naē raṃg rūp kē sāth āgē lē jāyā jā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (jāyā+jā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_174
+āṃdhr pradēś sarakār aur NABARD milakar kārīgarōṃ kō naē design sikhā rahē haiṃ, bēhatar skill training dē rahē haiṃ aur naē bājār sē jōṛ rahē haiṃ .
+Reduplication: 0 | Conjunctive Verb: 1 (mila-kar) | Compound Verb: 1 (bēhatar+dē) | Honorific: 0 | Acronym: 1 (NABARD) | MWE: 0 | Hyphen Pair: 0
+
+T3_175
+nārasāpuram Lace kō GI Tag bhī milā hai .
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 1 (GI) | MWE: 0 | Hyphen Pair: 0
+
+T3_176
+āj isasē 500 sē jyādā products ban rahē haiṃ aur ṛhāī-sau sē jyādā gāṃvōṃ mēṃ karīb-karīb 1 lākh mahilāōṃ kō isasē kām mil rahā hai.
+Reduplication: 1 (karīb-karīb) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_177
+sāthiyō, 'man kī bāt' aisē lōgōṃ kō sāmanē lānē kā bhī maṃc hai jō apanē pariśram sē nā sirph pāraṃparik kalāōṃ kō āgē baṛhā rahē haiṃ balki isasē sthānīy lōgōṃ kō saśakt bhī kar rahē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (balki) | Hyphen Pair: 0
+
+T3_178
+maṇipur kē curācāṃdapur mēṃ Margaret Ramtharsiem jī unakē prayās aisē hī haiṃ.
+Reduplication: 0 | Conjunctive Verb: 1 (una-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_179
+unhōṃnē maṇipur kē pāraṃparik utpādōṃ kō, vahām̐ kē handicraft kō, bāṃs aur lakaṛī sē banī cījōṃ kō, ēk baṛē vision kē sāth dēkhā aur isī vision kē kāraṇ, vō ēk handicraft artist sē lōgōṃ kē jīvan kō badalanē kā mādhyam ban gaīṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_180
+āj Margaret jī kī unit usamēṃ 50 sē jyādā artist kām kar rahē haiṃ aur unhōṃnē apanī mēhanat sē dillī samēt dēś kē kaī rājyōṃ mēṃ, apanē products kā ēk market bhī develop kiyā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_181
+sāthiyō, maṇipur sē hī ēk aur udāharaṇ sēnāpati jilē kī rahanē vālī cōkhōnē kricēnā jī kā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_182
+unakā pūrā parivār paraṃparāgat khētī sē juṛā rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_183
+kricēnā nē is pāraṃparik anubhav kō ēk aur vistār diyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_184
+unhōṃnē phūlōṃ kī khētī kō apanā passion banāyā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_185
+āj vō is kām sē alag-alag markets kō jōṛ rahīṃ haiṃ aur apanē ilākē kī local communities kō bhī Empower kar rahī haiṃ.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 1 (ilā-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_186
+sāthiyō, yē udāharaṇ is bāt kā paryāy hai ki agar pāraṃparik jñān kō ādhunik vision kē sāth āgē baṛhāēṃ tō yē ārthik pragati kā baṛā mādhyam ban jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (baṛā+jātā) | Honorific: 0 | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_187
+āpakē āsapās bhī aisī success stories hōṃ, tō mujhē jarūr share kariē.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_188
+sāthiyō, hamārē dēś kī sabasē khūbasūrat bāt yē hai ki sālabhar har samay dēś kē kisī-nā-kisī hissē mēṃ utsav kā māhaul rahatā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_189
+alag-alag parv-tyōhār tō haiṃ hī, sāth hī vibhinn rājyōṃ kē sthānīy utsav bhī āyōjit hōtē rahatē haiṃ.
+Reduplication: 1 (alag-alag) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_190
+yāni, agar āp ghūmanē kā man banāēṃ, tō har samay, dēś kā kōī-nā-kōī kōnā apanē unique utsav kē sāth taiyār milēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_191
+aisā hī ēk utsav in dinōṃ kacch kē raṇ mēṃ cal rahā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_192
+is sāl kacch raṇōtsav kā yē āyōjan 23 navaṃbar sē śurū huā hai, jō 20 pharavarī tak calēgā.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_193
+yahām̐ kacch kī lōk saṃskr̥ti, lōk saṃgīt, nr̥ty aur hastaśilp kī vividhatā dikhāī dētī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_194
+kacch kē saphēd raṇ kī bhavyatā dēkhanā apanē āp mēṃ ēk sukhad anubhav hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_195
+rāt kē samay jab saphēd raṇ kē ūpar cām̐danī phailatī hai, vahām̐ kā dr̥śy apanē āp mēṃ maṃtramugdh kar dēnē vālā hōtā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 1 (kē ūpar) | Hyphen Pair: 0
+
+T3_196
+raṇ utsav kā Tent City bahut lōkapriy hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_197
+mujhē jānakārī milī hai ki pichalē ēk mahīnē mēṃ ab tak 2 lākh sē jyādā lōg raṇōtsav kā hissā ban cukē haiṃ aur dēś kē kōnē-kōnē sē āē haiṃ, vidēś sē bhī lōg āē haiṃ.
+Reduplication: 1 (kōnē-kōnē) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_198
+āpakō jab bhī avasar milē, tō aisē utsavōṃ mēṃ jarūr śāmil hōṃ aur bhārat kī vividhatā kā ānad uṭhāēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_199
+sāthiyō, 2025 mēṃ 'man kī bāt' kā yē ākhirī episode hai, ab ham sāl 2026 mēṃ aisē hī umaṃg aur utsāh kē sāth, apanēpan kē sāth apanē 'man kī bātōṃ' kō karanē kē liē 'man kī bāt' kē kāryakram mēṃ jarūr juṛēṃgē.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 2 (kē sāth, kē sāth) | Hyphen Pair: 0
+
+T3_200
+naī ūrjā, naē viṣay aur prēraṇā sē bhar dēnē vālī dēśavāsiyōṃ kī anaginit gāthāōṃ 'man kī bāt' mēṃ ham sabakō jōṛatī hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_201
+har mahīnē mujhē aisē anēk saṃdēś milatē haiṃ, jisamēṃ 'vikasit bhārat' kō lēkar lōg apanā vision sājhā karatē haiṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_202
+lōgōṃ sē milanē vālē sujhāv aur is diśā mēṃ unakē prayāsōṃ kō dēkhakar yē viśvās aur majabūt hōtā hai aur jab yē sab bātēṃ mērē tak pahum̐catī haiṃ, tō 'vikasit bhārat' kā saṃkalp jarūr siddh hōgā.
+Reduplication: 0 | Conjunctive Verb: 2 (una-kē, dēkha-kar) | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_203
+yē viśvās dinōṃ din majabūt hōtā jātā hai.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 1 (din+jātā) | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_204
+sāl 2026 is saṃkalp siddhi kī yātrā mēṃ ēk aham paṛāv sābit hō, āpakā aur āpakē parivār kā jīvan khuśahāl hō, isī kāmanā kē sāth is episode mēṃ vidāī lēnē sē pahalē maiṃ jarūr kahūm̐gā, 'Fit India Movement' āp kō bhī fit rahanā hai.
+Reduplication: 0 | Conjunctive Verb: 1 (āpa-kē) | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 1 (kē sāth) | Hyphen Pair: 0
+
+T3_205
+ṭhaṃḍī kā yē mausam vyāyām kē liē bahut upayukt hōtā hai, vyāyām jarūr karēṃ.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_206
+āp sabhī kō 2026 kī bahut-bahut śubhakāmanāēṃ.
+Reduplication: 1 (bahut-bahut) | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 1 (āp) | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_207
+dhanyavād.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
+T3_208
+vaṃdē mātaram.
+Reduplication: 0 | Conjunctive Verb: 0 | Compound Verb: 0 | Honorific: 0 | Acronym: 0 | MWE: 0 | Hyphen Pair: 0
+
